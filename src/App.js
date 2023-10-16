@@ -22,7 +22,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
-        <Route path="/Service-Project" element={<Home />} />
+        <Route path="/Service-buy" element={<Home />} />
         <Route path="/book-service" element={<BookService />} />
         <Route path="/admin-login" element={<Login />} />
         {/* {token === "admin" && */}
