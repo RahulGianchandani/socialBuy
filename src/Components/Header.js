@@ -25,14 +25,14 @@ const Header = () => {
         localStorage.removeItem('token');
     }
     return (
-        <nav class={`navbar navbar-expand-lg header ${navBg ? "sticky" : ""} max-sm:py-0 bg-black  `}>
-            <div class="container-fluid px-64 py-0">
-                <div id='imgDiv' className='navbar-brand py-0 h-[70px] w-[70px]'>
+        <nav class={`navbar navbar-expand-lg header `}>
+            <div class="container px-[120px] py-[25px]">
+                <div id='imgDiv' className='navbar-brand py-0  max-h-[40px] max-w-[186px]'>
                     <NavLink
                         to="/"
                         className={" text-decoration-none "}
                     >
-                        <img src={"https://source.unsplash.com/random/70x70/?logo"} className='inline rounded-full' />
+                        <img src={"https://userviral.b-cdn.net/assets/images/uvlogo1-768x150-1.png"} className='inline rounded-full  h-full w-full' />
                     </NavLink>
 
                 </div>
@@ -42,56 +42,55 @@ const Header = () => {
                 <div class="collapse navbar-collapse justify-end " id="navbarSupportedContent">
                     <ul class="navbar-nav  mb-2 mb-lg-0 ">
                         <NavLink
-                            to="/"
-                            className={` text-decoration-none fw-bold text-white ${location.pathname === "/home" ? "active" : ""}`}
+                            to="-"
+                            className={` text-decoration-none fw-bold px-[20px] py-[5px] `}
                         >
-                            Home
+                            Services
                         </NavLink>
-                        {(location.pathname === "/" || location.pathname === "/home") && <> <span
-                            onClick={() => window.location.replace("/#aboutSec")}
-                            className={" text-decoration-none text-white text-sm cursor-pointer ms-lg-5 fw-bold"}
-                        >
-                            About Us
-                        </span>
-                            <span
-                                onClick={() => window.location.replace("/#whatwedoSec")}
-                                className={" text-decoration-none text-white text-sm cursor-pointer ms-lg-5 fw-bold"}
-                            >
-                                What We Do
-                            </span>
-                            <span
-                                onClick={() => window.location.replace("/#qualitySec")}
-                                className={" text-decoration-none text-white text-sm cursor-pointer ms-lg-5 fw-bold"}
-                            >
-                                Quality
-                            </span>
-                        </>}
-
                         <NavLink
-                            to="/book-service"
-                            className={" text-decoration-none text-white ms-lg-5 fw-bold"}
+                            to="-"
+                            className={` text-decoration-none fw-bold px-[20px] py-[5px] `}
                         >
-                            Book Services
+                            Customer Reviews
                         </NavLink>
+                        <NavLink
+                            to="-"
+                            className={` text-decoration-none fw-bold px-[20px] py-[5px] `}
+                        >
+                            Check Order
+                        </NavLink>
+                        <NavLink
+                            to="-"
+                            className={` text-decoration-none fw-bold px-[20px] py-[5px] `}
+                        >
+                            Support
+                        </NavLink>
+                        <NavLink
+                            to="-"
+                            className={` text-decoration-none fw-bold px-[20px] py-[5px] `}
+                        >
+                            Get Started
+                        </NavLink>
+                  
                         {/* {!token === "admin" && */}
-                            <NavLink
+                            {/* <NavLink
                                 to="/admin-login"
                                 className={" text-decoration-none text-white ms-lg-5 fw-bold"}
                             >
                                 Admin
-                            </NavLink>
+                            </NavLink> */}
                         {/* } */}
                         {/* {token === "admin" && */}
-                            <NavLink
+                            {/* <NavLink
                                 to="/admin-dashboard"
                                 className={" text-decoration-none text-white ms-lg-5 fw-bold"}
                             >
                                 Dashboard
-                            </NavLink>
+                            </NavLink> */}
                         {/* } */}
-                        {token === "admin" &&
+                        {/* {token === "admin" &&
                             <span className='text-sm cursor-pointer ms-lg-5 fw-bold text-white' onClick={logout}> Logout</span>
-                        }
+                        } */}
 
                     </ul>
                 </div>
