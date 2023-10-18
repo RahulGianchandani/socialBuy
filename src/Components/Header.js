@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import logo from '../images/logo.svg'
 import { NavLink, useLocation } from 'react-router-dom'
 import { RxHamburgerMenu } from 'react-icons/rx'
+import { MdKeyboardArrowUp, MdKeyboardArrowDown } from 'react-icons/md'
 const Header = () => {
     const token = localStorage.getItem('token');
     const [navBg, setNavBg] = useState(false);
@@ -42,10 +43,42 @@ const Header = () => {
                 <div class="collapse navbar-collapse justify-end " id="navbarSupportedContent">
                     <ul class="navbar-nav  mb-2 mb-lg-0 ">
                         <NavLink
-                            to="-"
-                            className={` text-decoration-none fw-bold px-[20px] py-[5px] `}
+                            to="/serviced"
+                            className={`serviceNav text-decoration-none fw-bold px-[20px] py-[5px] relative `}
                         >
-                            Services
+                            Services  <MdKeyboardArrowUp className='inline arrowUpIcon' size={20} />
+                            <ul class="sub-menu ">
+                                <li id="menu-item-0" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
+                                    <a href="https://useviral.com/instagram" class=" ">
+                                        <img width="24" height="24" src="https://userviral.b-cdn.net/assets/images/small/instagram.png" class="menu-image  inline " alt="" loading="eager" />
+                                        <span class=" pl-[20px] menu-image-title font-normal text-black">Instagram</span>
+                                    </a>
+                                </li> <li id="menu-item-1" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
+                                    <a href="https://useviral.com/youtube" class=" ">
+                                        <img width="24" height="24" src="https://userviral.b-cdn.net/assets/images/small/youtube.png" class="menu-image  inline " alt="" loading="eager" />
+                                        <span class=" pl-[20px] menu-image-title font-normal text-black">YouTube</span>
+                                    </a>
+                                </li> <li id="menu-item-4" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
+                                    <a href="https://useviral.com/facebook" class=" ">
+                                        <img width="24" height="24" src="https://userviral.b-cdn.net/assets/images/small/facebook.png" class="menu-image  inline " alt="" loading="eager" />
+                                        <span class=" pl-[20px] menu-image-title font-normal text-black">Facebook</span>
+                                    </a>
+                                </li>  <li id="menu-item-8" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
+                                    <a href="https://useviral.com/twitch" class=" ">
+                                        <img width="24" height="24" src="https://userviral.b-cdn.net/assets/images/small/twitch.png" class="menu-image  inline " alt="" loading="eager" />
+                                        <span class=" pl-[20px] menu-image-title font-normal text-black">Twitch</span>
+                                    </a>
+                                </li> <li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
+                                    <a href="https://useviral.com/discord" class=" ">
+                                        <img width="24" height="24" src="https://userviral.b-cdn.net/assets/images/small/discord.png" class="menu-image  inline " alt="" loading="eager" />
+                                        <span class=" pl-[20px] menu-image-title font-normal text-black">Discord</span>
+                                    </a>
+                                </li> <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
+                                    <a href="https://useviral.com/telegram" class=" ">
+                                        <img width="24" height="24" src="https://userviral.b-cdn.net/assets/images/small/telegram.png" class="menu-image  inline " alt="" loading="eager" />
+                                        <span class=" pl-[20px] menu-image-title font-normal text-black">Telegram</span>
+                                    </a>
+                                </li> </ul>
                         </NavLink>
                         <NavLink
                             to="-"
@@ -71,9 +104,9 @@ const Header = () => {
                         >
                             Get Started
                         </NavLink>
-                  
+
                         {/* {!token === "admin" && */}
-                            {/* <NavLink
+                        {/* <NavLink
                                 to="/admin-login"
                                 className={" text-decoration-none text-white ms-lg-5 fw-bold"}
                             >
@@ -81,7 +114,7 @@ const Header = () => {
                             </NavLink> */}
                         {/* } */}
                         {/* {token === "admin" && */}
-                            {/* <NavLink
+                        {/* <NavLink
                                 to="/admin-dashboard"
                                 className={" text-decoration-none text-white ms-lg-5 fw-bold"}
                             >

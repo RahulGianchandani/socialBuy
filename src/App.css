@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700;800;900&family=Poppins:wght@300;400&family=Source+Sans+3:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 * {
   margin: 0;
@@ -9,15 +10,55 @@
 }
 
 body {
-  font-family: "Jost", Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans 3', sans-serif;
 }
 
-.theme-blue-color {
-  color: #3385d7;
+.services-heading {
+  color: rgba(17, 51, 83, .3);
+  font-size: 14px;
 }
 
-.theme-dark-blue {
-  color: #1f2e88;
+.text-brand {
+  color: #f52159 !important;
+}
+
+.full-width {
+  width: 100%;
+  max-width: 100%;
+}
+
+.brand-bordered-btn {
+  font-size: 16px;
+  font-weight: 700;
+  fill: #f52159;
+  color: #f52159;
+  background-color: rgba(2, 1, 1, 0);
+  border-style: solid;
+  border-width: 2px;
+  border-color: #f52159;
+  display: inline-block;
+  line-height: 1;
+  padding: 12px 24px;
+  border-radius: 3px;
+  text-align: center;
+  -webkit-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+}
+
+.lato {
+  font-family: 'Lato', sans-serif;
+}
+
+h2,
+h4,
+h5 {
+  font-family: 'Lato', sans-serif;
+
+}
+
+.bg-brand {
+  background-color: #f52159 !important;
 }
 
 /************ HEADER  ************/
@@ -27,7 +68,7 @@ body {
   top: 0;
   z-index: 100; */
   width: 100%;
-  border-bottom: 1px solid rgba(0,0,0,6%);
+  border-bottom: 1px solid rgba(0, 0, 0, 6%);
 }
 
 .header a.active {
@@ -36,15 +77,42 @@ body {
 
 
 
+.header ul ul a {
+  width: 200px;
+  line-height: 40px;
+}
+
+
+.header ul.sub-menu {
+  overflow: hidden;
+  height: 0;
+  width: 0;
+
+}
+
+
+.header .serviceNav:hover ul.sub-menu,
+.header .serviceNav:focus ul.sub-menu {
+  box-shadow: 0 3px 3px rgba(0, 0, 0, .2);
+  background-color: white;
+  z-index: 400;
+  width: 230px;
+  position: absolute;
+  padding: 10px 20px;
+  top: 30px;
+  height: max-content;
+}
+
+.header .serviceNav:hover .arrowUpIcon,
+.header .serviceNav:focus .arrowUpIcon {
+  transform: rotate(180deg);
+}
 
 .header.sticky {
   background-color: #000000;
 
 }
 
-.header ul a {
-  font-size: 14px;
-}
 
 /************ HEADER ENDS  ************/
 
@@ -52,23 +120,11 @@ body {
 /************ FOOTER  ************/
 footer#footer {
   /* background-image: url(./images/dentist4-footer-bg.webp); */
-    /* background-repeat: no-repeat;
+  /* background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
     background-color: #000000; */
 }
-
-
-
-/************ FOOTER ENDS  ************/
-
-
-/************ HOME LANDING PAGE   ************/
-
-/******** header   ********/
-
-#homePage header {}
-
 
 footer .whatsappICON {
   background-color: #16f00e;
@@ -79,4 +135,138 @@ footer .whatsappICON {
   left: 15px;
   padding: 5px;
   position: fixed;
+}
+
+
+
+/************ FOOTER ENDS  ************/
+
+
+
+
+
+/************ HOME LANDING PAGE   ************/
+
+
+#homePage .heading h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+}
+
+#homePage #services .container {
+  box-shadow: 0 26px 58px 0 rgba(0, 0, 0, .22), 0 5px 14px 0 rgba(0, 0, 0, .18);
+}
+
+
+.icon-section .container>div {
+  margin: 0 0;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ececec;
+  padding: 80px;
+}
+
+.icon-section h3 {
+  font-size: 22px;
+  line-height: 2em;
+  letter-spacing: .2px;
+}
+
+.get-started-container h2 {
+  line-height: 1.2;
+}
+
+.get-started-container p {
+  line-height: 1.2;
+  margin: 0;
+}
+
+.white-bordered-btn:hover {
+  background-color: #fff;
+  color: #f52159;
+}
+
+.white-bordered-btn {
+  font-weight: 700;
+  fill: #fff;
+  color: #fff;
+  background-color: rgba(2, 1, 1, 0);
+  border-style: solid;
+  border-width: 2px;
+  border-color: #fff;
+  border-radius: 4px;
+  display: block;
+  font-size: 18px;
+  letter-spacing: .5px;
+  max-width: 200px;
+}
+
+.get-started-container {
+  transition: .3s, border .3s, border-radius .3s, box-shadow .3s;
+  margin: 11px auto 50px;
+  border-radius: 12px;
+}
+
+/* MEDIA QUERIES */
+@media (min-width: 769px) {
+  .services-heading-col-1 {
+    width: 55%;
+    padding: 10px;
+  }
+
+  .services-heading-col-2 {
+    width: 15%;
+    padding: 10px;
+  }
+
+  .services-heading-col-3 {
+    width: 14.752%;
+    padding: 10px;
+  }
+
+  .services-heading-col-4 {
+    width: 15%;
+    padding: 10px;
+  }
+
+  .services-col-1 {
+    width: 5%;
+    padding: 10px;
+  }
+
+  .services-col-2 {
+    width: 50%;
+    padding: 10px;
+  }
+
+  .services-col-3 {
+    width: 15%;
+    padding: 10px;
+  }
+
+  .services-col-4 {
+    width: 15.707%;
+    padding: 10px;
+  }
+}
+
+@media (min-width: 1100px) {
+  .get-started-container h2 {
+    font-size: 72px;
+    padding: 40px 0 0;
+  }
+
+  .get-started-container p {
+    font-size: 26px;
+    padding: 40px 0;
+  }
+
+  .white-bordered-btn {
+    padding: 20px;
+  }
+
+  .get-started-container p {
+    font-size: 26px;
+    padding: 40px 0;
+  }
 }
