@@ -207,6 +207,65 @@ footer .whatsappICON {
   border-radius: 12px;
 }
 
+#FAQsection .accordion-item:hover h5 {
+  color: white;
+}
+
+#FAQsection .according-item {
+  border: 0 !important;
+}
+
+.accordion-button:not(.collapsed)::after,
+.accordion-button:hover::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+
+
+.accordion-button:not(.collapsed) {
+  background-color: #1b60ef;
+}
+
+.accordion-button:not(.collapsed) .accordion-body {
+  opacity: 1;
+}
+
+.brand-bordered-btn:hover {
+  color: #fff;
+  background-color: #f52159;
+}
+
+.accordion-button:not(.collapsed) h5 {
+  color: white;
+}
+
+
+h5.accordion,
+h3.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: .4s;
+  margin-bottom: 10px;
+  border-radius: 0;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+#FAQsection div.panel p {
+  font-size: 18px;
+  line-height: 2rem;
+  letter-spacing: .3px;
+  margin-bottom: 1.5em;
+  font-family: source sans pro, sans-serif;
+  color: rgb(42, 54, 61);
+}
+
 /* MEDIA QUERIES */
 @media (min-width: 769px) {
   .services-heading-col-1 {

@@ -46,7 +46,7 @@ const Header = () => {
                             to="/serviced"
                             className={`serviceNav text-decoration-none fw-bold px-[20px] py-[5px] relative `}
                         >
-                            Services  <MdKeyboardArrowUp className='inline arrowUpIcon' size={20} />
+                            Services  <MdKeyboardArrowUp className='inline arrowUpIcon duration-300' size={20} />
                             <ul class="sub-menu ">
                                 <li id="menu-item-0" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
                                     <a href="https://useviral.com/instagram" class=" ">
