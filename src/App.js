@@ -21,7 +21,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
-        <Route path="/ServiceBuy" element={<Home />} />
+        <Route path="/socialBuy" element={<Home />} />
         {/* <Route path="/admin-login" element={<Login />} /> */}
         {/* {token === "admin" && */}
           {/* <Route path="/admin-dashboard" element={<AdminDashboard />} /> */}
