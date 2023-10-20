@@ -42,9 +42,8 @@ const Header = () => {
                 </button>
                 <div class="collapse navbar-collapse justify-end " id="navbarSupportedContent">
                     <ul class="navbar-nav  mb-0 mb-lg-0">
-                        <NavLink
-                            to="/serviced"
-                            className={`serviceNav text-decoration-none  fw-bold lg:px-[20px] max-lg:border-t max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] relative  max-lg:flex max-lg:justify-between`}
+                        <span
+                            className={`cursor-pointer serviceNav text-decoration-none  fw-bold lg:px-[20px] max-lg:border-t max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] relative  max-lg:flex max-lg:justify-between`}
                         >
                             Services  <MdKeyboardArrowUp className='inline arrowUpIcon duration-300' size={20} />
                             <ul class="sub-menu absolute  max-lg:!top-[50px]">
@@ -79,9 +78,9 @@ const Header = () => {
                                         <span class=" pl-[20px] menu-image-title font-normal text-black">Telegram</span>
                                     </a>
                                 </li> </ul>
-                        </NavLink>
+                        </span>
                         <NavLink
-                            to="-"
+                            to="customer-reviews"
                             className={` text-decoration-none  fw-bold lg:px-[20px]  max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] `}
                         >
                             Customer Reviews
