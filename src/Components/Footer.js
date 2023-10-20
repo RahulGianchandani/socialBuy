@@ -8,7 +8,7 @@ const Footer = () => {
         <footer id='footer'>
             <div id='footer-top' className='mb-8'>
                 <div class="container max-w-[1300px] px-[30px] py-[10px] md:mt-[6.25rem] mb-12 md:items-start md:mb-0">
-                    <div className='flex justify-between items-center'>
+                    <div className='sm:flex justify-between items-center'>
                         <div className='top-footer-left'>
                             <div class="footer-logo mb-7 max-h-[34px] max-w-[163px]">
                                 <img src="https://userviral.b-cdn.net/assets/images/uvlogo1-768x150-1.png" />
@@ -27,18 +27,18 @@ const Footer = () => {
                                 <a href="https://www.dmca.com/Protection/Status.aspx?ID=1d9a18d7-8247-4091-b4d7-73a8d42ea6fb&amp;refurl=https://useviral.com/" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1d9a18d7-8247-4091-b4d7-73a8d42ea6fb" alt="DMCA.com Protection Status" /></a>
                             </div>
                         </div>
-                        <div className='top-footer-right'>
+                        <div className='top-footer-right max-sm:mt-14'>
                             <div class="md:mb-0 justify-center items-center md:items-start">
                                 <h3 class="text-[1.625rem] leading-[1.2rem] tracking-tight my-[32px] font-extrabold text-black">Helpful Links</h3>
                                 <div class="footer_menu">
                                     <a href="/#services" class="py-1 text-base mb-0 table sm-block font-medium text-[#2a363d] " >Services</a>
-                                    <a href="/customer-reviews" class="py-1 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Reviews</a>
-                                    <a href="/#faqs" class="py-1 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Frequenty Asked Questions</a>
-                                    <a href="https://useviral.com/terms" class="py-1 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Terms &amp; Conditions</a>
-                                    <a href="https://useviral.com/privacy" class="py-1 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Privacy Policy</a>
-                                    <a href="https://useviral.com/refund" class="py-1 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Refund Policy</a>
-                                    <a href="https://useviral.com/blog" class="py-1 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Blog</a>
-                                    <a href="https://useviral.com/support" class="py-1 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Contact Us</a>
+                                    <a href="/customer-reviews" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Reviews</a>
+                                    <a href="/#faqs" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Frequenty Asked Questions</a>
+                                    <a href="https://useviral.com/terms" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Terms &amp; Conditions</a>
+                                    <a href="https://useviral.com/privacy" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Privacy Policy</a>
+                                    <a href="https://useviral.com/refund" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Refund Policy</a>
+                                    <a href="https://useviral.com/blog" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Blog</a>
+                                    <a href="https://useviral.com/support" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@ const Footer = () => {
 
             </div>
             <div id='footer-bottom'>
-                <p className='text-center text-[#707070]'>All Rights Reserved — © Copyright CompanyName 2023.</p>
+                <p className='text-center text-[#707070] mb-2 text-lg'>All Rights Reserved — © Copyright CompanyName 2023.</p>
             </div>
             <a href="https://wa.me/+972526866442" target="_blank"><ImWhatsapp size={40} className='whatsappICON' color="white" /></a>
         </footer>

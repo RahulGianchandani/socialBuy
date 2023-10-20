@@ -329,3 +329,20 @@ h3.accordion {
     padding: 40px 0;
   }
 }
+
+@media (max-width: 1099px) {
+  .get-started-container h2 {
+    font-size: 32px;
+    padding: 20px 0 0;
+  }
+
+  .get-started-container p {
+    font-size: 20px;
+    padding: 20px 0;
+  }
+
+  .white-bordered-btn {
+    padding: 10px 20px;
+  }
+
+}

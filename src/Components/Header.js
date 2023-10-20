@@ -26,9 +26,9 @@ const Header = () => {
         localStorage.removeItem('token');
     }
     return (
-        <nav class={`navbar navbar-expand-lg header `}>
-            <div class="container px-[120px] py-[25px]">
-                <div id='imgDiv' className='navbar-brand py-0  max-h-[40px] max-w-[186px]'>
+        <nav class={`navbar navbar-expand-lg header max-lg:py-0 `}>
+            <div class="container px-0 lg:px-[60px] xl:px-[120px] lg:py-[25px]">
+                <div id='imgDiv' className='navbar-brand py-0  max-h-[40px] max-w-[210px] lg:max-w-[186px] max-lg:ml-10 max-lg:py-6'>
                     <NavLink
                         to="/"
                         className={" text-decoration-none "}
@@ -37,17 +37,17 @@ const Header = () => {
                     </NavLink>
 
                 </div>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <RxHamburgerMenu color='#3385d7' />
+                <button class="navbar-toggler  max-lg:mr-10 max-lg:py-6" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <RxHamburgerMenu size={30} color={"black"} />
                 </button>
                 <div class="collapse navbar-collapse justify-end " id="navbarSupportedContent">
-                    <ul class="navbar-nav  mb-2 mb-lg-0 ">
+                    <ul class="navbar-nav  mb-0 mb-lg-0">
                         <NavLink
                             to="/serviced"
-                            className={`serviceNav text-decoration-none fw-bold px-[20px] py-[5px] relative `}
+                            className={`serviceNav text-decoration-none  fw-bold lg:px-[20px] max-lg:border-t max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] relative  max-lg:flex max-lg:justify-between`}
                         >
                             Services  <MdKeyboardArrowUp className='inline arrowUpIcon duration-300' size={20} />
-                            <ul class="sub-menu ">
+                            <ul class="sub-menu absolute  max-lg:!top-[50px]">
                                 <li id="menu-item-0" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
                                     <a href="https://useviral.com/instagram" class=" ">
                                         <img width="24" height="24" src="https://userviral.b-cdn.net/assets/images/small/instagram.png" class="menu-image  inline " alt="" loading="eager" />
@@ -82,25 +82,25 @@ const Header = () => {
                         </NavLink>
                         <NavLink
                             to="-"
-                            className={` text-decoration-none fw-bold px-[20px] py-[5px] `}
+                            className={` text-decoration-none  fw-bold lg:px-[20px]  max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] `}
                         >
                             Customer Reviews
                         </NavLink>
                         <NavLink
                             to="-"
-                            className={` text-decoration-none fw-bold px-[20px] py-[5px] `}
+                            className={` text-decoration-none  fw-bold lg:px-[20px]  max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] `}
                         >
                             Check Order
                         </NavLink>
                         <NavLink
                             to="-"
-                            className={` text-decoration-none fw-bold px-[20px] py-[5px] `}
+                            className={` text-decoration-none  fw-bold lg:px-[20px]  max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] `}
                         >
                             Support
                         </NavLink>
                         <NavLink
                             to="-"
-                            className={` text-decoration-none fw-bold px-[20px] py-[5px] `}
+                            className={` text-decoration-none  fw-bold lg:px-[20px]  max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] `}
                         >
                             Get Started
                         </NavLink>

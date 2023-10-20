@@ -8,15 +8,15 @@ const Home = () => {
   return (
     <div id='homePage'>
 
-      <header id='serviceSec' className='bg-[#f7f7fb] duration-300 pb-[225px]'>
+      <header id='serviceSec' className='bg-[#f7f7fb] duration-300 pb-[225px] px-4 '>
         <div className='flex justify-center heading'>
-          <h1 className=" w-max pt-24 text-center relative text-4xl tracking-tight font-extrabold text-black sm:text-5xl md:text-[4.75rem] !leading[1.25]"> Useviral <br />Your Social Media <br />Super Power
-            <img className="light absolute bottom-[-14px] right-[-13px]" src="https://userviral.b-cdn.net/assets/images/light.png" width="100" />
+          <h1 className=" w-max pt-24 text-center relative text-5xl tracking-tight font-extrabold text-black sm:text-5xl md:text-[4.75rem] !leading-[1.2]"> Useviral <br />Your Social Media <br />Super Power
+            <img className="light absolute bottom-[-14px] right-[-13px] max-md:bottom-[3px] max-md:right-[4px] max-md:w-[50px]" src="https://userviral.b-cdn.net/assets/images/light.png" width="100" />
           </h1>
         </div>
         <p className='text-center mx-auto  mt-14 text-[26px] md:max-w-[42rem] leading-[33.8px]'>UseViral is the best place to boost your Social Media. We have the highest quality and latest technology, our service is unmatched. We are the best. So Try Useviral now</p>
         <div className=" mt-4 pt-2 mx-auto sm:flex md:mt-8 flex hero-ctas sm:px-6 max-w-[700px] justify-center">
-          <a href="#services" className="py-[1rem] px-[1.75rem] text-white rounded-md bg-brand text-center text-lg font-bold">Get Started</a>
+          <a href="#services" className="py-[1rem] px-[1.75rem] text-white rounded-md bg-brand text-center text-lg font-bold max-sm:w-full">Get Started</a>
         </div>
         <div className="flex justify-center mt-3 flex-wrap gap-[15px]" >
           <span className="text-brand flex align-center gap-[10px]" >
@@ -34,124 +34,142 @@ const Home = () => {
         </div>
       </header>
       <div id="services" className="bg-white py-10 services-section">
-        <div className="container py-2 bg-white px-4 max-w-[1140px] mt-[-170px] mb-[35px] rounded-[7px] desktop_only ">
-          <div className="flex px-4 items-center">
-            <div className="services-heading services-heading-col-1">SERVICE</div>
-            <div className="services-heading services-heading-col-2">PRICE FROM</div>
-            <div className="services-heading services-heading-col-3">DELIVERY SPEED</div>
-            <div className="services-heading services-heading-col-4">ORDER</div>
+        <div className="container py-2 bg-white px-4 max-w-[1140px] mt-[-170px] mb-[35px] max-sm:!pt-[35px] rounded-[7px] desktop_only ">
+          <div className="flex px-4 items-center max-sm:hidden">
+            <div className="services-heading col-lg-6 col">SERVICE</div>
+            <div className="services-heading text-center col">PRICE FROM</div>
+            <div className="services-heading text-center col">DELIVERY SPEED</div>
+            <div className="services-heading text-center col">ORDER</div>
           </div>
-          <div className="flex px-4 items-center">
-            <div className="services-heading services-col-1">
+          <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
+            <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
               <img src="https://userviral.b-cdn.net/assets/images/instagram.png " />
             </div>
-            <div className="services-heading services-col-2">
-              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px]">Instagram</p>
+            <div className="services-heading col-lg-6 col">
+              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Instagram</p>
+              <p className="text-xl text-black leading-8  hidden max-sm:block max-sm:text-lg">
+                $1
+              </p>
             </div>
-            <div className="services-heading services-col-3">
+            <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
                 $1
               </p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading max-sm:hidden col">
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading col">
               <a href="https://useviral.com/instagram" className="brand-bordered-btn full-width">Get Started</a>
             </div>
           </div>
-          <div className="flex px-4 items-center">
-            <div className="services-heading services-col-1">
+          <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
+            <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
               <img src="https://userviral.b-cdn.net/assets/images/youtube.png" />
             </div>
-            <div className="services-heading services-col-2">
-              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px]">YouTube</p>
+            <div className="services-heading col-lg-6 col">
+              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">YouTube</p>
+              <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
+                $0
+              </p>
             </div>
-            <div className="services-heading services-col-3">
+            <div className="services-heading col  max-sm:hidden">
               <p className="text-xl text-black leading-8">
                 $0
               </p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading max-sm:hidden col">
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading col">
               <a href="https://useviral.com/youtube" className="brand-bordered-btn full-width">Get Started</a>
             </div>
           </div>
-          <div className="flex px-4 items-center">
-            <div className="services-heading services-col-1">
+          <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
+            <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
               <img src="https://userviral.b-cdn.net/assets/images/facebook.png" />
             </div>
-            <div className="services-heading services-col-2">
-              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px]">Facebook</p>
+            <div className="services-heading col-lg-6 col">
+              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Facebook</p>
+              <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
+                $1.99
+              </p>
             </div>
-            <div className="services-heading services-col-3">
+            <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
                 $1.99
               </p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading max-sm:hidden col">
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading col">
               <a href="https://useviral.com/facebook" className="brand-bordered-btn full-width">Get Started</a>
             </div>
           </div>
-          <div className="flex px-4 items-center">
-            <div className="services-heading services-col-1">
+          <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
+            <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
               <img src="https://userviral.b-cdn.net/assets/images/telegram.png" />
             </div>
-            <div className="services-heading services-col-2">
-              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px]">Telegram</p>
+            <div className="services-heading col-lg-6 col">
+              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Telegram</p>
+              <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
+                $2
+              </p>
             </div>
-            <div className="services-heading services-col-3">
+            <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
                 $2
               </p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading max-sm:hidden col">
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading col">
               <a href="https://useviral.com/reviews" className="brand-bordered-btn full-width">Get Started</a>
             </div>
           </div>
-          <div className="flex px-4 items-center">
-            <div className="services-heading services-col-1">
+          <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
+            <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
               <img src="https://userviral.b-cdn.net/assets/images/discord.png" />
             </div>
-            <div className="services-heading services-col-2">
-              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px]">Discord</p>
+            <div className="services-heading col-lg-6 col">
+              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Discord</p>
+              <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
+                $63
+              </p>
             </div>
-            <div className="services-heading services-col-3">
+            <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
                 $63
               </p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading max-sm:hidden col">
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading col">
               <a href="https://useviral.com/linkedin" className="brand-bordered-btn full-width">Get Started</a>
             </div>
           </div>
-          <div className="flex px-4 items-center">
-            <div className="services-heading services-col-1">
+          <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
+            <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
               <img src="https://userviral.b-cdn.net/assets/images/twitch.png" />
             </div>
-            <div className="services-heading services-col-2">
-              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px]">Twitch</p>
+            <div className="services-heading col-lg-6 col">
+              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Twitch</p>
+              <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
+                $3
+              </p>
             </div>
-            <div className="services-heading services-col-3">
+            <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
                 $3
               </p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading max-sm:hidden col">
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
-            <div className="services-heading services-col-4">
+            <div className="services-heading col">
               <a href="https://useviral.com/spotify" className="brand-bordered-btn full-width">Get Started</a>
             </div>
           </div>
@@ -161,11 +179,11 @@ const Home = () => {
         </div>
       </div>
       <div id='followersSec'>
-        <div className='container md:mb-[6.25rem] max-w-[1300px] flex'>
+        <div className='container md:mb-[6.25rem] max-w-[1300px] sm:flex max-sm:px-7 '>
           <div className='col'>
-            <h5 className="text-[rgba(188,204,220,1)] lato text-[1.625rem] leading-1-2 font-extrabold mb-4 mt-0">How it works</h5>
-            <h2 className="text-black !leading[1.25] font-extrabold text-[3rem] sm:text-4xl md:text-5xl lato">Grow organically on Social Media</h2>
-            <p className="text-black leading-[2rem] my-7 tracking-[0.3px] text-xl">Have more followers and engagement is a proven way to get more real social media followers. Our services are high quality and our support team is here to help you. This way, it's risk free.</p>
+            <h5 className="text-[rgba(188,204,220,1)] lato text-[1.625rem] leading-1-2 font-extrabold !mb-4 mt-0">How it works</h5>
+            <h2 className="text-black !leading[1.25] font-extrabold text-[1.875rem] sm:text-4xl md:text-5xl lato">Grow organically on Social Media</h2>
+            <p className="text-black leading-[2rem] my-7 tracking-[0.3px] text-xl max-sm:text-[1.1rem]">Have more followers and engagement is a proven way to get more real social media followers. Our services are high quality and our support team is here to help you. This way, it's risk free.</p>
           </div>
           <div className='col'>
             <object type="image/svg+xml" data="https://userviral.b-cdn.net/assets/images/home_image_1_new.svg"></object>
@@ -204,11 +222,11 @@ const Home = () => {
         </div>
       </div>
       <div id='SvgSec' className='pt-16 md:pt-24 pb-8 md:pb-16"'>
-        <div className='container py-[10px] md:mb-[6.25rem] max-w-[1300px] flex'>
+        <div className='container py-[10px] md:mb-[6.25rem] max-w-[1300px] md:flex max-md:px-7'>
           <div className='col'>
-            <h5 className="text-[rgba(188,204,220,1)] lato text-[1.625rem] leading-1-2 font-extrabold mb-4 mt-0">More info</h5>
-            <h2 className="text-black !leading[1.25] font-extrabold text-[3rem] sm:text-4xl md:text-5xl lato">Why Buy Followers On Social Media</h2>
-            <p className="text-black leading-[2rem] my-7 tracking-[0.3px] text-xl">Have you ever wanted a bigger following to attract that social proof you need for maximum growth? We get it, becoming an influencer is hard. That's why our services are here to make it easier for you to get real and organic social media followers and engagement.</p>
+            <h5 className="text-[rgba(188,204,220,1)] lato text-[1.625rem] leading-1-2 font-extrabold !mb-4 mt-0">More info</h5>
+            <h2 className="text-black !leading[1.25] font-extrabold text-[1.875rem] md:text-4xl  lato">Why Buy Followers On Social Media</h2>
+            <p className="text-black leading-[2rem] my-7 tracking-[0.3px] text-xl max-md:text-[1.1rem]">Have you ever wanted a bigger following to attract that social proof you need for maximum growth? We get it, becoming an influencer is hard. That's why our services are here to make it easier for you to get real and organic social media followers and engagement.</p>
           </div>
           <div className='col'>
             <object type="image/svg+xml" data="https://userviral.b-cdn.net/assets/images/home_image_2.svg"></object>
@@ -216,20 +234,20 @@ const Home = () => {
         </div>
       </div>
 
-      <div id='FAQsection'>
-        <h2 className="text-[1.625rem] leading-loose tracking-tight font-extrabold text-black text-center"> Frequently asked questions </h2>
-        <p className="text-black mt-[20px] mb-[30px]  leading-7 text-xl text-center">Frequently asked questions about our services and UseViral</p>
-        <div className='container mb-[170px] max-w-[1300px]'>
+      <div id='FAQsection' className='max-sm:px-7'>
+        <h2 className="text-[1.625rem] sm:leading-loose tracking-tight font-extrabold text-black text-center"> Frequently asked questions </h2>
+        <p className="text-black mt-[20px] mb-[30px]  leading-7 text-xl max-sm:text-[1.1rem] text-center">Frequently asked questions about our services and UseViral</p>
+        <div className='container max-sm:mb-[50px] mb-[170px] max-w-[1300px]'>
           <div className="box py-[50px]">
-            <div className="accordion  grid grid-cols-2 gap-[15px] justify-between" id="accordionExample">
+            <div className="accordion  sm:grid sm:grid-cols-2 gap-[20px] justify-between" id="accordionExample">
               <div>
-                <div className="accordion-item !rounded-none  duration-500 border-0 mb-[15px] ">
+                <div className="accordion-item !rounded-none  duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button !rounded-none bg-[#eee] hover:bg-[#444] !px-[30px] !py-[20px] collapsed" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false"
                       aria-controls="collapseOne">
                       <img src="./assets/child_logos/Thinking.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0 h5  font-extrabold text-[#444] ">Why Should I Buy Followers?</h5>
+                      <h5 className=" mb-0 h5  font-extrabold text-[#444] max-sm:text-sm ">Why Should I Buy Followers?</h5>
                     </button>
                   </h2>
                   <div id="collapseOne" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -240,14 +258,14 @@ const Home = () => {
                     </div>
                   </div>
                 </div>
-               
-                <div className="accordion-item !rounded-none  duration-500 border-0 mb-[15px] ">
+
+                <div className="accordion-item !rounded-none  duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button bg-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  collapsed" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
                       aria-controls="collapseThree">
                       <img src="./assets/child_logos/stctr.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0 h5  font-extrabold text-[#444] ">Does Having Many Followers Help Me?</h5>
+                      <h5 className=" mb-0 h5  font-extrabold text-[#444] max-sm:text-sm ">Does Having Many Followers Help Me?</h5>
                     </button>
                   </h2>
                   <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -258,13 +276,13 @@ const Home = () => {
                     </div>
                   </div>
                 </div>
-                <div className="accordion-item !rounded-none  duration-500 border-0 mb-[15px] ">
+                <div className="accordion-item !rounded-none  duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button bg-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  collapsed" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
                       aria-controls="collapseFive">
                       <img src="./assets/child_logos/user-plus-bottom.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0 h5  font-extrabold text-[#444] ">Are Your Followers High Quality</h5>
+                      <h5 className=" mb-0 h5  font-extrabold text-[#444] max-sm:text-sm ">Are Your Followers High Quality</h5>
                     </button>
                   </h2>
                   <div id="collapseFive" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -278,13 +296,13 @@ const Home = () => {
                 </div>
               </div>
               <div>
-              <div className="accordion-item !rounded-none  duration-500 border-0 mb-[15px] ">
+                <div className="accordion-item !rounded-none  duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button bg-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  collapsed" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
                       aria-controls="collapseTwo">
                       <img src="./assets/child_logos//brain.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0 h5  font-extrabold text-[#444] ">Can I Get My Account Banned?</h5>
+                      <h5 className=" mb-0 h5  font-extrabold text-[#444] max-sm:text-sm ">Can I Get My Account Banned?</h5>
                     </button>
                   </h2>
                   <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -295,13 +313,13 @@ const Home = () => {
                     </div>
                   </div>
                 </div>
-                <div className="accordion-item !rounded-none  duration-500 border-0 mb-[15px] ">
+                <div className="accordion-item !rounded-none  duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button bg-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  collapsed" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
                       aria-controls="collapseFour">
                       <img src="./assets/child_logos/creative.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0 h5  font-extrabold text-[#444] ">What are social media marketing services?</h5>
+                      <h5 className=" mb-0 h5  font-extrabold text-[#444] max-sm:text-sm ">What are social media marketing services?</h5>
                     </button>
                   </h2>
                   <div id="collapseFour" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -318,14 +336,14 @@ const Home = () => {
                     </div>
                   </div>
                 </div>
-              
-                <div className="accordion-item !rounded-none  duration-500 border-0 mb-[15px] ">
+
+                <div className="accordion-item !rounded-none  duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button bg-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  collapsed" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false"
                       aria-controls="collapseSix">
                       <img src="./assets/child_logos/solve.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0 h5  font-extrabold text-[#444]">Is UseViral Safe?</h5>
+                      <h5 className=" mb-0 h5  font-extrabold text-[#444] max-sm:text-sm">Is UseViral Safe?</h5>
                     </button>
                   </h2>
                   <div id="collapseSix" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -345,7 +363,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div id='getStartedSec' className=''>
+      <div id='getStartedSec' className='max-sm:px-3'>
         <div className="container bg-brand get-started-container max-w-[1300px] px-[30px] py-[10px]">
           <div className="md:w-1/1 text-center">
             <h2 className="text-white font-extrabold">Get Started</h2>
