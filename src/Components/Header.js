@@ -97,12 +97,12 @@ const Header = () => {
                         >
                             Contact Us
                         </NavLink>
-                        <NavLink
-                            to="-"
-                            className={` text-decoration-none  fw-bold lg:px-[20px]  max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] `}
+                        <span
+                            onClick={() => window.location.replace("/#services")}
+                            className={`cursor-pointer text-decoration-none  fw-bold lg:px-[20px]  max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] `}
                         >
                             Get Started
-                        </NavLink>
+                        </span>
 
                         {/* {!token === "admin" && */}
                         {/* <NavLink

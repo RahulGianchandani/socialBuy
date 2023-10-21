@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import logo from '../images/logo.svg'
 import { ImWhatsapp } from 'react-icons/im'
+import { Link } from 'react-router-dom'
 
 
 const Footer = () => {
@@ -32,13 +33,13 @@ const Footer = () => {
                                 <h3 class="text-[1.625rem] leading-[1.2rem] tracking-tight my-[32px] font-extrabold text-black">Helpful Links</h3>
                                 <div class="footer_menu">
                                     <a href="/#services" class="py-1 text-base mb-0 table sm-block font-medium text-[#2a363d] " >Services</a>
-                                    <a href="/customer-reviews" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Reviews</a>
-                                    <a href="/#faqs" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Frequenty Asked Questions</a>
-                                    <a href="https://useviral.com/terms" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Terms &amp; Conditions</a>
-                                    <a href="https://useviral.com/privacy" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Privacy Policy</a>
-                                    <a href="https://useviral.com/refund" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Refund Policy</a>
-                                    <a href="https://useviral.com/blog" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Blog</a>
-                                    <a href="https://useviral.com/support" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Contact Us</a>
+                                    <Link to="/customer-reviews" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Reviews</Link>
+                                    <a href="/#FAQsection" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Frequenty Asked Questions</a>
+                                    <Link to="/terms-conditions" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Terms &amp; Conditions</Link>
+                                    <Link to="/privacy" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Privacy Policy</Link>
+                                    <Link to="/refund-policy" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Refund Policy</Link>
+                                    {/* <Link to="" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d] terms-c" >Blog</Link> */}
+                                    <Link to="/contact-us" className="py-1 max-sm:mt-5 text-base mb-0 table sm-block font-medium text-[#2a363d]" >Contact Us</Link>
                                 </div>
                             </div>
                         </div>

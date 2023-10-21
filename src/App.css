@@ -380,6 +380,55 @@ h3.accordion {
   margin-right: 8px;
 }
 
+
+
+
+
+#contactPage label:where([for=fname], [for=msg], [for=email])::after {
+  content: "*";
+  color: rgb(255, 0, 0);
+  margin-left: 2px;
+  font-weight: bolder;
+}
+
+.post,
+.page {
+  margin: 0 0 1.5em;
+}
+
+.entry-header h1 {
+  text-align: center;
+  font-size: 38px;
+}
+
+.page-content,
+.entry-content,
+.entry-summary {
+  margin: 1.5em 0 0;
+}
+
+ .entry-content ul {
+  list-style: disc;
+}
+ .entry-content ol {
+  list-style: auto;
+}
+
+ .entry-content ul,
+ol {
+  margin: 0 0 1.5em 3em;
+}
+
+
+ .entry-content p {
+  font-size: 18px;
+  line-height: 2rem;
+  letter-spacing: 0.3px;
+  margin-bottom: 1.5em;
+}
+
+
+
 /* MEDIA QUERIES */
 @media (min-width: 769px) {
   .services-heading-col-1 {

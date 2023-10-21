@@ -18,7 +18,7 @@ const ContactUs = () => {
     };
     console.log("formData", formData);
     return (
-        <div className='bg-[#f7f7fb] py-24'>
+        <div id='contactPage' className='bg-[#f7f7fb] py-24'>
             <h2 class="text-black leading-[1.2] text-center font-extrabold text-3xl sm:text-3xl mb-20 ">Contact Us</h2>
             <div className='container'>
                 <div className='flex justify-center'>
@@ -33,7 +33,7 @@ const ContactUs = () => {
                         </div>
                         <div className="mb-3  mt-4">
                             <label for="msg" className="form-label mb-0">Message</label>
-                            <textarea value={formData?.msg} onChange={handleChange} name='msg' class="form-control" id="msg" rows={5}></textarea>
+                            <textarea value={formData?.msg} onChange={handleChange} name='msg' class="form-control" id="msg" rows={5} required></textarea>
                         </div>
                         <div className="g-recaptcha" data-sitekey="6Ldbdg0TAAAAAI7KAf72Q6uagbWzWecTeBWmrCpJ"></div>
                         <button type='submit' onClick={(e) => submitMsg(e)} className='bg-[rgb(239,68,113)] mt-4 text-white text-xl w-full rounded-lg !py-4'>Submit</button>

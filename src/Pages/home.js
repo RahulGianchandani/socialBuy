@@ -1,10 +1,24 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { MdOutlineDateRange } from 'react-icons/md'
 import { BiSolidPencil, BiSearch } from 'react-icons/bi'
 import { HiOutlineSearch } from 'react-icons/hi'
 
 const Home = () => {
+
+  useEffect(() => {
+    const href = window.location.href.substring(
+      window.location.href.lastIndexOf('#') + 1
+    );
+    const element = document.getElementById(href);
+    console.log("element", element);
+    setTimeout(() => {
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth' });
+      }
+    }, 100);
+  }, []);
+
   return (
     <div id='homePage'>
 
