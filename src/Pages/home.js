@@ -3,7 +3,15 @@ import { Link } from 'react-router-dom'
 import { MdOutlineDateRange } from 'react-icons/md'
 import { BiSolidPencil, BiSearch } from 'react-icons/bi'
 import { HiOutlineSearch } from 'react-icons/hi'
-
+import bigfbIcon from '../images/socialIcons/bigFB.webp'
+import biginstaIcon from '../images/socialIcons/bigInsta.webp'
+import bigdiscordIcon from '../images/socialIcons/bigDC.webp'
+import bigtelegramIcon from '../images/socialIcons/bigTG.webp'
+import bigutubeIcon from '../images/socialIcons/bigYT.webp'
+import bigspotifyIcon from '../images/socialIcons/bigSpotify.webp'
+import bigtiktokIcon from '../images/socialIcons/bigTiktok.webp'
+import bigscIcon from '../images/socialIcons/bigSC.webp'
+import bigtwitchIcon from '../images/socialIcons/bigTwitch.webp'
 const Home = () => {
 
   useEffect(() => {
@@ -57,7 +65,7 @@ const Home = () => {
           </div>
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
             <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
-              <img src="https://userviral.b-cdn.net/assets/images/instagram.png " />
+              <img src={biginstaIcon} />
             </div>
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Instagram</p>
@@ -74,12 +82,12 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <a href="https://useviral.com/instagram" className="brand-bordered-btn full-width">Get Started</a>
+              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
             <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
-              <img src="https://userviral.b-cdn.net/assets/images/youtube.png" />
+              <img src={bigutubeIcon} />
             </div>
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">YouTube</p>
@@ -96,12 +104,12 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <a href="https://useviral.com/youtube" className="brand-bordered-btn full-width">Get Started</a>
+              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
             <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
-              <img src="https://userviral.b-cdn.net/assets/images/facebook.png" />
+              <img src={bigfbIcon} />
             </div>
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Facebook</p>
@@ -118,56 +126,57 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <a href="https://useviral.com/facebook" className="brand-bordered-btn full-width">Get Started</a>
+              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
             <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
-              <img src="https://userviral.b-cdn.net/assets/images/telegram.png" />
+              <img src={bigtiktokIcon} />
             </div>
             <div className="services-heading col-lg-6 col">
-              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Telegram</p>
+              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Tiktok</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-                $2
+                $3
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                $2
+                $3
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <a href="https://useviral.com/reviews" className="brand-bordered-btn full-width">Get Started</a>
+              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
             <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
-              <img src="https://userviral.b-cdn.net/assets/images/discord.png" />
+              <img src={bigscIcon} />
             </div>
             <div className="services-heading col-lg-6 col">
-              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Discord</p>
+              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Snapchat</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-                $63
+                $3
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                $63
+                $3
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <a href="https://useviral.com/linkedin" className="brand-bordered-btn full-width">Get Started</a>
+              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
+
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
             <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
-              <img src="https://userviral.b-cdn.net/assets/images/twitch.png" />
+              <img src={bigtwitchIcon} />
             </div>
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Twitch</p>
@@ -184,7 +193,73 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <a href="https://useviral.com/spotify" className="brand-bordered-btn full-width">Get Started</a>
+              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
+            </div>
+          </div>
+          <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
+            <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
+              <img src={bigdiscordIcon} />
+            </div>
+            <div className="services-heading col-lg-6 col">
+              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Discord</p>
+              <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
+                $63
+              </p>
+            </div>
+            <div className="services-heading col max-sm:hidden">
+              <p className="text-xl text-black leading-8">
+                $63
+              </p>
+            </div>
+            <div className="services-heading max-sm:hidden col">
+              <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
+            </div>
+            <div className="services-heading col">
+              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
+            </div>
+          </div>
+          <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
+            <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
+              <img src={bigtelegramIcon} />
+            </div>
+            <div className="services-heading col-lg-6 col">
+              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Telegram</p>
+              <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
+                $2
+              </p>
+            </div>
+            <div className="services-heading col max-sm:hidden">
+              <p className="text-xl text-black leading-8">
+                $2
+              </p>
+            </div>
+            <div className="services-heading max-sm:hidden col">
+              <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
+            </div>
+            <div className="services-heading col">
+              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
+            </div>
+          </div>
+          <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
+            <div className="services-heading services-col-1 max-md:w-10 max-md:mr-2 max-sm:mr-4 max-sm:w-16 ">
+              <img src={bigspotifyIcon} />
+            </div>
+            <div className="services-heading col-lg-6 col">
+              <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Spotify</p>
+              <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
+                $3
+              </p>
+            </div>
+            <div className="services-heading col max-sm:hidden">
+              <p className="text-xl text-black leading-8">
+                $3
+              </p>
+            </div>
+            <div className="services-heading max-sm:hidden col">
+              <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
+            </div>
+            <div className="services-heading col">
+              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
 

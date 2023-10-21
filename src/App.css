@@ -267,11 +267,13 @@ h3.accordion {
 }
 
 /************ Creator review LANDING PAGE   ************/
-#customerReview .accordion-item .accordion-button.collapsed {
+#customerReview .accordion-item .accordion-button.collapsed,
+.servicePage .accordion-item .accordion-button.collapsed {
   border-radius: 10px !important;
 }
 
-#customerReview .accordion-item .accordion-button {
+#customerReview .accordion-item .accordion-button,
+.servicePage .accordion-item .accordion-button {
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
 }
@@ -407,20 +409,21 @@ h3.accordion {
   margin: 1.5em 0 0;
 }
 
- .entry-content ul {
+.entry-content ul {
   list-style: disc;
 }
- .entry-content ol {
+
+.entry-content ol {
   list-style: auto;
 }
 
- .entry-content ul,
+.entry-content ul,
 ol {
   margin: 0 0 1.5em 3em;
 }
 
 
- .entry-content p {
+.entry-content p {
   font-size: 18px;
   line-height: 2rem;
   letter-spacing: 0.3px;
