@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/socialBuy/static/css/main.d84d2146.css",
-    "main.js": "/socialBuy/static/js/main.e1386a3c.js",
+    "main.css": "/socialBuy/static/css/main.f5656f64.css",
+    "main.js": "/socialBuy/static/js/main.cabf5e93.js",
     "static/js/787.ecefbfb8.chunk.js": "/socialBuy/static/js/787.ecefbfb8.chunk.js",
     "static/media/logo.svg": "/socialBuy/static/media/logo.458810443dc68c2900e6c985078e8f99.svg",
     "static/media/slick.svg": "/socialBuy/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -9,12 +9,12 @@
     "static/media/slick.ttf": "/socialBuy/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/socialBuy/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/socialBuy/index.html",
-    "main.d84d2146.css.map": "/socialBuy/static/css/main.d84d2146.css.map",
-    "main.e1386a3c.js.map": "/socialBuy/static/js/main.e1386a3c.js.map",
+    "main.f5656f64.css.map": "/socialBuy/static/css/main.f5656f64.css.map",
+    "main.cabf5e93.js.map": "/socialBuy/static/js/main.cabf5e93.js.map",
     "787.ecefbfb8.chunk.js.map": "/socialBuy/static/js/787.ecefbfb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d84d2146.css",
-    "static/js/main.e1386a3c.js"
+    "static/css/main.f5656f64.css",
+    "static/js/main.cabf5e93.js"
   ]
 }
