@@ -85,17 +85,17 @@ const Header = () => {
                         >
                             Customer Reviews
                         </NavLink>
-                        <NavLink
+                        {/* <NavLink
                             to="-"
                             className={` text-decoration-none  fw-bold lg:px-[20px]  max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] `}
                         >
                             Check Order
-                        </NavLink>
+                        </NavLink> */}
                         <NavLink
-                            to="-"
+                            to="/contact-us"
                             className={` text-decoration-none  fw-bold lg:px-[20px]  max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] `}
                         >
-                            Support
+                            Contact Us
                         </NavLink>
                         <NavLink
                             to="-"

@@ -122,10 +122,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/1.png" />
+                                    <img src="https://source.unsplash.com/shallow-focus-photography-of-woman-outdoor-during-day-rDEOVtE7vOs" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">John Davis</div>
+                                    <div class="text-454545 reviews_username">Sebastian Clark</div>
                                     <div class="reviews_followers">31.3k Friend Requests</div>
                                 </div>
                             </div>
@@ -143,10 +143,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/unnamed.jpg" />
+                                    <img src="https://source.unsplash.com/man-wearing-henley-top-portrait-7YVZYZeITc8" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Libbie OMG</div>
+                                    <div class="text-454545 reviews_username">Joshua Macdonald</div>
                                     <div class="reviews_followers">13.9k Friend Requests</div>
                                 </div>
                             </div>
@@ -164,10 +164,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/download.jpg" />
+                                    <img src="https://source.unsplash.com/woman-wearing-black-crew-neck-shirt-3TLl_97HNJo" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Romeo</div>
+                                    <div class="text-454545 reviews_username">Oscar Ward</div>
                                     <div class="reviews_followers">16.8k Friend Requests</div>
                                 </div>
                             </div>
@@ -185,10 +185,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/Margo_Gardner.jpg" />
+                                    <img src="https://source.unsplash.com/man-standing-beside-wall-pAtA8xe_iVM" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Margo Gardner</div>
+                                    <div class="text-454545 reviews_username">Nathan Wood</div>
                                     <div class="reviews_followers">18k Friend Requests</div>
                                 </div>
                             </div>
@@ -206,10 +206,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/5.png" />
+                                    <img src="https://source.unsplash.com/man-wearing-white-v-neck-shirt-iFgRcqHznqg" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Noah Bachelor</div>
+                                    <div class="text-454545 reviews_username">Ewan Ross</div>
                                     <div class="reviews_followers">25k Friend Requests</div>
                                 </div>
                             </div>
@@ -226,10 +226,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/6.png" />
+                                    <img src="https://source.unsplash.com/smiling-woman-in-shallow-focus-photography-_H6wpor9mjs" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Zakary Myers</div>
+                                    <div class="text-454545 reviews_username">Vihaan Singleton</div>
                                     <div class="reviews_followers">29.6k Friend Requests</div>
                                 </div>
                             </div>
@@ -247,10 +247,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/2.png" />
+                                    <img src="https://source.unsplash.com/mans-grey-and-black-shirt-ILip77SbmOE" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Pablo Kane</div>
+                                    <div class="text-454545 reviews_username">Wayne Powell</div>
                                     <div class="reviews_followers">16.5k Friend Requests</div>
                                 </div>
                             </div>
@@ -268,10 +268,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/8.png" />
+                                    <img src="https://source.unsplash.com/woman-wearing-blue-coat-7uoMmzPd2JA" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Kourtney Brewer</div>
+                                    <div class="text-454545 reviews_username">Matthew Shepherd</div>
                                     <div class="reviews_followers">26k Friend Requests</div>
                                 </div>
                             </div>
@@ -289,10 +289,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/w3.png" />
+                                    <img src="https://source.unsplash.com/smiling-woman-wearing-blue-necklace-6qf1uljGpU4" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Luisa Pope</div>
+                                    <div class="text-454545 reviews_username">Emory Goodwin</div>
                                     <div class="reviews_followers">22.7k Friend Requests</div>
                                 </div>
                             </div>
@@ -312,10 +312,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/testimonial-themotivateme.jpeg" />
+                                    <img src="https://source.unsplash.com/closeup-photography-of-woman-smiling-mEZ3PoFGs_k" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Themotivateme</div>
+                                    <div class="text-454545 reviews_username">Kian Fisher</div>
                                     <div class="reviews_followers">31.1k Friend Requests</div>
                                 </div>
                             </div>
@@ -333,10 +333,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/testimonial-justgym8.jpeg" />
+                                    <img src="https://source.unsplash.com/man-in-black-jacket-smiling-a19OVaa2rzA" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">justgym8</div>
+                                    <div class="text-454545 reviews_username">Lily Hawkins</div>
                                     <div class="reviews_followers">48.1k Friend Requests</div>
                                 </div>
                             </div>
@@ -354,10 +354,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/jeff.png" />
+                                    <img src="https://source.unsplash.com/man-wearing-gray-dress-shirt-yA2NU-Z00aY" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Jeff T</div>
+                                    <div class="text-454545 reviews_username">Ava King</div>
                                     <div class="reviews_followers">23.2k Friend Requests</div>
                                 </div>
                             </div>
@@ -375,10 +375,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/jack-lipton-2.jpg" />
+                                    <img src="https://source.unsplash.com/man-wearing-black-and-white-top-7omHUGhhmZ0" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Jack W</div>
+                                    <div class="text-454545 reviews_username">Rosie Chapman</div>
                                     <div class="reviews_followers">28.2k Friend Requests</div>
                                 </div>
                             </div>
@@ -396,10 +396,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/tegan.png" />
+                                    <img src="https://source.unsplash.com/man-wearing-black-crew-neck-shirt-d2MSDujJl2g" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Tegan B</div>
+                                    <div class="text-454545 reviews_username">Sarah Cook</div>
                                     <div class="reviews_followers">31k Friend Requests</div>
                                 </div>
                             </div>
@@ -417,10 +417,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/200573812_5745029525539552_2278701974041588591_n.jpg" />
+                                    <img src="https://source.unsplash.com/grayscale-photography-of-man-smiling-rriAI0nhcbc" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Charles S.</div>
+                                    <div class="text-454545 reviews_username">Skye Butler</div>
                                     <div class="reviews_followers">33.5k Friend Requests</div>
                                 </div>
                             </div>
@@ -438,10 +438,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/242493379_404125154607081_6108620214413925197_n.jpg" />
+                                    <img src="https://source.unsplash.com/a-woman-in-a-white-tank-top-posing-for-a-picture-zfiAa8dhtBM" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Laura D</div>
+                                    <div class="text-454545 reviews_username">Makenna Pennington</div>
                                     <div class="reviews_followers">28k Friend Requests</div>
                                 </div>
                             </div>
@@ -459,10 +459,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/193608044_338133721014207_8151542905518338227_n.jpg" />
+                                    <img src="https://source.unsplash.com/a-man-wearing-glasses-and-a-white-t-shirt-tvPnys_kY88" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Charlotte C</div>
+                                    <div class="text-454545 reviews_username">Carolyn Myers</div>
                                     <div class="reviews_followers">39.2k Friend Requests</div>
                                 </div>
                             </div>
@@ -480,10 +480,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/ez.jpg" />
+                                    <img src="https://source.unsplash.com/mature-confident-businesswoman-in-smart-red-blouse-and-beige-pants-holding-notebook-and-pencil-while-standing-in-office-environment-z1ag2m3KXP" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Eelco Z</div>
+                                    <div class="text-454545 reviews_username">Sariah Fry</div>
                                     <div class="reviews_followers">32k Friend Requests</div>
                                 </div>
                             </div>
@@ -501,10 +501,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/cz.jpg" />
+                                    <img src="https://source.unsplash.com/a-woman-in-a-white-shirt-posing-for-a-picture-l_DSYdrfLHw" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Carl N</div>
+                                    <div class="text-454545 reviews_username">Kaylin Vincent</div>
                                     <div class="reviews_followers">28.5k Friend Requests</div>
                                 </div>
                             </div>
@@ -522,10 +522,10 @@ const CustomerReviews = () => {
                         <div class="flex flex-col md:flex-row">
                             <div class="md:w-2/3 text-left px-4 table">
                                 <div class="profile_img_div display_table_cell align-middle">
-                                    <img src="https://useviral.com/assets/images/thumbnails/testimonial-sweetwrapture.jpeg" />
+                                    <img src="https://source.unsplash.com/man-in-black-and-yellow-jacket-wearing-black-helmet-dGThZmgtbiQ" />
                                 </div>
                                 <div class="profile_text_div border-0 display_table_cell align-middle">
-                                    <div class="text-454545 reviews_username">Sweetwrapture</div>
+                                    <div class="text-454545 reviews_username">Gracie Burch</div>
                                     <div class="reviews_followers">16k Friend Requests</div>
                                 </div>
                             </div>
