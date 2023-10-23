@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/socialBuy/static/css/main.452e242e.css",
-    "main.js": "/socialBuy/static/js/main.90edf0bb.js",
+    "main.css": "/socialBuy/static/css/main.024ba353.css",
+    "main.js": "/socialBuy/static/js/main.7bc1d671.js",
     "static/js/787.ecefbfb8.chunk.js": "/socialBuy/static/js/787.ecefbfb8.chunk.js",
     "static/media/bigTG.webp": "/socialBuy/static/media/bigTG.7b3dc7782c3f0e3245bf.webp",
     "static/media/bigInsta.webp": "/socialBuy/static/media/bigInsta.6d33b27d07386cb181af.webp",
@@ -28,12 +28,12 @@
     "static/media/telegram.webp": "/socialBuy/static/media/telegram.d0418c6f992c5eda640e.webp",
     "static/media/spotify.webp": "/socialBuy/static/media/spotify.26e9b14c2b25b116dcb6.webp",
     "static/media/tiktok.webp": "/socialBuy/static/media/tiktok.ca3c742ba9663f87ff48.webp",
-    "main.452e242e.css.map": "/socialBuy/static/css/main.452e242e.css.map",
-    "main.90edf0bb.js.map": "/socialBuy/static/js/main.90edf0bb.js.map",
+    "main.024ba353.css.map": "/socialBuy/static/css/main.024ba353.css.map",
+    "main.7bc1d671.js.map": "/socialBuy/static/js/main.7bc1d671.js.map",
     "787.ecefbfb8.chunk.js.map": "/socialBuy/static/js/787.ecefbfb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.452e242e.css",
-    "static/js/main.90edf0bb.js"
+    "static/css/main.024ba353.css",
+    "static/js/main.7bc1d671.js"
   ]
 }
