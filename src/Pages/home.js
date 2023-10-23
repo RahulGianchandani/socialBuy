@@ -70,12 +70,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Instagram</p>
               <p className="text-xl text-black leading-8  hidden max-sm:block max-sm:text-lg">
-                $1
+                	&euro;4.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                $1
+                	&euro;4.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -104,7 +104,7 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
+              <Link to="/services-youtube" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
@@ -126,7 +126,7 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
+              <Link to="/services-facebook" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
@@ -148,7 +148,7 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
+              <Link to="/services-tiktok" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
@@ -170,7 +170,7 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
+              <Link to="/services-snapchat" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
 
@@ -193,7 +193,7 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
+              <Link to="/services-twitch" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
@@ -215,7 +215,7 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
+              <Link to="/services-discord" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
@@ -237,7 +237,7 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
+              <Link to="/services-telegram" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
           <div className="flex px-4 max-sm:!px-0 items-center max-sm:mb-7">
@@ -259,7 +259,7 @@ const Home = () => {
               <p className="text-xl text-[#6cd410] leading-8">Delivering fast</p>
             </div>
             <div className="services-heading col">
-              <Link to="/services-instagram" className="brand-bordered-btn full-width">Get Started</Link>
+              <Link to="/services-spotify" className="brand-bordered-btn full-width">Get Started</Link>
             </div>
           </div>
 
