@@ -70,12 +70,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Instagram</p>
               <p className="text-xl text-black leading-8  hidden max-sm:block max-sm:text-lg">
-                	&euro;4.99
+                	&euro;1.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                	&euro;4.99
+                	&euro;1.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -92,12 +92,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">YouTube</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-                $0
+              &euro;3.99
               </p>
             </div>
             <div className="services-heading col  max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                $0
+              &euro;3.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -114,12 +114,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Facebook</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-                $1.99
+              &euro;3.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                $1.99
+              &euro;3.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -136,12 +136,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Tiktok</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-                $3
+              &euro;0.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                $3
+              &euro;0.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -158,12 +158,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Snapchat</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-                $3
+                &euro;9.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                $3
+                &euro;9.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -181,12 +181,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Twitch</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-                $3
+                &euro;2.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                $3
+                &euro;2.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -203,12 +203,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Discord</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-                $63
+               &euro;22.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                $63
+               &euro;22.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -225,12 +225,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Telegram</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-                $2
+              &euro;2.49
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                $2
+              &euro;2.49
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -247,12 +247,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Spotify</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-                $3
+                &euro;3.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                $3
+                &euro;3.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
