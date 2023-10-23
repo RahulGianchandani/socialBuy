@@ -1,50 +1,49 @@
 import React from 'react'
 import followersIcon from '../../images/socialIcons/followers.webp'
 import { Link } from 'react-router-dom'
-const Insta = () => {
+const Spotify = () => {
   return (
-    <div id='insta' className='servicePage'>
+    <div id='spotify' className='servicePage'>
       <div className='bg-[#f7f7fb] pb-32'>
         <div class="py-20 m-auto main_top_section_inner_container text-center mx-4">
           <h2 class="text-4xl tracking-tight font-extrabold text-black sm:text-5xl md:text-[3.75rem] leading-[1.2]">
-            Instagram Promotion Service </h2>
+            Spotify Promotion Service </h2>
           <h1 class="mt-5 max-w-md mx-auto text-black md:mt-5 text-[1.625rem] md:max-w-3xl text-source-sans-pro leading-1-3">
-            Buy Real Instagram Promotions with quick delivery, click the dropdowns below: </h1>
+            Buy Real Spotify Promotions with quick delivery, click the dropdowns below: </h1>
         </div>
 
         <div className='container max-w-[1300px] px-14'>
           <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
             <div class="btn-group ">
               <button class="btn bg-brand text-white dropdown-toggle   after:ms-3  py-3 font-bold text-left ps-5 " type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Instagram Followers
+                Spotify Followers
               </button>
               <ul class="dropdown-menu w-full border !border-[#f52159] p-0">
-                <li className='border-b !border-[#f52159]'><Link class="dropdown-item  py-3 font-bold  flex" href="#"><img src={followersIcon} className='mr-4 align-middle'></img> Buy Instagram Followers</Link></li>
+                <li className='border-b !border-[#f52159]'><Link class="dropdown-item  py-3 font-bold  flex" href="#"><img src={followersIcon} className='mr-4 align-middle'></img> Buy Spotify Followers</Link></li>
               </ul>
             </div>
             <div class="btn-group ">
               <button class="btn bg-blue text-white dropdown-toggle   after:ms-3  py-3 font-bold text-left ps-5 " type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Instagram Likes
+                Spotify Plays
               </button>
               <ul class="dropdown-menu w-full border !border-[#1b60ef] p-0">
-                <li className='border-b !border-[#1b60ef]'><Link class="dropdown-item  py-3 font-bold  flex" href="#"><img src={followersIcon} className='mr-4 align-middle'></img> Buy Instagram Likes</Link></li>
+                <li className='border-b !border-[#1b60ef]'><Link class="dropdown-item  py-3 font-bold  flex" href="#"><img src={followersIcon} className='mr-4 align-middle'></img> Buy Spotify Plays</Link></li>
               </ul>
             </div>
             <div class="btn-group ">
               <button class="btn bg-brand text-white dropdown-toggle   after:ms-3  py-3 font-bold text-left ps-5 " type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Instagram Views
+                Spotify Monthly Listeners
               </button>
               <ul class="dropdown-menu w-full border !border-[#f52159] p-0">
-                <li className='border-b !border-[#f52159]'><Link class="dropdown-item  py-3 font-bold  flex" href="#"><img src={followersIcon} className='mr-4 align-middle'></img> Buy Instagram Reels Views</Link></li>
-                <li className='border-b !border-[#f52159]'><Link class="dropdown-item  py-3 font-bold  flex" href="#"><img src={followersIcon} className='mr-4 align-middle'></img> Buy Instagram Story Views</Link></li>
+                <li className='border-b !border-[#f52159]'><Link class="dropdown-item  py-3 font-bold  flex" href="#"><img src={followersIcon} className='mr-4 align-middle'></img> Buy Spotify Monthly Listeners</Link></li>
               </ul>
             </div>
             <div class="btn-group ">
               <button class="btn bg-blue text-white dropdown-toggle   after:ms-3  py-3 font-bold text-left ps-5 " type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Instagram Comments
+                Spotify Saves
               </button>
               <ul class="dropdown-menu w-full border !border-[#1b60ef] p-0">
-                <li className='border-b !border-[#1b60ef]'><Link class="dropdown-item  py-3 font-bold  flex" href="#"><img src={followersIcon} className='mr-4 align-middle'></img> Buy Instagram Comments</Link></li>
+                <li className='border-b !border-[#1b60ef]'><Link class="dropdown-item  py-3 font-bold  flex" href="#"><img src={followersIcon} className='mr-4 align-middle'></img> Buy Spotify Saves</Link></li>
               </ul>
             </div>
           </div>
@@ -196,4 +195,4 @@ const Insta = () => {
   )
 }
 
-export default Insta
+export default Spotify

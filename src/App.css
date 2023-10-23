@@ -61,6 +61,10 @@ h5 {
   background-color: #f52159 !important;
 }
 
+.bg-blue {
+  background-color: #1b60ef!important;
+}
+
 /************ HEADER  ************/
 .header {
   /* position: fixed;

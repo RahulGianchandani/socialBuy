@@ -61,47 +61,47 @@ const Header = () => {
                     <span class=" pl-[20px] menu-image-title font-normal text-black">Instagram</span>
                   </Link>
                 </li> <li id="menu-item-1" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
-                  <Link to="/services-instagram" class=" ">
+                  <Link to="/services-youtube" class=" ">
                     <img width="24" height="24" src={utubeIcon} class="menu-image  inline " alt="" loading="eager" />
                     <span class=" pl-[20px] menu-image-title font-normal text-black">YouTube</span>
                   </Link>
                 </li> <li id="menu-item-4" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
-                  <Link to="/services-instagram" class=" ">
+                  <Link to="/services-facebook" class=" ">
                     <img width="24" height="24" src={fbIcon} class="menu-image  inline " alt="" loading="eager" />
                     <span class=" pl-[20px] menu-image-title font-normal text-black">Facebook</span>
                   </Link>
                 </li>
                 <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
-                  <Link to="/services-instagram" class=" ">
+                  <Link to="/services-tiktok" class=" ">
                     <img width="24" height="24" src={tiktokIcon} class="menu-image  inline " alt="" loading="eager" />
                     <span class=" pl-[20px] menu-image-title font-normal text-black">Tiktok</span>
                   </Link>
                 </li>
                 <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
-                  <Link to="/services-instagram" class=" ">
+                  <Link to="/services-snapchat" class=" ">
                     <img width="24" height="24" src={scIcon} class="menu-image  inline " alt="" loading="eager" />
                     <span class=" pl-[20px] menu-image-title font-normal text-black">Snapchat</span>
                   </Link>
                 </li>
                 <li id="menu-item-8" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
-                  <Link to="/services-instagram" class=" ">
+                  <Link to="/services-twitch" class=" ">
                     <img width="24" height="24" src={twitchIcon} class="menu-image  inline " alt="" loading="eager" />
                     <span class=" pl-[20px] menu-image-title font-normal text-black">Twitch</span>
                   </Link>
                 </li> <li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
-                  <Link to="/services-instagram" class=" ">
+                  <Link to="/services-discord" class=" ">
                     <img width="24" height="24" src={discordIcon} class="menu-image  inline " alt="" loading="eager" />
                     <span class=" pl-[20px] menu-image-title font-normal text-black">Discord</span>
                   </Link>
                 </li>
                 <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
-                  <Link to="/services-instagram" class=" ">
+                  <Link to="/services-telegram" class=" ">
                     <img width="24" height="24" src={telegramIcon} class="menu-image  inline " alt="" loading="eager" />
                     <span class=" pl-[20px] menu-image-title font-normal text-black">Telegram</span>
                   </Link>
                 </li>
                 <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 py-[5px]">
-                  <Link to="/services-instagram" class=" ">
+                  <Link to="/services-spotify" class=" ">
                     <img width="24" height="24" src={spotifyIcon} class="menu-image  inline " alt="" loading="eager" />
                     <span class=" pl-[20px] menu-image-title font-normal text-black">Spotify</span>
                   </Link>
