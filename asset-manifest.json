@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/socialBuy/static/css/main.024ba353.css",
-    "main.js": "/socialBuy/static/js/main.7bc1d671.js",
+    "main.js": "/socialBuy/static/js/main.a576348f.js",
     "static/js/787.ecefbfb8.chunk.js": "/socialBuy/static/js/787.ecefbfb8.chunk.js",
     "static/media/bigTG.webp": "/socialBuy/static/media/bigTG.7b3dc7782c3f0e3245bf.webp",
     "static/media/bigInsta.webp": "/socialBuy/static/media/bigInsta.6d33b27d07386cb181af.webp",
@@ -24,16 +24,15 @@
     "static/media/snapchat.webp": "/socialBuy/static/media/snapchat.2bcfb5097a6862865267.webp",
     "static/media/facebook.webp": "/socialBuy/static/media/facebook.d5b88e87c90c9815ef01.webp",
     "static/media/twitch.webp": "/socialBuy/static/media/twitch.bfb4b4c86eb279daffb2.webp",
-    "static/media/followers.webp": "/socialBuy/static/media/followers.337ab0b466a8d7850636.webp",
     "static/media/telegram.webp": "/socialBuy/static/media/telegram.d0418c6f992c5eda640e.webp",
     "static/media/spotify.webp": "/socialBuy/static/media/spotify.26e9b14c2b25b116dcb6.webp",
     "static/media/tiktok.webp": "/socialBuy/static/media/tiktok.ca3c742ba9663f87ff48.webp",
     "main.024ba353.css.map": "/socialBuy/static/css/main.024ba353.css.map",
-    "main.7bc1d671.js.map": "/socialBuy/static/js/main.7bc1d671.js.map",
+    "main.a576348f.js.map": "/socialBuy/static/js/main.a576348f.js.map",
     "787.ecefbfb8.chunk.js.map": "/socialBuy/static/js/787.ecefbfb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.024ba353.css",
-    "static/js/main.7bc1d671.js"
+    "static/js/main.a576348f.js"
   ]
 }
