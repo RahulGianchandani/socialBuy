@@ -127,12 +127,12 @@ const Header = () => {
             >
               Contact Us
             </NavLink>
-            <span
-              onClick={() => window.location.replace("/#services")}
+            <NavLink
+              to="/#services"
               className={`cursor-pointer text-decoration-none  fw-bold lg:px-[20px]  max-lg:border-b max-lg:px-5 max-lg:border-[#eee] py-[13px] `}
             >
               Get Started
-            </span>
+            </NavLink>
 
             {/* {!token === "admin" && */}
             {/* <NavLink

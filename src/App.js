@@ -16,15 +16,15 @@ import Terms from './Pages/terms';
 import Privacy from './Pages/privacy';
 import ScrollToTop from './Components/scrollTop';
 import Refund from './Pages/refund';
-import Insta from './Pages/Services/insta';
-import FB from './Pages/Services/fb';
-import TG from './Pages/Services/tg';
-import Discord from './Pages/Services/discord';
-import Spotify from './Pages/Services/spotify';
-import Tiktok from './Pages/Services/tiktok';
-import Youtube from './Pages/Services/youtube';
-import Twitch from './Pages/Services/twitch';
-import Snapchat from './Pages/Services/snapchat';
+import Insta from './Pages/Services/insta/insta';
+import FB from './Pages/Services/fb/fb';
+import TG from './Pages/Services/tg/tg';
+import Discord from './Pages/Services/discord/discord';
+import Spotify from './Pages/Services/spotify/spotify';
+import Tiktok from './Pages/Services/tiktok/tiktok';
+import Youtube from './Pages/Services/yt/youtube';
+import Twitch from './Pages/Services/twitch/twitch';
+import Snapchat from './Pages/Services/sc/snapchat';
 
 export default function App() {
   const token = localStorage.getItem('token');

@@ -1,35 +1,44 @@
 import React from 'react'
-import followersIcon from '../../images/socialIcons/followers.webp'
 import { Link } from 'react-router-dom'
-import twitchIcon from '../../images/socialIcons/twitch.webp'
-const Twitch = () => {
+import spotifyIcon from '../../../images/socialIcons/spotify.webp'
+const Spotify = () => {
   return (
-    <div id='twitch' className='servicePage'>
+    <div id='spotify' className='servicePage'>
       <div className='bg-[#f7f7fb] pb-32'>
         <div className="py-20 m-auto main_top_section_inner_container text-center mx-4">
           <h2 className="text-4xl tracking-tight font-extrabold text-black sm:text-5xl md:text-[3.75rem] leading-[1.2]">
-            Twitch Promotion Service </h2>
+            Spotify Promotion Service </h2>
           <h1 className="mt-5 max-w-md mx-auto text-black md:mt-5 text-[1.625rem] md:max-w-3xl text-source-sans-pro leading-1-3">
-            Buy Real Twitch Promotions with quick delivery, click the dropdowns below: </h1>
+            Buy Real Spotify Promotions with quick delivery, click the dropdowns below: </h1>
         </div>
 
         <div className='container max-w-[1300px] px-14'>
           <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
             <div className="btn-group ">
-              <Link className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-                   <img src={twitchIcon} className='mr-3' />  Buy Twitch Followers
+              <Link className=" flex btn bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+              <img src={spotifyIcon} className='mr-3' /> 
+                 Buy Spotify Followers
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link className="btn flex bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-                   <img src={twitchIcon} className='mr-3' />  Buy Twitch Video Views
+              <Link className=" flex btn bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+              <img src={spotifyIcon} className='mr-3' /> 
+                 Buy Spotify Plays
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-                   <img src={twitchIcon} className='mr-3' />  Buy Twitch Live Views
+              <Link className=" flex btn bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+              <img src={spotifyIcon} className='mr-3' /> 
+                 Buy Spotify Monthly Listeners
+              </Link>
+
+            </div>
+            <div className="btn-group ">
+              <Link className=" flex btn bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+              <img src={spotifyIcon} className='mr-3' /> 
+                 Buy Spotify Saves
               </Link>
 
             </div>
@@ -182,4 +191,4 @@ const Twitch = () => {
   )
 }
 
-export default Twitch
+export default Spotify

@@ -1,46 +1,28 @@
 import React from 'react'
-import followersIcon from '../../images/socialIcons/followers.webp'
 import { Link } from 'react-router-dom'
-import instaIcon from '../../images/socialIcons/instagram.webp'
-const Insta = () => {
+import discordIcon from '../../../images/socialIcons/discord.webp'
+const Discord = () => {
   return (
-    <div id='insta' className='servicePage'>
+    <div id='dc' className='servicePage'>
       <div className='bg-[#f7f7fb] pb-32'>
         <div className="py-20 m-auto main_top_section_inner_container text-center mx-4">
           <h2 className="text-4xl tracking-tight font-extrabold text-black sm:text-5xl md:text-[3.75rem] leading-[1.2]">
-            Instagram Promotion Service </h2>
+            Discord Promotion Service </h2>
           <h1 className="mt-5 max-w-md mx-auto text-black md:mt-5 text-[1.625rem] md:max-w-3xl text-source-sans-pro leading-1-3">
-            Buy Real Instagram Promotions with quick delivery, click the dropdowns below: </h1>
+            Buy Real Discord Promotions with quick delivery, click the dropdowns below: </h1>
         </div>
 
         <div className='container max-w-[1300px] px-14'>
           <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
             <div className="btn-group ">
-              <Link className="flex btn bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-               <img src={instaIcon} className='mr-3' /> Buy Instagram Followers
+              <Link className="flex btn bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 ">
+                <img src={discordIcon} className='mr-3' /> Buy Discord Members
               </Link>
 
             </div>
             <div className="btn-group ">
               <Link className="flex btn bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-               <img src={instaIcon} className='mr-3' /> Buy Instagram Likes
-              </Link>
-
-            </div>
-            <div className="btn-group ">
-              <Link className="flex btn bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-                 <img src={instaIcon} className='mr-3' /> Buy Instagram Reels Views
-              </Link>
-            </div>
-            <div className="btn-group ">
-              <Link className="flex btn bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-                 <img src={instaIcon} className='mr-3' /> Buy Instagram Story Views
-              </Link>
-
-            </div>
-            <div className="btn-group ">
-              <Link className="flex btn bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-              Buy Instagram Comments
+                <img src={discordIcon} className='mr-3' /> Buy Discord Friendship Requests
               </Link>
 
             </div>
@@ -193,4 +175,4 @@ const Insta = () => {
   )
 }
 
-export default Insta
+export default Discord

@@ -1,35 +1,46 @@
 import React from 'react'
-import followersIcon from '../../images/socialIcons/followers.webp'
 import { Link } from 'react-router-dom'
-import fbIcon from '../../images/socialIcons/facebook.webp'
-const FB = () => {
+import utubeIcon from '../../../images/socialIcons/youtube.webp'
+const youtube = () => {
   return (
-    <div id='fb' className='servicePage'>
+    <div id='yt' className='servicePage'>
       <div className='bg-[#f7f7fb] pb-32'>
         <div className="py-20 m-auto main_top_section_inner_container text-center mx-4">
           <h2 className="text-4xl tracking-tight font-extrabold text-black sm:text-5xl md:text-[3.75rem] leading-[1.2]">
-            Facebook Promotion Service </h2>
+            Youtube Promotion Service </h2>
           <h1 className="mt-5 max-w-md mx-auto text-black md:mt-5 text-[1.625rem] md:max-w-3xl text-source-sans-pro leading-1-3">
-            Buy Real Facebook Promotions with quick delivery, click the dropdowns below: </h1>
+            Buy Real Youtube Promotions with quick delivery, click the dropdowns below: </h1>
         </div>
 
         <div className='container max-w-[1300px] px-14'>
           <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
             <div className="btn-group ">
-              <Link className="btn bg-brand text-white flex    after:ms-3  py-3 font-bold text-left ps-5 " >
-                <img src={fbIcon} className='mr-3' /> Buy Facebook Followers
+              <Link className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+                <img src={utubeIcon} className='mr-3' /> Buy Youtube Subscribers
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link className="btn bg-blue text-white  flex   after:ms-3  py-3 font-bold text-left ps-5 " >
-                <img src={fbIcon} className='mr-3' />Buy Facebook Post Likes
+              <Link className="btn flex bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+                <img src={utubeIcon} className='mr-3' /> Buy Youtube Watch Time Hours
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link className="btn bg-brand text-white  flex   after:ms-3  py-3 font-bold text-left ps-5 " >
-                <img src={fbIcon} className='mr-3' /> Buy Facebook Comments
+              <Link className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+                <img src={utubeIcon} className='mr-3' /> Buy Youtube Views
+              </Link>
+
+            </div>
+            <div className="btn-group ">
+              <Link className="btn flex bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+                <img src={utubeIcon} className='mr-3' /> Buy Youtube Likes
+              </Link>
+
+            </div>
+            <div className="btn-group ">
+              <Link className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+                <img src={utubeIcon} className='mr-3' /> Buy Youtube Dislikes
               </Link>
 
             </div>
@@ -182,4 +193,4 @@ const FB = () => {
   )
 }
 
-export default FB
+export default youtube

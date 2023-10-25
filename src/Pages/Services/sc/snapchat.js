@@ -1,7 +1,6 @@
 import React from 'react'
-import followersIcon from '../../images/socialIcons/followers.webp'
 import { Link } from 'react-router-dom'
-import scIcon from '../../images/socialIcons/snapchat.webp'
+import scIcon from '../../../images/socialIcons/snapchat.webp'
 const Snapchat = () => {
   return (
     <div id='sc' className='servicePage'>
