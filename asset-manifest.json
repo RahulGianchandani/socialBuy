@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/socialBuy/static/css/main.024ba353.css",
-    "main.js": "/socialBuy/static/js/main.a576348f.js",
+    "main.css": "/socialBuy/static/css/main.8ffe57b5.css",
+    "main.js": "/socialBuy/static/js/main.ee2ef1f9.js",
     "static/js/787.ecefbfb8.chunk.js": "/socialBuy/static/js/787.ecefbfb8.chunk.js",
+    "static/media/multipleSocial.webp": "/socialBuy/static/media/multipleSocial.4d80e9f32d8fc7fa5b14.webp",
     "static/media/bigTG.webp": "/socialBuy/static/media/bigTG.7b3dc7782c3f0e3245bf.webp",
     "static/media/bigInsta.webp": "/socialBuy/static/media/bigInsta.6d33b27d07386cb181af.webp",
     "static/media/bigTiktok.webp": "/socialBuy/static/media/bigTiktok.ba6eef746a6610da8224.webp",
@@ -12,9 +13,19 @@
     "static/media/bigYT.webp": "/socialBuy/static/media/bigYT.68c3771454ad3f9d480c.webp",
     "static/media/bigFB.webp": "/socialBuy/static/media/bigFB.b4985067fe8ddc2d14e9.webp",
     "static/media/bigTwitch.webp": "/socialBuy/static/media/bigTwitch.d7bb8c849e3c345ce242.webp",
+    "static/media/moneyBack.webp": "/socialBuy/static/media/moneyBack.e9777fdd4d51a1dc367c.webp",
+    "static/media/customer.webp": "/socialBuy/static/media/customer.48b1444a575643227fbb.webp",
+    "static/media/safe.webp": "/socialBuy/static/media/safe.820e243087310c19f2e5.webp",
+    "static/media/services.webp": "/socialBuy/static/media/services.e93a1037b30822646aad.webp",
+    "static/media/heart.webp": "/socialBuy/static/media/heart.e35b2d8eac880d11ced1.webp",
+    "static/media/highQuality.webp": "/socialBuy/static/media/highQuality.f74b4192848bd504e007.webp",
+    "static/media/user-icon.webp": "/socialBuy/static/media/user-icon.ce80ee08761921af23de.webp",
     "static/media/slick.svg": "/socialBuy/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/socialBuy/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/gaurentee-icon.webp": "/socialBuy/static/media/gaurentee-icon.33636b2632b7c5ecd057.webp",
     "static/media/slick.ttf": "/socialBuy/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/key-icon.webp": "/socialBuy/static/media/key-icon.a231d8fbe42857a00395.webp",
+    "static/media/lock-icon.webp": "/socialBuy/static/media/lock-icon.737df3bf7a11bf102796.webp",
     "static/media/bigSC.webp": "/socialBuy/static/media/bigSC.c0db29818a53d763100e.webp",
     "static/media/slick.woff": "/socialBuy/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/socialBuy/index.html",
@@ -27,12 +38,12 @@
     "static/media/telegram.webp": "/socialBuy/static/media/telegram.d0418c6f992c5eda640e.webp",
     "static/media/spotify.webp": "/socialBuy/static/media/spotify.26e9b14c2b25b116dcb6.webp",
     "static/media/tiktok.webp": "/socialBuy/static/media/tiktok.ca3c742ba9663f87ff48.webp",
-    "main.024ba353.css.map": "/socialBuy/static/css/main.024ba353.css.map",
-    "main.a576348f.js.map": "/socialBuy/static/js/main.a576348f.js.map",
+    "main.8ffe57b5.css.map": "/socialBuy/static/css/main.8ffe57b5.css.map",
+    "main.ee2ef1f9.js.map": "/socialBuy/static/js/main.ee2ef1f9.js.map",
     "787.ecefbfb8.chunk.js.map": "/socialBuy/static/js/787.ecefbfb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.024ba353.css",
-    "static/js/main.a576348f.js"
+    "static/css/main.8ffe57b5.css",
+    "static/js/main.ee2ef1f9.js"
   ]
 }
