@@ -15,31 +15,31 @@ const youtube = () => {
         <div className='container max-w-[1300px] px-14'>
           <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
             <div className="btn-group ">
-              <Link className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+              <Link to="/buy-yt-subs" className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
                 <img src={utubeIcon} className='mr-3' /> Buy Youtube Subscribers
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link className="btn flex bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+              <Link to="/buy-yt-watch-time-hours" className="btn flex bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
                 <img src={utubeIcon} className='mr-3' /> Buy Youtube Watch Time Hours
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+              <Link to="/buy-yt-views" className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
                 <img src={utubeIcon} className='mr-3' /> Buy Youtube Views
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link className="btn flex bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+              <Link to="/buy-yt-likes" className="btn flex bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
                 <img src={utubeIcon} className='mr-3' /> Buy Youtube Likes
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+              <Link to="/buy-yt-dislikes " className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
                 <img src={utubeIcon} className='mr-3' /> Buy Youtube Dislikes
               </Link>
 

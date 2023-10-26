@@ -25,6 +25,15 @@ import Tiktok from './Pages/Services/tiktok/tiktok';
 import Youtube from './Pages/Services/yt/youtube';
 import Twitch from './Pages/Services/twitch/twitch';
 import Snapchat from './Pages/Services/sc/snapchat';
+import InstaBuyFollowers from './Pages/Services/insta/instaBuyFollowers';
+import InstaBuyComments from './Pages/Services/insta/instaBuyComments';
+import InstaBuyReelsViews from './Pages/Services/insta/instaBuyReelViews';
+import InstaBuyStoryViews from './Pages/Services/insta/instaBuyStoryViews';
+import YTBuySubscribers from './Pages/Services/yt/ytBuySubscribers';
+import YTBuyDislikes from './Pages/Services/yt/ytBuyDislikes';
+import YTBuyLikes from './Pages/Services/yt/ytBuylikes';
+import YTBuyViews from './Pages/Services/yt/ytBuyViews';
+import YTBuyWatchTimeHours from './Pages/Services/yt/ytBuyWatchTimeHours';
 
 export default function App() {
   const token = localStorage.getItem('token');
@@ -51,6 +60,17 @@ export default function App() {
           <Route path="/services-snapchat" element={<Snapchat />} />
           <Route path="/services-twitch" element={<Twitch />} />
           <Route path="/services-youtube" element={<Youtube />} />
+          <Route path="/buy-insta-likes" element={<InstaBuyFollowers />} />
+          <Route path="/buy-insta-followers" element={<InstaBuyFollowers />} />
+          <Route path="/buy-insta-comments" element={<InstaBuyComments />} />
+          <Route path="/buy-insta-story-views" element={<InstaBuyStoryViews />} />
+          <Route path="/buy-insta-reels-views" element={<InstaBuyReelsViews />} />
+          <Route path="/buy-yt-subs" element={<YTBuySubscribers />} />
+          <Route path="/buy-yt-dislikes" element={<YTBuyDislikes />} />
+          <Route path="/buy-yt-likes" element={<YTBuyLikes />} />
+          <Route path="/buy-yt-views" element={<YTBuyViews />} />
+          <Route path="/buy-yt-watch-time-hours" element={<YTBuyWatchTimeHours />} />
+   
           {/* <Route path="/admin-login" element={<Login />} /> */}
           {/* {token === "admin" && */}
           {/* <Route path="/admin-dashboard" element={<AdminDashboard />} /> */}

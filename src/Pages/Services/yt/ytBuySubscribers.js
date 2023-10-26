@@ -1,47 +1,199 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import instaIcon from '../../../images/socialIcons/instagram.webp'
-const Insta = () => {
+import { GiCheckMark } from 'react-icons/gi'
+import utubeIcon from '../../../images/socialIcons/youtube.webp'
+import keyIcon from '../../../images/key-icon.webp'
+import lockIcon from '../../../images/lock-icon.webp'
+import userIcon from '../../../images/user-icon.webp'
+import gauranteeIcon from '../../../images/gaurentee-icon.webp'
+import customerIcon from '../../../images/benefit/customer.webp'
+import heartIcon from '../../../images/benefit/heart.webp'
+import HQIcon from '../../../images/benefit/highQuality.webp'
+import MBIcon from '../../../images/benefit/moneyBack.webp'
+import safeIcon from '../../../images/benefit/safe.webp'
+import servicesIcon from '../../../images/benefit/services.webp'
+import multipleSocial from '../../../images/multipleSocial.webp'
+const YTBuySubscribers = () => {
+
+  const [priceSelected, setPriceSelected] = useState(0)
+  console.log("priceSelected", priceSelected);
   return (
-    <div id='insta' className='servicePage'>
-      <div className='bg-[#f7f7fb] pb-32'>
-        <div className="py-20 m-auto main_top_section_inner_container text-center mx-4">
-          <h2 className="text-4xl tracking-tight font-extrabold text-black sm:text-5xl md:text-[3.75rem] leading-[1.2]">
-            Instagram Promotion Service </h2>
-          <h1 className="mt-5 max-w-md mx-auto text-black md:mt-5 text-[1.625rem] md:max-w-3xl text-source-sans-pro leading-1-3">
-            Buy Real Instagram Promotions with quick delivery, click the dropdowns below: </h1>
+    <div id='yt' className='servicePage'>
+      <div className='mb-16'>
+        <div className="text-center pt-24">
+          <h1 className="px-4 py-2  bg-gray-200 inline rounded-full text-sm font-bold mb-6">BUY YOUTUBE SUBSCRIBERS</h1>
+          <h2 className="text-2xl tracking-tight leading-10 font-semibold  sm:text-4xl md:text-3xl mt-4 pt-2 text-[#4c4c4c] px-3"> Buy Youtube Subscribers with <br className="xl:hidden" />
+            <span className="text-brand">Fast Delivery</span>
+          </h2>
+          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> UseViral offers only the highest quality services. Buy safely and securely below:</p>
+        </div>
+        <div className='flex justify-center my-10 px-3'>
+          <div className='flex-col flex items-center sm:px-3'>
+            <div className='pricesSelect'>
+              <select className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
+                <option value="13.99€">100 Subscribers - 13.99€</option>
+                <option value="22.99€">200 Subscribers - 22.99€</option>
+                <option value="26.99€">400 Subscribers - 26.99€</option>
+                <option value="38.99€">600 Subscribers - 38.99€</option>
+                <option value="64.99€">1000 Subscribers - 64.99€</option>
+                <option value="98.99€">1500 Subscribers - 98.99€</option>
+                <option value="119.99€">2000 Subscribers - 119.99€</option>
+                <option value="159.99€">2500 Subscribers - 159.99€</option>
+                <option value="179.99€">5000 Subscribers - 179.99€</option>
+                <option value="299.99€">10000 Subscribers - 299.99€</option>
+                <option value="429.99€">25000 Subscribers - 429.99€</option>
+              </select>
+            </div>
+            <div className="monet_wrap w-96 !pt-8 !pb-4 max-sm:px-5 max-sm:!mx-[15px] ">
+              <ul className="monet_ul max-sm:text-center">
+                <li className='flex mb-3'>
+                  <img src={keyIcon} />
+                  <span>Guaranteed Delivery</span>
+                </li>
+                <li className='flex mb-3'>
+                  <img src={lockIcon} />
+                  <span>High Quality Subscribers</span>
+                </li>
+                <li className='flex mb-3'>
+                  <img src={userIcon} />
+                  <span>100% Safe &amp; Private</span>
+                </li>
+                <li className='flex mb-3'>
+                  <img src={gauranteeIcon} />
+                  <span>24/7 Support</span>
+                </li>
+              </ul>
+            </div>
+            <button className='bg-brand text-white text-center py-3  w-full  rounded-md'>BUY NOW FOR {priceSelected}</button>
+
+
+          </div>
+
+        </div>
+        <div className='flex justify-center mb-5 mx-5'>
+          <ul className='border !border-[#ed1c25] rounded-xl p-3'>
+            <li className='text-sm text-[#4c4c4c]  font-bold max-md:text-center'>
+              Includes:
+            </li>
+            <li className='text-sm'>
+              <GiCheckMark className='text-green-600 inline align-middle  mr-5' />
+              <strong>Real High-Quality </strong>
+              Subscribers
+            </li>
+            <li className='text-sm'>
+              <GiCheckMark className='text-green-600 inline align-middle  mr-5' />
+              <strong>30 days </strong>
+              refills
+            </li>
+            <li className='text-sm'>
+              <GiCheckMark className='text-green-600 inline align-middle  mr-5' />
+              Guaranteed
+              <strong> Safe and Secure Delivery</strong>
+            </li>
+          </ul>
         </div>
 
+        <h2 className='text-center h2 mb-10'>Our Other <span className="text-brand">Youtube</span> Services: </h2>
         <div className='container max-w-[1300px] px-14'>
-          <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
+        <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
             <div className="btn-group ">
-              <Link to={"/buy-insta-followers"} className="flex btn bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-                <img src={instaIcon} className='mr-3' /> Buy Instagram Followers
+              <Link to="/buy-yt-subs" className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+                <img src={utubeIcon} className='mr-3' /> Buy Youtube Subscribers
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link to={"/buy-insta-likes"} className="flex btn bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-                <img src={instaIcon} className='mr-3' /> Buy Instagram Likes
+              <Link to="/buy-yt-watch-time-hours" className="btn flex bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+                <img src={utubeIcon} className='mr-3' /> Buy Youtube Watch Time Hours
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link to="/buy-insta-reels-views" className="flex btn bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-                <img src={instaIcon} className='mr-3' /> Buy Instagram Reels Views
-              </Link>
-            </div>
-            <div className="btn-group ">
-              <Link to="/buy-insta-story-views" className="flex btn bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-                <img src={instaIcon} className='mr-3' /> Buy Instagram Story Views
+              <Link to="/buy-yt-views" className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+                <img src={utubeIcon} className='mr-3' /> Buy Youtube Views
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link to="/buy-insta-comments" className="flex btn bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
-                Buy Instagram Comments
+              <Link to="/buy-yt-likes" className="btn flex bg-blue text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+                <img src={utubeIcon} className='mr-3' /> Buy Youtube Likes
               </Link>
 
+            </div>
+            <div className="btn-group ">
+              <Link to="/buy-yt-dislikes " className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
+                <img src={utubeIcon} className='mr-3' /> Buy Youtube Dislikes
+              </Link>
+
+            </div>
+          </div>
+
+
+          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All UseViral Services:
+          </h2>
+          <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3'>
+            <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
+              <div className='h-[100px] w-[100px] mb-3'>
+                <img src={HQIcon} />
+              </div>
+              <p className='text-707070 text-center'>High Quality Service</p>
+            </div>
+            <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
+              <div className='h-[100px] w-[100px] mb-3'>
+                <img src={heartIcon} />
+              </div>
+              <p className='text-707070 text-center'>Real Reviews, Happy Customers</p>
+            </div>
+            <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
+              <div className='h-[100px] w-[100px] mb-3'>
+                <img src={servicesIcon} />
+              </div>
+              <p className='text-707070 text-center'>Targeted Services</p>
+            </div>
+            <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
+              <div className='h-[100px] w-[100px] mb-3'>
+                <img src={safeIcon} />
+              </div>
+              <p className='text-707070 text-center'>Privacy & Safety</p>
+            </div>
+            <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
+              <div className='h-[100px] w-[100px] mb-3'>
+                <img src={MBIcon} />
+              </div>
+              <p className='text-707070 text-center'>30 Day Money Back Guarantee</p>
+            </div>
+            <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
+              <div className='h-[100px] w-[100px] mb-3'>
+                <img src={customerIcon} />
+              </div>
+              <p className='text-707070 text-center'>Customer Satisfaction</p>
+            </div>
+          </div>
+        </div>
+        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does UseViral Work?
+        </h2>
+        <div className='lg:flex justify-center items-center'>
+          <div className='flex justify-center' >
+            <img src={multipleSocial} width={"100%"} />
+          </div>
+          <div class="py-12 working_steps_wrap">
+            <div class="working-steps-block bord max-w-xl mx-auto px-4 sm:px-6 lg:max-w-screen-xl lg:px-8">
+              <div class="working-steps">
+                <h3 class="text-md tracking-wide  font-semibold text-454545 sm:text-lg leading-[1.2] m-0">Select the package that is right for you</h3>
+                <div class="text-base paragraph-text text-707070">Choose from dozens of popular social networks using the links at the top of the page.</div>
+              </div>
+            </div>
+            <div class="working-steps-block bord max-w-xl mx-auto px-4 sm:px-6 lg:max-w-screen-xl lg:px-8">
+              <div class="working-steps">
+                <h3 class="text-md tracking-wide  font-semibold text-454545 sm:text-lg leading-[1.2] m-0">Provide necessary information</h3>
+                <div class="text-base paragraph-text text-707070">Enter the URL of your content or your social media username when prompted.</div>
+              </div>
+            </div>
+            <div class="working-steps-block max-w-xl mx-auto px-4 sm:px-6 lg:max-w-screen-xl lg:px-8">
+              <div class="working-steps">
+                <h3 class="text-md tracking-wide  font-semibold text-454545 sm:text-lg leading-[1.2] m-0">Checkout securely</h3>
+                <div class="text-base paragraph-text text-707070">Complete the secure online payment process, and we'll begin delivering your order.</div>
+              </div>
             </div>
           </div>
         </div>
@@ -192,4 +344,4 @@ const Insta = () => {
   )
 }
 
-export default Insta
+export default YTBuySubscribers

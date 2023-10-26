@@ -62,7 +62,7 @@ h5 {
 }
 
 .bg-blue {
-  background-color: #1b60ef!important;
+  background-color: #1b60ef !important;
 }
 
 /************ HEADER  ************/
@@ -161,6 +161,43 @@ footer .whatsappICON {
   box-shadow: 0 26px 58px 0 rgba(0, 0, 0, .22), 0 5px 14px 0 rgba(0, 0, 0, .18);
 }
 
+.monet_wrap {
+  background-color: #fbfbfb;
+  max-width: 295.18px;
+  margin: 0 auto;
+  padding: 9px;
+}
+
+.working-steps-block:before {
+  counter-increment: section;
+  content: "0" counter(section);
+  background-color: #f52159;
+  color: #fff;
+  font-size: 30px;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  border-radius: 4px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  margin-right: 30px;
+  font-weight: 700;
+}
+
+.working-steps {
+  display: inline-block;
+  vertical-align: middle;
+  width: calc(100% - 117px);
+}
+
+.working-steps-block.bord:after {
+  content: '';
+  border-left: 4px dotted #454545;
+  height: 60px;
+  display: block;
+  margin-left: 36px;
+}
 
 .icon-section .container>div {
   margin: 0 0;
@@ -168,6 +205,13 @@ footer .whatsappICON {
   border-width: 1px;
   border-color: #ececec;
   padding: 80px;
+}
+
+ul.monet_ul li img {
+  width: 16px;
+  margin-right: 10px;
+  height: 16px;
+  object-fit: contain;
 }
 
 .icon-section h3 {

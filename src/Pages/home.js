@@ -70,12 +70,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Instagram</p>
               <p className="text-xl text-black leading-8  hidden max-sm:block max-sm:text-lg">
-                	&euro;1.99
+                &euro;1.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-                	&euro;1.99
+                &euro;1.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -92,12 +92,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">YouTube</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-              &euro;3.99
+                &euro;3.99
               </p>
             </div>
             <div className="services-heading col  max-sm:hidden">
               <p className="text-xl text-black leading-8">
-              &euro;3.99
+                &euro;3.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -114,12 +114,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Facebook</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-              &euro;3.99
+                &euro;3.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-              &euro;3.99
+                &euro;3.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -136,12 +136,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Tiktok</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-              &euro;0.99
+                &euro;0.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-              &euro;0.99
+                &euro;0.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -203,12 +203,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Discord</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-               &euro;22.99
+                &euro;22.99
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-               &euro;22.99
+                &euro;22.99
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
@@ -225,12 +225,12 @@ const Home = () => {
             <div className="services-heading col-lg-6 col">
               <p className="text-xl text-black leading-8 tracking-[0.3px] my-[25px] max-sm:my-0">Telegram</p>
               <p className="text-xl text-black leading-8 hidden max-sm:block max-sm:text-lg">
-              &euro;2.49
+                &euro;2.49
               </p>
             </div>
             <div className="services-heading col max-sm:hidden">
               <p className="text-xl text-black leading-8">
-              &euro;2.49
+                &euro;2.49
               </p>
             </div>
             <div className="services-heading max-sm:hidden col">
