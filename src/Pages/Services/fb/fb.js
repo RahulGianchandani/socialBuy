@@ -15,19 +15,19 @@ const FB = () => {
         <div className='container max-w-[1300px] px-14'>
           <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
             <div className="btn-group ">
-              <Link className="btn bg-brand text-white flex    after:ms-3  py-3 font-bold text-left ps-5 " >
+              <Link to="/buy-fb-followers" className="btn bg-brand text-white flex    after:ms-3  py-3 font-bold text-left ps-5 " >
                 <img src={fbIcon} className='mr-3' /> Buy Facebook Followers
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link className="btn bg-blue text-white  flex   after:ms-3  py-3 font-bold text-left ps-5 " >
+              <Link to="/buy-fb-post-likes" className="btn bg-blue text-white  flex   after:ms-3  py-3 font-bold text-left ps-5 " >
                 <img src={fbIcon} className='mr-3' />Buy Facebook Post Likes
               </Link>
 
             </div>
             <div className="btn-group ">
-              <Link className="btn bg-brand text-white  flex   after:ms-3  py-3 font-bold text-left ps-5 " >
+              <Link to="/buy-fb-comments" className="btn bg-brand text-white  flex   after:ms-3  py-3 font-bold text-left ps-5 " >
                 <img src={fbIcon} className='mr-3' /> Buy Facebook Comments
               </Link>
 

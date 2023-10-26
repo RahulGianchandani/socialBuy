@@ -34,6 +34,10 @@ import YTBuyDislikes from './Pages/Services/yt/ytBuyDislikes';
 import YTBuyLikes from './Pages/Services/yt/ytBuylikes';
 import YTBuyViews from './Pages/Services/yt/ytBuyViews';
 import YTBuyWatchTimeHours from './Pages/Services/yt/ytBuyWatchTimeHours';
+import FbBuyComments from './Pages/Services/fb/fbBuyComments';
+import FbBuyFollowers from './Pages/Services/fb/fbBuyFollowers';
+import FbBuyPostLikes from './Pages/Services/fb/fbBuyPostLikes';
+import TgBuyMembers from './Pages/Services/tg/fbBuyPostLikes';
 
 export default function App() {
   const token = localStorage.getItem('token');
@@ -70,7 +74,12 @@ export default function App() {
           <Route path="/buy-yt-likes" element={<YTBuyLikes />} />
           <Route path="/buy-yt-views" element={<YTBuyViews />} />
           <Route path="/buy-yt-watch-time-hours" element={<YTBuyWatchTimeHours />} />
-   
+          <Route path="/buy-fb-comments" element={<FbBuyComments />} />
+          <Route path="/buy-fb-followers" element={<FbBuyFollowers />} />
+          <Route path="/buy-fb-post-likes" element={<FbBuyPostLikes />} />
+          <Route path="/buy-tg-members" element={<TgBuyMembers />} />
+
+
           {/* <Route path="/admin-login" element={<Login />} /> */}
           {/* {token === "admin" && */}
           {/* <Route path="/admin-dashboard" element={<AdminDashboard />} /> */}
