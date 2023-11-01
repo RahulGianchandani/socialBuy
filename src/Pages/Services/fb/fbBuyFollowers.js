@@ -25,7 +25,7 @@ const FbBuyFollowers = () => {
           <h2 className="text-2xl tracking-tight leading-10 font-semibold  sm:text-4xl md:text-3xl mt-4 pt-2 text-[#4c4c4c] px-3"> Buy Facebook followers with <br className="xl:hidden" />
             <span className="text-brand">Fast Delivery</span>
           </h2>
-          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> UseViral offers only the highest quality services. Buy safely and securely below:</p>
+          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> FameDaddy offers only the highest quality services. Buy safely and securely below:</p>
         </div>
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
@@ -114,7 +114,7 @@ const FbBuyFollowers = () => {
 
             </div>
           </div>
-          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All UseViral Services:
+          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All FameDaddy Services:
           </h2>
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3'>
             <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
@@ -156,7 +156,7 @@ const FbBuyFollowers = () => {
           </div>
 
         </div>
-        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does UseViral Work?
+        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does FameDaddy Work?
         </h2>
         <div className='lg:flex justify-center items-center'>
           <div className='flex justify-center' >
@@ -324,22 +324,22 @@ const FbBuyFollowers = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
                       aria-controls="collapseFive">
                       <img src="./assets/child_logos/creative.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why Should You Choose UseViral to Buy Facebook Followers?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why Should You Choose FameDaddy to Buy Facebook Followers?</h5>
                     </button>
                   </h2>
                   <div id="collapseFive" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div class="panel show"><p dir="ltr" ><span >UseViral has developed a virtual platform that provides a reliable and effective solution for purchasing Facebook followers.&nbsp;</span></p>
+                      <div class="panel show"><p dir="ltr" ><span >FameDaddy has developed a virtual platform that provides a reliable and effective solution for purchasing Facebook followers.&nbsp;</span></p>
                         <h3 dir="ltr" className="h3 font-bold"><span >Exceptional Customer Service</span></h3>
-                        <p dir="ltr" ><span >Buying Facebook followers from a site like UseViral should be a simple process. UseViral provides excellent customer service to ensure a smooth procedure from start to finish.</span></p>
+                        <p dir="ltr" ><span >Buying Facebook followers from a site like FameDaddy should be a simple process. FameDaddy provides excellent customer service to ensure a smooth procedure from start to finish.</span></p>
                         <p dir="ltr" ><span >Our team of skilled professionals is ready to answer all your questions, provide advice, and address any concerns you may have.&nbsp;</span></p>
                         <p dir="ltr" ><span >With our help, you can finish the entire process with trust and ease.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"><span >Secure and Confidential</span></h3>
                         <p dir="ltr" ><span >You must point out the secrecy and security of your account when purchasing Facebook followers.&nbsp;&nbsp;</span></p>
                         <p dir="ltr" ><span >We recognize your concern and take strict steps to secure your privacy. We use standard security and ethical standards to protect your personal information.</span></p>
-                        <p dir="ltr" ><span >You can safely build your Facebook following with UseViral while maintaining the security of your account.&nbsp;</span></p>
+                        <p dir="ltr" ><span >You can safely build your Facebook following with FameDaddy while maintaining the security of your account.&nbsp;</span></p>
                         <h3 dir="ltr" className="h3 font-bold"><span >Years of Experience in the Industry</span></h3>
-                        <p dir="ltr" ><span >One of the key reasons to choose UseViral is its significant industry experience, ten years in this business. With this experience, UseViras has gained a solid awareness of social media trends and customer needs.</span></p>
+                        <p dir="ltr" ><span >One of the key reasons to choose FameDaddy is its significant industry experience, ten years in this business. With this experience, UseViras has gained a solid awareness of social media trends and customer needs.</span></p>
 
                         <p dir="ltr" ><span >Our work allows us to deliver a high degree of knowledge, guaranteeing that our services are reliable, efficient, and adapted to the unique needs of purchasing Facebook followers.</span></p></div>
                     </div>
@@ -352,7 +352,7 @@ const FbBuyFollowers = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false"
                       aria-controls="collapseSix">
                       
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How to Buy Facebook Followers with UseViral</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How to Buy Facebook Followers with FameDaddy</h5>
                     </button>
                   </h2>
                   <div id="collapseSix" className="accordion-collapse collapse show" >
@@ -361,10 +361,10 @@ const FbBuyFollowers = () => {
 
                         <ol >
                           <li dir="ltr" aria-level="1">
-                            <p dir="ltr" role="presentation"><span >Begin by using your favorite web browser to access the official UseViral website. </span></p>
+                            <p dir="ltr" role="presentation"><span >Begin by using your favorite web browser to access the official FameDaddy website. </span></p>
                           </li>
                           <li dir="ltr" aria-level="1">
-                            <p dir="ltr" role="presentation"><span >Navigate to the services part of the UseViral website or explicitly search for TikTok followers. Look for a plan that meets your needs for TikTok followers.&nbsp;</span></p>
+                            <p dir="ltr" role="presentation"><span >Navigate to the services part of the FameDaddy website or explicitly search for TikTok followers. Look for a plan that meets your needs for TikTok followers.&nbsp;</span></p>
                           </li>
                           <li dir="ltr" aria-level="1">
                             <p dir="ltr" role="presentation"><span >Choose the option that best meets your demands regarding the number of followers you want to buy. Consider your budget, objectives, and desired level of growth.</span></p>
@@ -382,10 +382,10 @@ const FbBuyFollowers = () => {
                             <p dir="ltr" role="presentation"><span >Fill in the blanks with your name, email address, and payment information. To avoid problems with order processing, make sure the information is correct.&nbsp;</span></p>
                           </li>
                           <li dir="ltr" aria-level="1">
-                            <p dir="ltr" role="presentation"><span >Check the order information and the total amount to be paid again. Use the payment methods given by UseViral to complete the payment process.&nbsp;</span></p>
+                            <p dir="ltr" role="presentation"><span >Check the order information and the total amount to be paid again. Use the payment methods given by FameDaddy to complete the payment process.&nbsp;</span></p>
                           </li>
                           <li dir="ltr" aria-level="1">
-                            <p dir="ltr" role="presentation"><span >UseViral will begin processing your order once your money has been properly processed. The delivery time may vary depending on the shipment and the service provider. Be patient, as the followers may take some time to appear on your TikTok page.&nbsp;</span></p>
+                            <p dir="ltr" role="presentation"><span >FameDaddy will begin processing your order once your money has been properly processed. The delivery time may vary depending on the shipment and the service provider. Be patient, as the followers may take some time to appear on your TikTok page.&nbsp;</span></p>
                           </li>
                           <li dir="ltr" aria-level="1">
                             <p dir="ltr" role="presentation"><span >Once the followers are sent, keep an eye on the development and engagement of your TikTok profile. Examine the impact of the acquired followers and determine whether they align with your aims and expectations.</span></p>
@@ -400,7 +400,7 @@ const FbBuyFollowers = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false"
                       aria-controls="collapseSeven">
                       
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How does UseViral function?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How does FameDaddy function?</h5>
                     </button>
                   </h2>
                   <div id="collapseSeven" className="accordion-collapse collapse show" >
@@ -418,12 +418,12 @@ const FbBuyFollowers = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false"
                       aria-controls="collapseEight">
                       
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Can I Buy Facebook followers from UseViral for someone else?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Can I Buy Facebook followers from FameDaddy for someone else?</h5>
                     </button>
                   </h2>
                   <div id="collapseEight" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div class="panel show"><p dir="ltr" ><span >Yes, you can! You can also use UseViral to grow your and your friends' Facebook followers!</span></p>
+                      <div class="panel show"><p dir="ltr" ><span >Yes, you can! You can also use FameDaddy to grow your and your friends' Facebook followers!</span></p>
                         <p dir="ltr" ><span >Because we do not require your login information, you may purchase Facebook followers easily for an account if you only know their username.&nbsp;</span></p>
 
                         <p dir="ltr" ><span >Many of our customers wish to expand many Facebook profiles simultaneously. That's why we gave you this choice. Our primary focus is on the goals of our clients!</span></p></div>
@@ -452,7 +452,7 @@ const FbBuyFollowers = () => {
                           data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false"
                           aria-controls="collapseTen">
                           
-                          <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Does UseViral offer discounts or promotions for bulk purchases of Facebook followers?</h5>
+                          <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Does FameDaddy offer discounts or promotions for bulk purchases of Facebook followers?</h5>
                         </button>
                       </h2>
                       <div id="collapseTen" className="accordion-collapse collapse show" >
@@ -469,7 +469,7 @@ const FbBuyFollowers = () => {
                             data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false"
                             aria-controls="collapseEleven">
                             
-                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What payment methods does UseViral accept?</h5>
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What payment methods does FameDaddy accept?</h5>
                           </button>
                         </h2>
                         <div id="collapseEleven" className="accordion-collapse collapse show" >
@@ -478,7 +478,7 @@ const FbBuyFollowers = () => {
                               <p dir="ltr" ><span >We understand the value of data privacy in today's environment. As a result, when working with your data, we use modern encryption technology.</span></p>
                               <p dir="ltr" ><span >Suppose you're concerned about the safety of your personal and financial information. In that situation, you should contact the provider's customer service representatives for additional reassurance and to solve specific questions or problems you may be experiencing.</span></p>
 
-                              <p dir="ltr" ><span >When our customers buy Facebook followers cheap from UseViral, we want them to feel safe. As a result, your personal information is always kept private and secure.</span></p></div>
+                              <p dir="ltr" ><span >When our customers buy Facebook followers cheap from FameDaddy, we want them to feel safe. As a result, your personal information is always kept private and secure.</span></p></div>
                           </div>
                         </div>
                       </div>
@@ -493,16 +493,16 @@ const FbBuyFollowers = () => {
                         </h2>
                         <div id="collapseTwelve" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p dir="ltr" ><span >By providing a variety of ways to pay, UseViral aims to provide a fast and comfortable experience for our clients.&nbsp;</span></p>
+                            <div class="panel show"><p dir="ltr" ><span >By providing a variety of ways to pay, FameDaddy aims to provide a fast and comfortable experience for our clients.&nbsp;</span></p>
                               <p dir="ltr" ><span >We understand that everyone has a favored payment option. As a result, we provide secure and reliable payment alternatives.&nbsp;</span></p>
                               <p dir="ltr" ><span >If you wish to purchase our services, you can do so easily by using any of the payment methods listed below:</span></p>
 
                               <ol >
                                 <li dir="ltr" aria-level="1">
-                                  <p dir="ltr" role="presentation"><span >UseViral accepts major credit and debit cards such as Visa, American Express, Mastercard, and Discover. During checkout, we only need your credit card information, and our secure payment system will handle the rest.</span></p>
+                                  <p dir="ltr" role="presentation"><span >FameDaddy accepts major credit and debit cards such as Visa, American Express, Mastercard, and Discover. During checkout, we only need your credit card information, and our secure payment system will handle the rest.</span></p>
                                 </li>
                                 <li dir="ltr" aria-level="1">
-                                  <p dir="ltr" role="presentation"><span >A popular and reliable online payment service, PayPal provides a secure payment process. If you already have a PayPal account, link it to your UseViral purchase and finish the transaction.</span></p>
+                                  <p dir="ltr" role="presentation"><span >A popular and reliable online payment service, PayPal provides a secure payment process. If you already have a PayPal account, link it to your FameDaddy purchase and finish the transaction.</span></p>
                                 </li>
                                 <li dir="ltr" aria-level="1">
                                   <p dir="ltr" role="presentation"><span >Cryptocurrencies: In an effort to stay up-to-date with new payment methods, we also accept notable Cryptocurrencies, such as Bitcoin (BTC), and Ethereum (ETH).&nbsp;</span></p>
@@ -517,7 +517,7 @@ const FbBuyFollowers = () => {
                             data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false"
                             aria-controls="collapseThirteen">
                             
-                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How swiftly can you anticipate delivery when buying YouTube likes from UseViral?</h5>
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How swiftly can you anticipate delivery when buying YouTube likes from FameDaddy?</h5>
                           </button>
                         </h2>
                         <div id="collapseThirteen" className="accordion-collapse collapse show" >

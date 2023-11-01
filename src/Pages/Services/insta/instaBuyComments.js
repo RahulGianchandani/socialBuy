@@ -25,7 +25,7 @@ const InstaBuyComments = () => {
           <h2 className="text-2xl tracking-tight leading-10 font-semibold  sm:text-4xl md:text-3xl mt-4 pt-2 text-[#4c4c4c] px-3"> Buy Instagram comments with <br className="xl:hidden" />
             <span className="text-brand">Fast Delivery</span>
           </h2>
-          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> UseViral offers only the highest quality services. Buy safely and securely below:</p>
+          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> FameDaddy offers only the highest quality services. Buy safely and securely below:</p>
         </div>
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
@@ -124,7 +124,7 @@ const InstaBuyComments = () => {
 
             </div>
           </div>
-          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All UseViral Services:
+          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All FameDaddy Services:
           </h2>
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3'>
             <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
@@ -166,7 +166,7 @@ const InstaBuyComments = () => {
           </div>
 
         </div>
-        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does UseViral Work?
+        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does FameDaddy Work?
         </h2>
         <div className='lg:flex justify-center items-center'>
           <div className='flex justify-center' >
@@ -326,15 +326,15 @@ const InstaBuyComments = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
                       aria-controls="collapseFour">
                       <img src="./assets/child_logos//brain.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Using UseViral to Buy Instagram Comments: A Step-by-Step Guide</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Using FameDaddy to Buy Instagram Comments: A Step-by-Step Guide</h5>
                     </button>
                   </h2>
                   <div id="collapseFour" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
                       <div class="panel show">
                         <h3>Account Creation and Login</h3>
-                        <p>Start by visiting the official UseViral website and look for the registration or sign-up option to create a new account.</p>
-                        <p>Provide the required information, including your name, email address, and password, to create your UseViral account successfully.</p><p>Once your account is created, log in using the credentials you provided during registration. This will give you access to UseViral's platform features and services.</p><h3>Selecting the Desired Service Package</h3><p>Take some time to explore the range of service packages offered by UseViral, designed explicitly for buying Instagram comments.</p><p>Consider the number of comments you desire for your Instagram account and choose a package that aligns with your goals.</p><p>You can also consider the delivery speed at which you want the comments to be added to your account and any targeting options available based on location or interests.</p><h3>Providing Instagram Account Details</h3><p>After selecting a suitable package, you will be prompted to enter your Instagram account details accurately.</p><p>Ensure you provide your Instagram username or URL correctly to deliver the comments to the intended account.</p><p>Before proceeding, double-check that your Instagram account is set to public, as this is necessary for a smooth delivery process.</p><h3>Safe and Secure Payment Options</h3><p>UseViral offers secure payment methods, such as credit cards or PayPal, to ensure the safety of your financial information.</p><p>Choose your preferred payment method and carefully follow the provided instructions by UseViral to complete the payment process.</p><p>During this step, prioritize the confidentiality and security of your payment details.</p><h3>Tracking Order Progress</h3><p>Once your payment is processed, UseViral will deliver the purchased comments to your Instagram account.</p><p>UseViral may provide a tracking feature that allows you to monitor the progress of your order.</p><p>Take advantage of this tracking feature to observe the gradual increase in comments on your Instagram account.</p><p>Remember that the delivery time may vary depending on the package and the number of comments you purchased.</p><p>Following these steps, you can use UseViral to buy Instagram comments and enhance your online presence.</p><p>Remember to consider your goals and budget when selecting a package and ensure the accuracy of your account details for a seamless delivery process.</p></div>
+                        <p>Start by visiting the official FameDaddy website and look for the registration or sign-up option to create a new account.</p>
+                        <p>Provide the required information, including your name, email address, and password, to create your FameDaddy account successfully.</p><p>Once your account is created, log in using the credentials you provided during registration. This will give you access to FameDaddy's platform features and services.</p><h3>Selecting the Desired Service Package</h3><p>Take some time to explore the range of service packages offered by FameDaddy, designed explicitly for buying Instagram comments.</p><p>Consider the number of comments you desire for your Instagram account and choose a package that aligns with your goals.</p><p>You can also consider the delivery speed at which you want the comments to be added to your account and any targeting options available based on location or interests.</p><h3>Providing Instagram Account Details</h3><p>After selecting a suitable package, you will be prompted to enter your Instagram account details accurately.</p><p>Ensure you provide your Instagram username or URL correctly to deliver the comments to the intended account.</p><p>Before proceeding, double-check that your Instagram account is set to public, as this is necessary for a smooth delivery process.</p><h3>Safe and Secure Payment Options</h3><p>FameDaddy offers secure payment methods, such as credit cards or PayPal, to ensure the safety of your financial information.</p><p>Choose your preferred payment method and carefully follow the provided instructions by FameDaddy to complete the payment process.</p><p>During this step, prioritize the confidentiality and security of your payment details.</p><h3>Tracking Order Progress</h3><p>Once your payment is processed, FameDaddy will deliver the purchased comments to your Instagram account.</p><p>FameDaddy may provide a tracking feature that allows you to monitor the progress of your order.</p><p>Take advantage of this tracking feature to observe the gradual increase in comments on your Instagram account.</p><p>Remember that the delivery time may vary depending on the package and the number of comments you purchased.</p><p>Following these steps, you can use FameDaddy to buy Instagram comments and enhance your online presence.</p><p>Remember to consider your goals and budget when selecting a package and ensure the accuracy of your account details for a seamless delivery process.</p></div>
                     </div>
                   </div>
                 </div>
@@ -344,7 +344,7 @@ const InstaBuyComments = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
                       aria-controls="collapseFive">
                       <img src="./assets/child_logos/creative.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Does buying Instagram comments from UseViral guarantee engagement on my posts?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Does buying Instagram comments from FameDaddy guarantee engagement on my posts?</h5>
                     </button>
                   </h2>
                   <div id="collapseFive" className="accordion-collapse collapse show" >
@@ -365,7 +365,7 @@ const InstaBuyComments = () => {
                   </h2>
                   <div id="collapseSix" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div class="panel show"><p>While UseViral strives to provide comments that will stay on your posts, it's important to note that comment retention cannot be guaranteed indefinitely.&nbsp;</p><p>Some comments may be removed over time due to various factors, such as user preferences or interest changes.&nbsp;</p><p>However, UseViral aims to deliver high-quality comments from users likelier to engage and remain on your posts.</p></div>
+                      <div class="panel show"><p>While FameDaddy strives to provide comments that will stay on your posts, it's important to note that comment retention cannot be guaranteed indefinitely.&nbsp;</p><p>Some comments may be removed over time due to various factors, such as user preferences or interest changes.&nbsp;</p><p>However, FameDaddy aims to deliver high-quality comments from users likelier to engage and remain on your posts.</p></div>
                     </div>
                   </div>
                 </div>
@@ -375,12 +375,12 @@ const InstaBuyComments = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false"
                       aria-controls="collapseSeven">
                       
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What payment methods does UseViral accept?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What payment methods does FameDaddy accept?</h5>
                     </button>
                   </h2>
                   <div id="collapseSeven" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div class="panel show"><p>UseViral accepts major credit/debit cards, PayPal, and cryptocurrency as secure payment methods. During the checkout process, you can choose your preferred payment option.</p></div>
+                      <div class="panel show"><p>FameDaddy accepts major credit/debit cards, PayPal, and cryptocurrency as secure payment methods. During the checkout process, you can choose your preferred payment option.</p></div>
                     </div>
                   </div>
                 </div>
@@ -395,7 +395,7 @@ const InstaBuyComments = () => {
                   </h2>
                   <div id="collapseEight" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div class="panel show"><p>UseViral prioritizes privacy and data security. They implement industry-standard measures to protect your personal information. However, it's essential to exercise caution and provide only the details required for the transaction.</p></div>
+                      <div class="panel show"><p>FameDaddy prioritizes privacy and data security. They implement industry-standard measures to protect your personal information. However, it's essential to exercise caution and provide only the details required for the transaction.</p></div>
                     </div>
                   </div>
                   <div className="accordion-item   duration-500 border-0 mb-[20px] ">
@@ -404,12 +404,12 @@ const InstaBuyComments = () => {
                         data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false"
                         aria-controls="collapseNine">
                         
-                        <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Does UseViral offer any additional services for Instagram growth?</h5>
+                        <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Does FameDaddy offer any additional services for Instagram growth?</h5>
                       </button>
                     </h2>
                     <div id="collapseNine" className="accordion-collapse collapse show" >
                       <div className="accordion-body border border-[#eee]">
-                        <div class="panel show"><p>Yes, UseViral provides a range of services to enhance your Instagram growth. Along with buying comments, they offer options to purchase likes, views, and other forms of engagement. These services can complement your social media strategy and increase your profile's visibility.</p></div>
+                        <div class="panel show"><p>Yes, FameDaddy provides a range of services to enhance your Instagram growth. Along with buying comments, they offer options to purchase likes, views, and other forms of engagement. These services can complement your social media strategy and increase your profile's visibility.</p></div>
                       </div>
                     </div>
                     <div className="accordion-item   duration-500 border-0 mb-[20px] ">
@@ -423,7 +423,7 @@ const InstaBuyComments = () => {
                       </h2>
                       <div id="collapseTen" className="accordion-collapse collapse show" >
                         <div className="accordion-body border border-[#eee]">
-                          <div class="panel show"><p>If you have any concerns or questions about your purchase or the services provided by UseViral, you can typically contact their customer support team through their website or via email. They can assist you with queries, refund requests, or any technical difficulties you may encounter.</p></div>
+                          <div class="panel show"><p>If you have any concerns or questions about your purchase or the services provided by FameDaddy, you can typically contact their customer support team through their website or via email. They can assist you with queries, refund requests, or any technical difficulties you may encounter.</p></div>
                         </div>
                       </div>
                       <div className="accordion-item   duration-500 border-0 mb-[20px] ">
@@ -452,7 +452,7 @@ const InstaBuyComments = () => {
                         </h2>
                         <div id="collapseTwelve" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p>When you purchase Instagram comments from UseViral, they utilize various marketing techniques to promote your account. This may include targeted advertising and promotion through their network of influencers.</p></div>
+                            <div class="panel show"><p>When you purchase Instagram comments from FameDaddy, they utilize various marketing techniques to promote your account. This may include targeted advertising and promotion through their network of influencers.</p></div>
                           </div>
                         </div>
                       </div>
@@ -467,7 +467,7 @@ const InstaBuyComments = () => {
                         </h2>
                         <div id="collapseThirteen" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p>The delivery time for Instagram comments varies depending on the number of comments purchased and the current workload.&nbsp;</p><p>UseViral typically provides an estimated delivery timeframe during the ordering process. It's important to note that comments may be delivered gradually over a specified period to ensure a more organic growth pattern.</p></div>
+                            <div class="panel show"><p>The delivery time for Instagram comments varies depending on the number of comments purchased and the current workload.&nbsp;</p><p>FameDaddy typically provides an estimated delivery timeframe during the ordering process. It's important to note that comments may be delivered gradually over a specified period to ensure a more organic growth pattern.</p></div>
                           </div>
                         </div>
                       </div>
@@ -482,7 +482,7 @@ const InstaBuyComments = () => {
                         </h2>
                         <div id="collapseFourteen" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p>UseViral aims to provide comments from real and active Instagram accounts. However, it's essential to understand that there may be a mix of real users and some inactive or bot accounts among the comments. UseViral strives to maintain a high proportion of genuine comments.commen</p></div>
+                            <div class="panel show"><p>FameDaddy aims to provide comments from real and active Instagram accounts. However, it's essential to understand that there may be a mix of real users and some inactive or bot accounts among the comments. FameDaddy strives to maintain a high proportion of genuine comments.commen</p></div>
                           </div>
                         </div>
                       </div>
@@ -512,7 +512,7 @@ const InstaBuyComments = () => {
                         </h2>
                         <div id="collapseSixteen" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p>UseViral may offer targeting options such as niche-based comments or comments from users in specific countries.&nbsp;</p><p>However, precise demographic targeting may not be available or accurate due to the nature of social media marketing.</p></div>
+                            <div class="panel show"><p>FameDaddy may offer targeting options such as niche-based comments or comments from users in specific countries.&nbsp;</p><p>However, precise demographic targeting may not be available or accurate due to the nature of social media marketing.</p></div>
                           </div>
                         </div>
                       </div>
@@ -527,7 +527,7 @@ const InstaBuyComments = () => {
                         </h2>
                         <div id="collapseSeventeen" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p>No, you generally cannot purchase comments for a private Instagram account. Your account needs to be set to public to receive comments through marketing services like UseViral.</p></div>
+                            <div class="panel show"><p>No, you generally cannot purchase comments for a private Instagram account. Your account needs to be set to public to receive comments through marketing services like FameDaddy.</p></div>
                           </div>
                         </div>
                       </div>
@@ -587,7 +587,7 @@ const InstaBuyComments = () => {
                         </h2>
                         <div id="collapseTweentyOne" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p>The rate at which you gain comments through purchasing depends on the specific service provider and the package you choose.&nbsp;</p><p>It's essential to consider a natural growth rate and avoid sudden, drastic spikes that may raise suspicions or violate social media platform guidelines like UseViral.</p></div>
+                            <div class="panel show"><p>The rate at which you gain comments through purchasing depends on the specific service provider and the package you choose.&nbsp;</p><p>It's essential to consider a natural growth rate and avoid sudden, drastic spikes that may raise suspicions or violate social media platform guidelines like FameDaddy.</p></div>
                           </div>
                         </div>
                       </div>

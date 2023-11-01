@@ -25,7 +25,7 @@ const TwitchBuyLive = () => {
           <h2 className="text-2xl tracking-tight leading-10 font-semibold  sm:text-4xl md:text-3xl mt-4 pt-2 text-[#4c4c4c] px-3"> Buy Twitch Live with <br className="xl:hidden" />
             <span className="text-brand">Fast Delivery</span>
           </h2>
-          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> UseViral offers only the highest quality services. Buy safely and securely below:</p>
+          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> FameDaddy offers only the highest quality services. Buy safely and securely below:</p>
         </div>
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
@@ -110,7 +110,7 @@ const TwitchBuyLive = () => {
 
             </div>
           </div>
-          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All UseViral Services:
+          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All FameDaddy Services:
           </h2>
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3'>
             <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
@@ -152,7 +152,7 @@ const TwitchBuyLive = () => {
           </div>
 
         </div>
-        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does UseViral Work?
+        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does FameDaddy Work?
         </h2>
         <div className='lg:flex justify-center items-center'>
           <div className='flex justify-center' >
@@ -207,8 +207,8 @@ const TwitchBuyLive = () => {
                       <div class="panel show"><p dir="ltr"><span >Twitch is one of the world's most popular streaming platforms. It is a place where craters can share content they produce on the spot, and as a result of its success, it is an excellent way for popular creators to make money.</span></p>
                         <p dir="ltr"><span >We understand that getting the recognition you deserve might not be that easy. If you don’t have enough viewers on your live streams, you won't be able to improve on the platform.</span></p>
                         <p dir="ltr"><span >So what should you do?</span></p>
-                        <p dir="ltr"><span >You can buy Twitch live viewers by using UseViral services!</span></p>
-                        <p dir="ltr"><span >As UseViral, we recognize the importance of Twitch Live Views in helping you become a better creator and elevate your presence on the platform.&nbsp;</span></p>
+                        <p dir="ltr"><span >You can buy Twitch live viewers by using FameDaddy services!</span></p>
+                        <p dir="ltr"><span >As FameDaddy, we recognize the importance of Twitch Live Views in helping you become a better creator and elevate your presence on the platform.&nbsp;</span></p>
                         <p dir="ltr"><span >If you increase Twitch live views, it provides you with valuable feedback and insights. When more viewers tune into your streams, you receive a broader range of perspectives and opinions.</span></p>
                         <p dir="ltr"><span >This feedback can be precious in refining your content, identifying areas for improvement, and understanding what resonates with your audience.&nbsp;</span></p>
                         <p dir="ltr"><span >By actively listening to your viewers, you can adjust, deliver content that aligns with their interests, and continuously enhance your streaming skills.</span></p>
@@ -245,14 +245,14 @@ const TwitchBuyLive = () => {
                         <p dir="ltr"><span >By leveraging your increased viewership, you can forge valuable connections, build a professional network, and establish yourself as a reputable and influential presence in the Twitch community.&nbsp;</span></p>
                         <p dir="ltr"><span >These networking and partnership opportunities enhance your channel's growth and open doors to exciting and rewarding collaborations that can take your Twitch journey to new heights.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Instant Boost in Viewership</span></h3>
-                        <p dir="ltr"><span >One of the significant advantages of buying Twitch live viewers through UseViral is the instant boost in viewership it provides. Building an audience from scratch can be challenging and time-consuming for a streamer.&nbsp;</span></p>
+                        <p dir="ltr"><span >One of the significant advantages of buying Twitch live viewers through FameDaddy is the instant boost in viewership it provides. Building an audience from scratch can be challenging and time-consuming for a streamer.&nbsp;</span></p>
                         <p dir="ltr"><span >However, by purchasing Twitch live viewers, you can quickly increase the number of viewers in your stream and create a sense of popularity right from the start.</span></p>
                         <p dir="ltr"><span >When potential viewers come across your stream and see more viewers, they are more likely to be intrigued and curious about your offer.&nbsp;</span></p>
                         <p dir="ltr"><span >This increased viewership can create a positive first impression and make your stream more appealing to new viewers. It creates a perception of credibility and success, significantly impacting viewers' decision to join and engage with your stream.</span></p>
                         <p dir="ltr"><span >Furthermore, the instant boost in viewership can also attract more organic viewers. When new viewers see that your stream already has many viewers, they are more likely to join and participate in the conversation.&nbsp;</span></p>
                         <p dir="ltr"><span >This can lead to a snowball effect, where the increased engagement from organic viewers further enhances the appeal of your stream and attracts even more viewers.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Improved Stream Ranking</span></h3>
-                        <p dir="ltr"><span >If you active Twitch live viewers from UseViral, you can improve your stream's ranking on the platform and increase its overall visibility. When your stream ranks higher in search results and recommendations, it becomes more accessible to a larger audience, increasing the chances of attracting organic viewership.&nbsp;</span></p>
+                        <p dir="ltr"><span >If you active Twitch live viewers from FameDaddy, you can improve your stream's ranking on the platform and increase its overall visibility. When your stream ranks higher in search results and recommendations, it becomes more accessible to a larger audience, increasing the chances of attracting organic viewership.&nbsp;</span></p>
                         <p dir="ltr"><span >This improved visibility can have a domino effect as more viewers discover and engage with your stream, leading to greater exposure and growth.</span></p>
                         <p dir="ltr"><span >You can reach a broader audience and expand your Twitch community with an enhanced stream ranking. As more viewers tune in to your stream, you can cultivate a dedicated following, foster a sense of community, and build meaningful connections with your audience.&nbsp;</span></p>
                         <p dir="ltr"><span >These connections can increase engagement, more frequent interactions, and a lively chat environment during your streams.</span></p>
@@ -273,22 +273,22 @@ const TwitchBuyLive = () => {
                   </h2>
                   <div id="collapseFive" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div class="panel show"><p dir="ltr"><span >Yes, it is safe to buy Twitch live viewers from UseViral. We prioritize the safety and security of our users. Here are a few reasons why purchasing Twitch live viewers with our services is safe.</span></p>
+                      <div class="panel show"><p dir="ltr"><span >Yes, it is safe to buy Twitch live viewers from FameDaddy. We prioritize the safety and security of our users. Here are a few reasons why purchasing Twitch live viewers with our services is safe.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >High-Quality Viewers</span></h3>
-                        <p dir="ltr"><span >With UseViral, you buy real active Twitch viewers. We ensure that the live viewers you purchase are real and active Twitch users. We have a network of genuine Twitch users who engage with various channels, including yours.&nbsp;</span></p>
+                        <p dir="ltr"><span >With FameDaddy, you buy real active Twitch viewers. We ensure that the live viewers you purchase are real and active Twitch users. We have a network of genuine Twitch users who engage with various channels, including yours.&nbsp;</span></p>
                         <p dir="ltr"><span >The quality of our viewers extends beyond their source. If you buy real Twitch live viewers, you get an audience here to stay. Unlike other services that give bots to their clients, consequently putting their profiles in danger, we employ trustworthy tactics that ensure the growth and security of your account.</span></p>
                         <p dir="ltr"><span >The quantity of viewers you buy isn’t the only important thing. Choosing a service that guarantees the integrity and longevity of your new audience is crucial.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Compliance with Twitch Guidelines</span></h3>
-                        <p dir="ltr"><span >At UseViral, we understand the importance of maintaining compliance with Twitch's guidelines. When you buy Twitch live viewers cheap from us, you can be confident that our methods are safe and in line with Twitch's terms of service.&nbsp;</span></p>
+                        <p dir="ltr"><span >At FameDaddy, we understand the importance of maintaining compliance with Twitch's guidelines. When you buy Twitch live viewers cheap from us, you can be confident that our methods are safe and in line with Twitch's terms of service.&nbsp;</span></p>
                         <p dir="ltr"><span >We do not engage in any activities that could jeopardize the integrity of your Twitch account.</span></p>
                         <p dir="ltr"><span >Our team works diligently to ensure that the delivery of live viewers is done according to Twitch's guidelines.&nbsp;</span></p>
-                        <p dir="ltr"><span >UseViral focuses on providing real and active viewers who authentically engage with your content. This helps create a positive and organic viewer experience.</span></p>
+                        <p dir="ltr"><span >FameDaddy focuses on providing real and active viewers who authentically engage with your content. This helps create a positive and organic viewer experience.</span></p>
                         <p dir="ltr"><span >By complying with Twitch's guidelines, we safeguard your account and prioritize your Twitch channel's long-term success.&nbsp;</span></p>
                         <p dir="ltr"><span >Maintaining a strong and reputable presence on Twitch is essential for building your audience and fostering a loyal community.</span></p>
-                        <p dir="ltr"><span >Rest assured that when you choose UseViral, you partner with a trusted provider prioritizing your account's compliance and safety.&nbsp;</span></p>
+                        <p dir="ltr"><span >Rest assured that when you choose FameDaddy, you partner with a trusted provider prioritizing your account's compliance and safety.&nbsp;</span></p>
                         <p dir="ltr"><span >Our platform is committed to helping you achieve your streaming goals while ensuring your Twitch channel remains in good standing within the Twitch community.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Account Security</span></h3>
-                        <p dir="ltr"><span >At UseViral, we prioritize the security and privacy of your Twitch account. When you purchase Twitch live viewers from us, you can rest assured that we do not require access to your account credentials.&nbsp;</span></p>
+                        <p dir="ltr"><span >At FameDaddy, we prioritize the security and privacy of your Twitch account. When you purchase Twitch live viewers from us, you can rest assured that we do not require access to your account credentials.&nbsp;</span></p>
                         <p dir="ltr"><span >We understand the importance of safeguarding your login information and have implemented measures to ensure it remains confidential.</span></p>
                         <p dir="ltr"><span >Our services are designed to focus solely on providing you with live viewers to enhance your streaming experience. We do not engage in any activities that compromise the security or integrity of your Twitch account.&nbsp;</span></p>
                         <p dir="ltr"><span >You can trust that your account will remain secure while you enjoy the benefits of increased viewership.</span></p>
@@ -306,25 +306,25 @@ const TwitchBuyLive = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
                       aria-controls="collapseTwo">
                       <img src="./assets/child_logos//brain.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why Should I Choose UseViral to Buy Twitch Live Viewers?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why Should I Choose FameDaddy to Buy Twitch Live Viewers?</h5>
                     </button>
                   </h2>
                   <div id="collapseTwo" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div class="panel show"><p dir="ltr"><span >As UseViral, we understand the importance of choosing the right service provider when you buy targeted Twitch live viewers. Here's why you should choose UseViral for your Twitch growth.</span></p>
+                      <div class="panel show"><p dir="ltr"><span >As FameDaddy, we understand the importance of choosing the right service provider when you buy targeted Twitch live viewers. Here's why you should choose FameDaddy for your Twitch growth.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >10 Years Experience</span></h3>
-                        <p dir="ltr"><span >Our ten years of experience in the industry sets UseViral apart as a trusted provider of Twitch Services. Over the years, we have honed our skills and developed a deep understanding of the Twitch platform.&nbsp;</span></p>
+                        <p dir="ltr"><span >Our ten years of experience in the industry sets FameDaddy apart as a trusted provider of Twitch Services. Over the years, we have honed our skills and developed a deep understanding of the Twitch platform.&nbsp;</span></p>
                         <p dir="ltr"><span >We have worked with numerous Twitch streamers, gaining valuable insights into their needs and challenges.</span></p>
                         
                         <p dir="ltr"><span >With this extensive experience, we have refined our strategies and techniques to deliver high-quality Twitch services that yield exceptional results.&nbsp;</span></p>
                         <p dir="ltr"><span >We understand the best practices for growing a Twitch channel, including optimizing stream visibility, increasing engagement, and attracting genuine viewers.</span></p>
                         <p dir="ltr"><span >Our expertise allows us to tailor our services to meet each client's unique requirements, ensuring their Twitch channels thrive and reach new heights.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Dedicated Customer Support</span></h3>
-                        <p dir="ltr"><span >At UseViral, we take great pride in our dedicated customer support. Our client's satisfaction is paramount, and we strive to provide exceptional service and support throughout your journey with us.</span></p>
+                        <p dir="ltr"><span >At FameDaddy, we take great pride in our dedicated customer support. Our client's satisfaction is paramount, and we strive to provide exceptional service and support throughout your journey with us.</span></p>
                         <p dir="ltr"><span >Our customer support team consists of experienced professionals passionate about assisting you. They are available to address any queries, concerns, or issues, and they will guide you every step of the way. Whether you need clarification on our services, assistance with placing an order, or help with troubleshooting, our team is just a message away.</span></p>
                         <p dir="ltr"><span >We prioritize responsiveness and aim to provide prompt solutions to ensure a seamless experience for our clients. Our support team is well-versed in our services and has in-depth industry knowledge, allowing them to provide accurate and practical guidance tailored to your needs.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Understanding of The Platform</span></h3>
-                        <p dir="ltr"><span >At UseViral, our deep understanding of the Twitch platform sets us apart from other service providers. We have invested time and resources into studying Twitch's guidelines, best practices, and algorithmic changes to ensure that our services align with Twitch's policies.&nbsp;</span></p>
+                        <p dir="ltr"><span >At FameDaddy, our deep understanding of the Twitch platform sets us apart from other service providers. We have invested time and resources into studying Twitch's guidelines, best practices, and algorithmic changes to ensure that our services align with Twitch's policies.&nbsp;</span></p>
                         <p dir="ltr"><span >We are well-versed in the unique dynamics of Twitch, including the importance of engagement, viewer interaction, and discoverability.</span></p>
                         <p dir="ltr"><span >By leveraging our understanding of the platform, we deliver Twitch live viewers safely and organically.&nbsp;</span></p>
                         <p>&nbsp;</p>
@@ -338,26 +338,26 @@ const TwitchBuyLive = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
                       aria-controls="collapseFour">
                       <img src="./assets/child_logos/creative.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy Twitch Live Viewers with UseViral</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy Twitch Live Viewers with FameDaddy</h5>
                     </button>
                   </h2>
                   <div id="collapseFour" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div class="panel show"><h3 dir="ltr" className="h3 font-bold"  ><span >Step 1: Visit the UseViral Website</span></h3>
-                        <p dir="ltr"><span >Go to the official UseViral website to access our range of Twitch services.</span></p>
+                      <div class="panel show"><h3 dir="ltr" className="h3 font-bold"  ><span >Step 1: Visit the FameDaddy Website</span></h3>
+                        <p dir="ltr"><span >Go to the official FameDaddy website to access our range of Twitch services.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Step 2: Select "Twitch Live Viewers"</span></h3>
                         <p dir="ltr"><span >Browse through our services and select the "Twitch Live Viewers" option. This will take you to the Twitch live viewers service page.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Step 3: Choose the Package</span></h3>
-                        <p dir="ltr"><span >Choose the package that suits your needs. UseViral offers various packages with different quantities of live viewers. Consider your budget and streaming goals when making your selection.</span></p>
+                        <p dir="ltr"><span >Choose the package that suits your needs. FameDaddy offers various packages with different quantities of live viewers. Consider your budget and streaming goals when making your selection.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Step 4: Provide Your Twitch Channel Details</span></h3>
                         <p dir="ltr"><span >Enter your Twitch channel URL or username to specify where live viewers are delivered. Make sure to double-check the information for accuracy.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Step 5: Customize Your Order (Optional)</span></h3>
-                        <p dir="ltr"><span >UseViral provides additional customization options to tailor your order. You can choose the delivery speed, geographical location, and other specifications to align with your preferences. These options allow you to optimize the experience for your Twitch channel.</span></p>
+                        <p dir="ltr"><span >FameDaddy provides additional customization options to tailor your order. You can choose the delivery speed, geographical location, and other specifications to align with your preferences. These options allow you to optimize the experience for your Twitch channel.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Step 6: Add to Cart and Proceed to Checkout</span></h3>
                         <p dir="ltr"><span >Add the package to your cart once satisfied with your selection and customization. Proceed to the checkout page to review your order and make the payment.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Step 7: Complete the Payment</span></h3>
                         
-                        <p dir="ltr"><span >Choose from the available payment options UseViral provides and provide the necessary details to complete the payment securely. UseViral prioritizes the safety and confidentiality of your information.</span></p></div>
+                        <p dir="ltr"><span >Choose from the available payment options FameDaddy provides and provide the necessary details to complete the payment securely. FameDaddy prioritizes the safety and confidentiality of your information.</span></p></div>
                     </div>
                   </div>
                 </div>
@@ -373,7 +373,7 @@ const TwitchBuyLive = () => {
                   </h2>
                   <div id="collapseSix" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div class="panel show"><p dir="ltr"><span >Absolutely! At UseViral, we understand the importance of maintaining an organic and natural growth pattern for your Twitch channel.&nbsp;</span></p>
+                      <div class="panel show"><p dir="ltr"><span >Absolutely! At FameDaddy, we understand the importance of maintaining an organic and natural growth pattern for your Twitch channel.&nbsp;</span></p>
                         <p dir="ltr"><span >That's why we offer the option to customize the delivery speed of Twitch live viewers according to your preferences.</span></p>
                         <p dir="ltr"><span >During ordering, you can select the desired speed at which you want the Twitch live viewers for sale on our to be delivered to your channel.&nbsp;</span></p>
                         
@@ -392,7 +392,7 @@ const TwitchBuyLive = () => {
                   </h2>
                   <div id="collapseSeven" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div class="panel show"><p dir="ltr"><span >Absolutely! At UseViral, we understand the importance of targeting specific geographical locations for your Twitch live viewers. We offer the flexibility to specify the desired location or region when purchasing Twitch live viewers.&nbsp;</span></p>
+                      <div class="panel show"><p dir="ltr"><span >Absolutely! At FameDaddy, we understand the importance of targeting specific geographical locations for your Twitch live viewers. We offer the flexibility to specify the desired location or region when purchasing Twitch live viewers.&nbsp;</span></p>
                         <p dir="ltr"><span >This means you can tailor your viewership to align with your target audience or focus on attracting viewers from specific geographical areas.</span></p>
                         <p dir="ltr"><span >Targeting specific locations can be beneficial for several reasons. It allows you to connect with viewers who are more likely to resonate with your content, as they are from the same region or have shared interests.&nbsp;</span></p>
                         

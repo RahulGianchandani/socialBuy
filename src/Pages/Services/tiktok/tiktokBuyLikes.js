@@ -25,7 +25,7 @@ const TiktokBuyLikes = () => {
           <h2 className="text-2xl tracking-tight leading-10 font-semibold  sm:text-4xl md:text-3xl mt-4 pt-2 text-[#4c4c4c] px-3"> Buy Tiktok Likes with <br className="xl:hidden" />
             <span className="text-brand">Fast Delivery</span>
           </h2>
-          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> UseViral offers only the highest quality services. Buy safely and securely below:</p>
+          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> FameDaddy offers only the highest quality services. Buy safely and securely below:</p>
         </div>
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
@@ -120,7 +120,7 @@ const TiktokBuyLikes = () => {
 
             </div>
           </div>
-          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All UseViral Services:
+          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All FameDaddy Services:
           </h2>
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3'>
             <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
@@ -162,7 +162,7 @@ const TiktokBuyLikes = () => {
           </div>
 
         </div>
-        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does UseViral Work?
+        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does FameDaddy Work?
         </h2>
         <div className='lg:flex justify-center items-center'>
           <div className='flex justify-center' >
@@ -251,7 +251,7 @@ const TiktokBuyLikes = () => {
 
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Boosters of Motivation</span></h3>
                       <p dir="ltr" ><span >Everyone wants their content to get the attention it deserves. Every influencer aspires to have a more extensive follower base since it provides the impression that he is doing something right and producing quality material for his audience.&nbsp;</span></p>
-                      <p dir="ltr" ><span >Some people see success as an added motivator to go the extra mile and be their best version. That is why gaining followers through UseViral can give you the confidence to continue providing your audience with the required content.</span></p>
+                      <p dir="ltr" ><span >Some people see success as an added motivator to go the extra mile and be their best version. That is why gaining followers through FameDaddy can give you the confidence to continue providing your audience with the required content.</span></p>
                       <p dir="ltr" ><span >Buying TikTok followers and experiencing success can inspire influencers to experiment with their material and branch out in new ways because who knows when it will go viral!</span></p>
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Access to Data</span></h3>
                       <p dir="ltr" ><span >Data power the modern world we live in. It is one of the tools businesses employ to maximize earnings and identify areas for improvement. It introduces an entirely new way of looking at things, in which you may learn about the quality of your material by looking at data and graphs.&nbsp;</span></p>
@@ -308,19 +308,19 @@ const TiktokBuyLikes = () => {
                     data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
                     aria-controls="collapseFour">
 
-                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why should you choose UseViral to buy TikTok likes?</h5>
+                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why should you choose FameDaddy to buy TikTok likes?</h5>
                   </button>
                 </h2>
                 <div id="collapseFour" className="accordion-collapse collapse show" >
                   <div className="accordion-body border border-[#eee]">
                     <div class="panel show"><p dir="ltr"></p>
-                      <p dir="ltr" ><span >UseViral understands that buying TikTok likes is surrounded by skepticism. Our mission is to dispel this falsehood. The dilemma arises because many corporations have engaged in criminal practices.</span></p>
+                      <p dir="ltr" ><span >FameDaddy understands that buying TikTok likes is surrounded by skepticism. Our mission is to dispel this falsehood. The dilemma arises because many corporations have engaged in criminal practices.</span></p>
                       <p dir="ltr" ><span >However, the quick response is yes. Buying likes on TikTok is entirely secure.&nbsp;</span></p>
                       <p dir="ltr" ><span >To give you a thorough response, we'll have to provide some data we've accumulated throughout many years in business.</span></p>
-                      <p dir="ltr" ><span >UseViral's legal team has ensured that our operations follow TikTok's policies and local regulations. Buying likes on TikTok is not illegal in any of these jurisdictions.&nbsp;</span></p>
+                      <p dir="ltr" ><span >FameDaddy's legal team has ensured that our operations follow TikTok's policies and local regulations. Buying likes on TikTok is not illegal in any of these jurisdictions.&nbsp;</span></p>
                       <p dir="ltr" ><span >We have continued sending likes for a long time. The whole buying process can be completed in two weeks. You should not worry; those who liked your video will see it soon. This is a safety precaution.</span></p>
 
-                      <p dir="ltr" ><span >We promise safety, and there has never been a case of a banned user using UseViral likes, but ultimately the decision to buy and put doubts aside is yours to make.</span></p></div>
+                      <p dir="ltr" ><span >We promise safety, and there has never been a case of a banned user using FameDaddy likes, but ultimately the decision to buy and put doubts aside is yours to make.</span></p></div>
                   </div>
                 </div>
               </div>
@@ -330,19 +330,19 @@ const TiktokBuyLikes = () => {
                     data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
                     aria-controls="collapseFive">
 
-                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to buy TikTok likes with Useviral?</h5>
+                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to buy TikTok likes with FameDaddy?</h5>
                   </button>
                 </h2>
                 <div id="collapseFive" className="accordion-collapse collapse show" >
                   <div className="accordion-body border border-[#eee]">
-                    <div class="panel show"><p dir="ltr" ><span >UseViral continuously encourages clients to be their best to get renowned online.</span></p>
+                    <div class="panel show"><p dir="ltr" ><span >FameDaddy continuously encourages clients to be their best to get renowned online.</span></p>
                       <p dir="ltr" ><span >Our highly qualified and seasoned industry professionals undertake many tests and experiments to guide our work practices. We never make assumptions since they can hurt our clients.</span></p>
-                      <p dir="ltr" ><span >UseViral is the safest place to buy TikTok likes, but other sites may suspend your account. Remember that leaking or selling your personal information is risky.</span></p>
-                      <p dir="ltr" ><span >To protect your anonymity during the buying and delivery procedure, UseViral only needs your public TikTok name handle.</span></p>
+                      <p dir="ltr" ><span >FameDaddy is the safest place to buy TikTok likes, but other sites may suspend your account. Remember that leaking or selling your personal information is risky.</span></p>
+                      <p dir="ltr" ><span >To protect your anonymity during the buying and delivery procedure, FameDaddy only needs your public TikTok name handle.</span></p>
                       <p dir="ltr" ><span >We can also feed your account with likes from popular daily-use accounts.</span></p>
                       <p dir="ltr" ><span >Your account will not be canceled or banned for "fake likes." Bot account users are banned.</span></p>
-                      <p dir="ltr" ><span >Real likes keep your account from being blocked and boost your rank on TikTok's advanced content algorithm. When you buy TikTok likes from UseViral, your videos appear on other people's For You Pages. If your material is good, they may become new fans and admirers.</span></p>
-                      <p dir="ltr" ><span >Businesses often overlook delivery. None have simplified distribution like UseViral.</span></p>
+                      <p dir="ltr" ><span >Real likes keep your account from being blocked and boost your rank on TikTok's advanced content algorithm. When you buy TikTok likes from FameDaddy, your videos appear on other people's For You Pages. If your material is good, they may become new fans and admirers.</span></p>
+                      <p dir="ltr" ><span >Businesses often overlook delivery. None have simplified distribution like FameDaddy.</span></p>
                       <p dir="ltr" ><span >We found a legitimate way to get more likes on TikTok postings without getting banned.</span></p>
 
                       <p dir="ltr" ><span >We encourage buyers to expand naturally and know our product can help anyone's online career. However, gaining likes and followers is a different matter.</span></p></div>
@@ -365,22 +365,22 @@ const TiktokBuyLikes = () => {
 
                       <ol >
                         <li dir="ltr"  aria-level="1">
-                          <p dir="ltr" role="presentation"><span >Visit UseViral's official website: Visit the official UseViral page using the browser of your choice.</span></p>
+                          <p dir="ltr" role="presentation"><span >Visit FameDaddy's official website: Visit the official FameDaddy page using the browser of your choice.</span></p>
                         </li>
                         <li dir="ltr"  aria-level="1">
-                          <p dir="ltr" role="presentation"><span >TikTok Likes is the service you should use: To find the TikTok Likes option, visit UseViral and navigate to the Services page. To proceed, just click the link.</span></p>
+                          <p dir="ltr" role="presentation"><span >TikTok Likes is the service you should use: To find the TikTok Likes option, visit FameDaddy and navigate to the Services page. To proceed, just click the link.</span></p>
                         </li>
                         <li dir="ltr"  aria-level="1">
-                          <p dir="ltr" role="presentation"><span >Pick Your Bundle: UseViral provides a variety of packages for purchasing TikTok likes. Pick the plan that best suits your needs and finances. You should consider the available pricing and the desired quantity of likes.</span></p>
+                          <p dir="ltr" role="presentation"><span >Pick Your Bundle: FameDaddy provides a variety of packages for purchasing TikTok likes. Pick the plan that best suits your needs and finances. You should consider the available pricing and the desired quantity of likes.</span></p>
                         </li>
                         <li dir="ltr"  aria-level="1">
                           <p dir="ltr" role="presentation"><span >Type in your TikTok video's specifics: After selecting a plan, you'll be prompted to provide information about the TikTok video for which you wish to purchase views. The clip's link or URL is typically included. Ensure your likes go to the proper video by entering the correct details.</span></p>
                         </li>
                         <li dir="ltr"  aria-level="1">
-                          <p dir="ltr" role="presentation"><span >Put Down Your Money: UseViral provides secure payment options for your convenience and security. Pick your preferred payment method and follow the on-screen instructions to complete the purchase. Make sure you've entered everything correctly and read over the order details before submitting the payment.</span></p>
+                          <p dir="ltr" role="presentation"><span >Put Down Your Money: FameDaddy provides secure payment options for your convenience and security. Pick your preferred payment method and follow the on-screen instructions to complete the purchase. Make sure you've entered everything correctly and read over the order details before submitting the payment.</span></p>
                         </li>
                         <li dir="ltr"  aria-level="1">
-                          <p dir="ltr" role="presentation"><span >Sit back and relax: UseViral will transfer the purchased likes to your TikTok video when we have processed your money, so all you have to do is sit back and enjoy the increasing popularity of your video. The delivery time may vary depending on the bundle and the number of likes you order. Don't give up, and keep an eye on your TikTok's like count.</span></p>
+                          <p dir="ltr" role="presentation"><span >Sit back and relax: FameDaddy will transfer the purchased likes to your TikTok video when we have processed your money, so all you have to do is sit back and enjoy the increasing popularity of your video. The delivery time may vary depending on the bundle and the number of likes you order. Don't give up, and keep an eye on your TikTok's like count.</span></p>
                         </li>
                       </ol></div>
                   </div>
@@ -476,7 +476,7 @@ const TiktokBuyLikes = () => {
                       </h2>
                       <div id="collapseEleven" className="accordion-collapse collapse show" >
                         <div className="accordion-body border border-[#eee]">
-                          <div class="panel show"><p dir="ltr" ><span >Yes, you certainly can. We offer various services at UseViral, but we believe the likes are the most important to our clients.</span></p>
+                          <div class="panel show"><p dir="ltr" ><span >Yes, you certainly can. We offer various services at FameDaddy, but we believe the likes are the most important to our clients.</span></p>
 
                             <p dir="ltr" ><span >We also provide packages for followers, comments, and shares, but determining which is ideal for you is critical. We have you covered even if you believe you require more than one service!</span></p></div>
                         </div>

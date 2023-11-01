@@ -25,7 +25,7 @@ const InstaBuyReelsViews = () => {
           <h2 className="text-2xl tracking-tight leading-10 font-semibold  sm:text-4xl md:text-3xl mt-4 pt-2 text-[#4c4c4c] px-3"> Buy Instagram reels views with <br className="xl:hidden" />
             <span className="text-brand">Fast Delivery</span>
           </h2>
-          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> UseViral offers only the highest quality services. Buy safely and securely below:</p>
+          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> FameDaddy offers only the highest quality services. Buy safely and securely below:</p>
         </div>
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
@@ -123,7 +123,7 @@ const InstaBuyReelsViews = () => {
 
             </div>
           </div>
-          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All UseViral Services:
+          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All FameDaddy Services:
           </h2>
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3'>
             <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
@@ -165,7 +165,7 @@ const InstaBuyReelsViews = () => {
           </div>
 
         </div>
-        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does UseViral Work?
+        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does FameDaddy Work?
         </h2>
         <div className='lg:flex justify-center items-center'>
           <div className='flex justify-center' >
@@ -224,12 +224,12 @@ const InstaBuyReelsViews = () => {
                         <p>It increases the likelihood of reaching a wider audience, ultimately earning those invaluable views that propel your content to the explore page.</p>
                         <p>Fortunately, numerous companies specialize in providing this service, making the entire process simple and hassle-free.&nbsp;</p>
                         <p>These companies bring invaluable expertise and experience to the table, supporting every step in your journey to increase engagement on your Instagram Reels.</p>
-                        <p>At UseViral, we pride ourselves on offering top-notch engagement solutions and expert assistance.&nbsp;</p>
+                        <p>At FameDaddy, we pride ourselves on offering top-notch engagement solutions and expert assistance.&nbsp;</p>
                         <p>Our commitment to excellence sets us apart in the industry, ensuring you receive the highest quality service.&nbsp;</p>
-                        <p>When you choose a reputable company like UseViral, buying Instagram Reels Views becomes a game-changing strategy to boost your visibility and captivate your target audience.</p>
+                        <p>When you choose a reputable company like FameDaddy, buying Instagram Reels Views becomes a game-changing strategy to boost your visibility and captivate your target audience.</p>
                         <p>Unlock the full potential of your Instagram Reels by capitalizing on the expertise of trusted professionals.&nbsp;</p>
-                        <p>With the help of UseViral, you can confidently navigate the process of acquiring more views on your Instagram Reels and witness your content thrive. Invest in your Instagram success and take advantage of the opportunities within reach.&nbsp;</p>
-                        <p>Choose UseViral to buy your Instagram Reels Views and experience the difference that strategic engagement can make in growing your presence on this influential social media platform.</p></div>
+                        <p>With the help of FameDaddy, you can confidently navigate the process of acquiring more views on your Instagram Reels and witness your content thrive. Invest in your Instagram success and take advantage of the opportunities within reach.&nbsp;</p>
+                        <p>Choose FameDaddy to buy your Instagram Reels Views and experience the difference that strategic engagement can make in growing your presence on this influential social media platform.</p></div>
                     </div>
                   </div>
                 </div>
@@ -250,11 +250,11 @@ const InstaBuyReelsViews = () => {
                         <p>We assure you that <Link to="/buy-insta-reels-views">buying Instagram Reels</Link> to is legal and safe, provided you choose a reputable company that prioritizes your security and safeguards your personal information.</p>
                         <p>It's essential to exercise caution and refrain from randomly selecting the first company that appears in your Google search results.&nbsp;</p>
                         <p>Many unreliable providers cannot deliver the quality engagement you seek, and they may compromise the integrity of your content by offering low retention views.</p>
-                        <p>By opting for a trusted platform like UseViral, you can rest assured that your actions align with Instagram's terms of service and guidelines.&nbsp;</p>
+                        <p>By opting for a trusted platform like FameDaddy, you can rest assured that your actions align with Instagram's terms of service and guidelines.&nbsp;</p>
                         <p>Engaging in the purchase of Instagram Reels Views does not attract any negative consequences from the platform, nor does it jeopardize your credibility.</p>
-                        <p>At UseViral, we understand the significance of maintaining the safety and integrity of your account. We take pride in our commitment to security and privacy, ensuring your personal information remains confidential.&nbsp;</p>
+                        <p>At FameDaddy, we understand the significance of maintaining the safety and integrity of your account. We take pride in our commitment to security and privacy, ensuring your personal information remains confidential.&nbsp;</p>
                         <p>Our high-quality engagement delivers genuine and impactful views that contribute to the credibility and visibility of your Instagram Reels.</p>
-                        <p>Avoid unnecessary risks by choosing a reputable company that values your safety and adheres to industry standards. With UseViral as your trusted partner, you can confidently enhance your Instagram presence without compromising the security of your account.</p></div>
+                        <p>Avoid unnecessary risks by choosing a reputable company that values your safety and adheres to industry standards. With FameDaddy as your trusted partner, you can confidently enhance your Instagram presence without compromising the security of your account.</p></div>
                     </div>
                   </div>
                 </div>
@@ -299,7 +299,7 @@ const InstaBuyReelsViews = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
                       aria-controls="collapseFour">
                       <img src="./assets/child_logos//brain.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Are the Instagram Reels Views from UseViral from real accounts?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Are the Instagram Reels Views from FameDaddy from real accounts?</h5>
                     </button>
                   </h2>
                   <div id="collapseFour" className="accordion-collapse collapse show" >
@@ -319,7 +319,7 @@ const InstaBuyReelsViews = () => {
                   </h2>
                   <div id="collapseFive" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show"><p>When you decide to purchase Instagram Reels Views from UseViral, we make the process simple and effective.&nbsp;</p><p>Once you select the package that suits your needs, we instantly deliver the desired views to your Instagram Reels.&nbsp;</p><p>These views come from real and active users, now boosting the visibility and reach of your Reels. It's a convenient way to enhance your content and attract more engagement.</p></div>
+                      <div className="panel show"><p>When you decide to purchase Instagram Reels Views from FameDaddy, we make the process simple and effective.&nbsp;</p><p>Once you select the package that suits your needs, we instantly deliver the desired views to your Instagram Reels.&nbsp;</p><p>These views come from real and active users, now boosting the visibility and reach of your Reels. It's a convenient way to enhance your content and attract more engagement.</p></div>
                     </div>
                   </div>
                 </div>
@@ -439,7 +439,7 @@ const InstaBuyReelsViews = () => {
                         </h2>
                         <div id="collapseThirteen" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                          <div className="panel show"><p>Your personal information's security and privacy are fundamental to us at UseViral. We take extensive steps to protect your data by following industry-recognized security protocols and procedures.&nbsp;</p><p>Our systems protect your sensitive information from misuse, unauthorized access, and data breaches.</p></div>
+                          <div className="panel show"><p>Your personal information's security and privacy are fundamental to us at FameDaddy. We take extensive steps to protect your data by following industry-recognized security protocols and procedures.&nbsp;</p><p>Our systems protect your sensitive information from misuse, unauthorized access, and data breaches.</p></div>
                           </div>
                         </div>
                       </div>
@@ -454,7 +454,7 @@ const InstaBuyReelsViews = () => {
                         </h2>
                         <div id="collapseFourteen" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                          <div className="panel show"><p>Purchasing Instagram Reels Views from UseViral fully complies with Instagram's terms of service. We take the necessary precautions to ensure our services are safe and legitimate.&nbsp;</p><p>Our methods of delivering views are under Instagram's guidelines, so you can rest assured that your account will remain secure and in good standing.</p></div>
+                          <div className="panel show"><p>Purchasing Instagram Reels Views from FameDaddy fully complies with Instagram's terms of service. We take the necessary precautions to ensure our services are safe and legitimate.&nbsp;</p><p>Our methods of delivering views are under Instagram's guidelines, so you can rest assured that your account will remain secure and in good standing.</p></div>
                           </div>
                         </div>
                       </div>
@@ -514,7 +514,7 @@ const InstaBuyReelsViews = () => {
                         </h2>
                         <div id="collapseEighteen" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                          <div className="panel show"><p>To request a refund under our 30-day refund guarantee, simply contact UseViral’s customer support team within a suitable timeframe.&nbsp;</p><p>They will guide you through the refund process and ensure a smooth and hassle-free experience. We strive to make the refund process as convenient for our customers.</p></div>
+                          <div className="panel show"><p>To request a refund under our 30-day refund guarantee, simply contact FameDaddy’s customer support team within a suitable timeframe.&nbsp;</p><p>They will guide you through the refund process and ensure a smooth and hassle-free experience. We strive to make the refund process as convenient for our customers.</p></div>
                           </div>
                         </div>
                       </div>

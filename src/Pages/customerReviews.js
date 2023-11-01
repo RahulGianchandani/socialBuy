@@ -113,7 +113,7 @@ const CustomerReviews = () => {
 
 
             <div id='reviewSection' className='max-sm:px-7 mb-20'>
-                <h1 className="text-center text-[2.25rem] tracking-tight font-extrabold text-black sm:text-[2.5rem] leading-1-2 mt-20">Curious what others are saying<br />about UseViral?
+                <h1 className="text-center text-[2.25rem] tracking-tight font-extrabold text-black sm:text-[2.5rem] leading-1-2 mt-20">Curious what others are saying<br />about FameDaddy?
                 </h1>
                 <p className="text-center mt-4 max-w-md mx-auto mb-14 text-black md:mt-5 text-[1.625rem] md:max-w-3xl text-source-sans-pro leading-1-3">Read some of our customer reviews below.
                 </p>
@@ -282,7 +282,7 @@ const CustomerReviews = () => {
                             </div>
                         </div>
                         <div class="pt-2">
-                            <div class="paragraph_text text-center text-707070">UseViral really works, its helped me reach more users and grow on tiktok! I’ve had alot more duet requests!! Yay!</div>
+                            <div class="paragraph_text text-center text-707070">FameDaddy really works, its helped me reach more users and grow on tiktok! I’ve had alot more duet requests!! Yay!</div>
                         </div>
                     </div>
                     <div class="review_item" >
@@ -347,7 +347,7 @@ const CustomerReviews = () => {
                             </div>
                         </div>
                         <div class="!pt-2">
-                            <div class="paragraph_text text-center text-707070">I’ve had nothing but a great experience with UseViral! I've got only real Friend Requests who care about my content and profile. Awesome.</div>
+                            <div class="paragraph_text text-center text-707070">I’ve had nothing but a great experience with FameDaddy! I've got only real Friend Requests who care about my content and profile. Awesome.</div>
                         </div>
                     </div>
                     <div class="review_item">
@@ -368,7 +368,7 @@ const CustomerReviews = () => {
                             </div>
                         </div>
                         <div class="!pt-2">
-                            <div class="paragraph_text text-center text-707070">UseViral is responsible for most of my Friend Requests. Don't think it's just a free ride because you have to put in time and effort on your end for it to work.</div>
+                            <div class="paragraph_text text-center text-707070">FameDaddy is responsible for most of my Friend Requests. Don't think it's just a free ride because you have to put in time and effort on your end for it to work.</div>
                         </div>
                     </div>
                     <div class="review_item">
@@ -536,7 +536,7 @@ const CustomerReviews = () => {
                             </div>
                         </div>
                         <div class="!pt-2">
-                            <div class="paragraph_text text-center text-707070">I've been using UseViral for well over 6 months now and safe to say, they know what they're doing. Way to go people!</div>
+                            <div class="paragraph_text text-center text-707070">I've been using FameDaddy for well over 6 months now and safe to say, they know what they're doing. Way to go people!</div>
                         </div>
                     </div>
                 </Slider>
@@ -637,7 +637,7 @@ const CustomerReviews = () => {
                                     <div id="collapseFour" className="accordion-collapse collapse show" >
                                         <div className="accordion-body border border-[#eee]">
                                             <div className="panel show">
-                                                <p className='text-center'>You're probably wondering what you can expect when it comes to our customer support when working with us. Here at UseViral, we are determined to provide our clients with the best experience possible when it comes to our customer support, which is why we have a dedicated team of professionals behind the scenes that are working constantly not only on our features, but on being able to provide you with some of the best customer support you'll experience in the industry. This way, you're going to be able to talk to us directly about any issues you might be having with our features and you won't have to wait in a long line to be seen. You'll be able to have a personal experience with us, and you will feel like you are really taken care of.</p>
+                                                <p className='text-center'>You're probably wondering what you can expect when it comes to our customer support when working with us. Here at FameDaddy, we are determined to provide our clients with the best experience possible when it comes to our customer support, which is why we have a dedicated team of professionals behind the scenes that are working constantly not only on our features, but on being able to provide you with some of the best customer support you'll experience in the industry. This way, you're going to be able to talk to us directly about any issues you might be having with our features and you won't have to wait in a long line to be seen. You'll be able to have a personal experience with us, and you will feel like you are really taken care of.</p>
                                             </div>
                                         </div>
                                     </div>

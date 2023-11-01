@@ -15,9 +15,9 @@ const Footer = () => {
                                 <img src="https://userviral.b-cdn.net/assets/images/uvlogo1-768x150-1.png" />
                             </div>
                             <div class="border-b border-gray-100 md:items-start md:!mb-0 border-b-brand mb-4">
-                                <div class="mb-2 text-left text-base paragraph_text"><strong>Contact the Useviral Team with any questions you have:</strong></div>
+                                <div class="mb-2 text-left text-base paragraph_text"><strong>Contact the FameDaddy Team with any questions you have:</strong></div>
                                 <div class="mb-2 text-left text-base paragraph_text"><strong>Support: </strong>24-7 (up to 24 hour response times).</div>
-                                <div class="mb-2 text-left text-base paragraph_text"><strong>Email: </strong><a className='text-[#2a363d]' href="mailto:support@useviral.com">support@useviral.com</a></div>
+                                <div class="mb-2 text-left text-base paragraph_text"><strong>Email: </strong><a className='text-[#2a363d]' href="mailto:support@FameDaddy.com">support@FameDaddy.com</a></div>
                                 <div class="mb-2 text-left text-base paragraph_text"><strong>Phone: </strong><a className='text-[#2a363d]' href="tel:+844-959-3380">+844-959-3380</a></div>
                                 <div class="mb-2 text-left text-base paragraph_text"><strong>Head Office:</strong> 2918 Avenue I #1106. Brooklyn, NY 11210.</div>
                             </div>
@@ -25,7 +25,7 @@ const Footer = () => {
                                 <img src="https://userviral.b-cdn.net/assets/images/cre.png" class="footer_payment_img" />
                             </div>
                             <div class="flex mb-4 justify-start max-w-[100px]">
-                                <a href="https://www.dmca.com/Protection/Status.aspx?ID=1d9a18d7-8247-4091-b4d7-73a8d42ea6fb&amp;refurl=https://useviral.com/" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1d9a18d7-8247-4091-b4d7-73a8d42ea6fb" alt="DMCA.com Protection Status" /></a>
+                                <a href="https://www.dmca.com/Protection/Status.aspx?ID=1d9a18d7-8247-4091-b4d7-73a8d42ea6fb&amp;refurl=https://FameDaddy.com/" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1d9a18d7-8247-4091-b4d7-73a8d42ea6fb" alt="DMCA.com Protection Status" /></a>
                             </div>
                         </div>
                         <div className='top-footer-right max-sm:mt-14'>

@@ -25,7 +25,7 @@ const FbBuyComments = () => {
           <h2 className="text-2xl tracking-tight leading-10 font-semibold  sm:text-4xl md:text-3xl mt-4 pt-2 text-[#4c4c4c] px-3"> Buy Facebook Comments with <br className="xl:hidden" />
             <span className="text-brand">Fast Delivery</span>
           </h2>
-          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> UseViral offers only the highest quality services. Buy safely and securely below:</p>
+          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> FameDaddy offers only the highest quality services. Buy safely and securely below:</p>
         </div>
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
@@ -109,7 +109,7 @@ const FbBuyComments = () => {
 
             </div>
           </div>
-          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All UseViral Services:
+          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All FameDaddy Services:
           </h2>
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3'>
             <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
@@ -151,7 +151,7 @@ const FbBuyComments = () => {
           </div>
 
         </div>
-        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does UseViral Work?
+        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does FameDaddy Work?
         </h2>
         <div className='lg:flex justify-center items-center'>
           <div className='flex justify-center' >
@@ -208,9 +208,9 @@ const FbBuyComments = () => {
                       <p dir="ltr" ><span >You should buy Facebook comments to increase interaction and build a thriving community around your brand.</span></p>
                       <p dir="ltr" ><span >You will get a jump start on developing an active community around your brand if you increase Facebook comments. Each comment acts as a springboard for more connection and conversation, creating a lively and interesting environment.&nbsp;</span></p>
                       <p dir="ltr" ><span >Furthermore, greater comment activity can lead to more organic engagement, increasing visibility and potentially broadening your reach to new prospective consumers.</span></p>
-                      <p dir="ltr" ><span >We at UseViral recognize the importance of encouraging meaningful conversations on Facebook. With our specialized services, you may buy high-quality Facebook comments suited to your brand's demands.&nbsp;</span></p>
+                      <p dir="ltr" ><span >We at FameDaddy recognize the importance of encouraging meaningful conversations on Facebook. With our specialized services, you may buy high-quality Facebook comments suited to your brand's demands.&nbsp;</span></p>
                       <p dir="ltr" ><span >These comments are submitted by genuine individuals, adding authenticity to your posts and increasing their credibility.</span></p>
-                      <p dir="ltr" ><span >When you buy Facebook comments through UseViral, you unlock a world of possibilities for your brand. Our secure and efficient system ensures the seamless delivery of comments, providing you with the tools to cultivate a vibrant online community.&nbsp;</span></p>
+                      <p dir="ltr" ><span >When you buy Facebook comments through FameDaddy, you unlock a world of possibilities for your brand. Our secure and efficient system ensures the seamless delivery of comments, providing you with the tools to cultivate a vibrant online community.&nbsp;</span></p>
                       <p dir="ltr" ><span >While you focus on creating compelling content, we take care of enhancing engagement, ultimately propelling your brand toward success.</span></p></div>
                   </div>
                 </div>
@@ -260,10 +260,10 @@ const FbBuyComments = () => {
                     <div class="panel show">
                       <p dir="ltr" ><span >As we discussed, purchasing Facebook comments is a strategic move to bolster your social media presence, and it has many benefits. However, you have to prioritize safety throughout the process.&nbsp;</span></p>
                       <p dir="ltr" ><span >Choosing a respectable and trustworthy service provider is the key to a safe experience.</span></p>
-                      <p dir="ltr" ><span >When you decide to buy Facebook comments, you must select an entirely legitimate service provider. This protects a variety of factors, including your personal information, such as payment card information, the integrity of your Facebook account, and the reputation of your brand. You may reliably secure these critical factors by selecting a trusted platform like UseViral.</span></p>
-                      <p dir="ltr" ><span >We at UseViral realize the importance of safety and emphasize our clients' privacy and security. Our platform provides a safe space where you may buy genuine and exciting comments from real individuals.&nbsp;</span></p>
+                      <p dir="ltr" ><span >When you decide to buy Facebook comments, you must select an entirely legitimate service provider. This protects a variety of factors, including your personal information, such as payment card information, the integrity of your Facebook account, and the reputation of your brand. You may reliably secure these critical factors by selecting a trusted platform like FameDaddy.</span></p>
+                      <p dir="ltr" ><span >We at FameDaddy realize the importance of safety and emphasize our clients' privacy and security. Our platform provides a safe space where you may buy genuine and exciting comments from real individuals.&nbsp;</span></p>
                       <p dir="ltr" ><span >Each comment is meticulously constructed to correspond with your content and objectives, resulting in an organic and seamless interaction with your target audience.</span></p>
-                      <p dir="ltr" ><span >You can reduce the risks of using unverified and untrustworthy websites by using UseViral's services. We have a proven track record of delivering high-quality comments from genuine individuals while protecting your personal and account information and keeping your brand's reputation.</span></p>
+                      <p dir="ltr" ><span >You can reduce the risks of using unverified and untrustworthy websites by using FameDaddy's services. We have a proven track record of delivering high-quality comments from genuine individuals while protecting your personal and account information and keeping your brand's reputation.</span></p>
 
                       <p dir="ltr" ><span >Our platform follows Facebook's restrictions, protecting your account from potential penalties or inspection. We promote ethical and organic growth techniques, emphasizing the value of genuine involvement above artificial or automated methods that can jeopardize your safety and trustworthiness.</span></p></div>
                   </div>
@@ -277,23 +277,23 @@ const FbBuyComments = () => {
                     data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
                     aria-controls="collapseFour">
                     <img src="./assets/child_logos//brain.png" className="mr-[10px]" alt="" />
-                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why Should You Choose UseViral to Purchase Facebook Comments?</h5>
+                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why Should You Choose FameDaddy to Purchase Facebook Comments?</h5>
                   </button>
                 </h2>
                 <div id="collapseFour" className="accordion-collapse collapse show" >
                   <div className="accordion-body border border-[#eee]">
                     <div class="panel show"><p dir="ltr" ><span >Not all comments are created equal, and irrelevant or subpar comments can damage your brand's reputation and decrease target audience trust.&nbsp;</span></p>
-                      <p dir="ltr" ><span >UseViral is the ideal social media marketplace since it enables you to purchase Facebook comments which will help you gain popularity and success on any social networking site, particularly Facebook.</span></p>
+                      <p dir="ltr" ><span >FameDaddy is the ideal social media marketplace since it enables you to purchase Facebook comments which will help you gain popularity and success on any social networking site, particularly Facebook.</span></p>
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Superior Quality Comments</span></h3>
                       <p dir="ltr" ><span >We place a great priority on providing Facebook comments for sale that are engaging and authentic. You can be confident that the comments you receive will improve your brand's image, stimulate meaningful conversations, and build trust among your Facebook network.</span></p>
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Guaranteed Confidentiality and Safety</span></h3>
-                      <p dir="ltr" ><span >We value your privacy and the confidentiality of your information. When you choose UseViral, you can be confident that no information you supply to us will be shared with any third-party websites.&nbsp;</span></p>
-                      <p dir="ltr" ><span >UseViral employs strong customer authentication procedures to protect your information, from your Facebook account information to your billing information. You can confidently buy Facebook comments knowing that your information is secure with UseViral.</span></p>
+                      <p dir="ltr" ><span >We value your privacy and the confidentiality of your information. When you choose FameDaddy, you can be confident that no information you supply to us will be shared with any third-party websites.&nbsp;</span></p>
+                      <p dir="ltr" ><span >FameDaddy employs strong customer authentication procedures to protect your information, from your Facebook account information to your billing information. You can confidently buy Facebook comments knowing that your information is secure with FameDaddy.</span></p>
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Customer satisfaction and transparency</span></h3>
                       <p dir="ltr" ><span >We believe in transparency and putting our clients' needs first. We not only provide the greatest quality comments on the market, but we also provide a 100% satisfaction guarantee.&nbsp;</span></p>
                       <p dir="ltr" ><span >If you are dissatisfied with the comments you receive, our platform offers a complete refund and a free refill within 30 days of purchase. This emphasis on openness and customer satisfaction displays our commitment to providing you with the best possible experience.</span></p>
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Increasing Genuine Engagement</span></h3>
-                      <p dir="ltr" ><span >By purchasing comments from UseViral, you are increasing your business's visibility and fostering meaningful conversations with your audience.&nbsp;</span></p>
+                      <p dir="ltr" ><span >By purchasing comments from FameDaddy, you are increasing your business's visibility and fostering meaningful conversations with your audience.&nbsp;</span></p>
                       <p dir="ltr" ><span >Here you can buy targeted Facebook comments that initiate conversations, solicit feedback, and foster a community around your content. Experience the power of true engagement and see how it may improve your Facebook presence.</span></p>
 
                       <p dir="ltr" ><span >You can put your trust in our experience and allow us to assist you in achieving success through meaningful and honest connections.</span></p></div>
@@ -306,14 +306,14 @@ const FbBuyComments = () => {
                     data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
                     aria-controls="collapseFive">
                     <img src="./assets/child_logos/creative.png" className="mr-[10px]" alt="" />
-                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy Facebook Comments from UseViral</h5>
+                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy Facebook Comments from FameDaddy</h5>
                   </button>
                 </h2>
                 <div id="collapseFive" className="accordion-collapse collapse show" >
                   <div className="accordion-body border border-[#eee]">
                     <div class="panel show"><p dir="ltr" ><span >Another advantage to working with us is the simplicity of our purchasing process; just follow these steps:</span></p>
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Determine Your Order Quantity&nbsp;</span></h3>
-                      <p dir="ltr" ><span >The first step is to select a preferred package that suits your needs. UseViral offers a diverse range of comment quantities, each with its displayed price.&nbsp;</span></p>
+                      <p dir="ltr" ><span >The first step is to select a preferred package that suits your needs. FameDaddy offers a diverse range of comment quantities, each with its displayed price.&nbsp;</span></p>
                       <p dir="ltr" ><span >This gives you complete control and flexibility over the level of engagement you desire for your Facebook post. By choosing a package that aligns with your objectives, you can ensure that your desired level of engagement is achieved effortlessly.</span></p>
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Proceed to Purchase</span></h3>
                       <p dir="ltr" ><span >Now that you have determined your desired comment quantity, proceed to the next phase by clicking the "Buy Now" button. This will take you to the next page, where you will need to provide the necessary details to complete your purchase.</span></p>
@@ -322,9 +322,9 @@ const FbBuyComments = () => {
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Craft Custom Comments&nbsp;</span></h3>
                       <p dir="ltr" ><span >Crafting your own comments adds a personal touch to your Facebook post. It ensures that each comment is relevant to your brand, making them more authentic and engaging. This customization sets you apart from generic and spam comments, building trust and credibility with your audience.</span></p>
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Secure Checkout&nbsp;</span></h3>
-                      <p dir="ltr" ><span >Once you have provided all the necessary information, proceed to the secure checkout process. UseViral offers a variety of convenient payment methods, allowing you to choose the one that suits you best. Complete the transaction with confidence, knowing that your financial information is protected.</span></p>
+                      <p dir="ltr" ><span >Once you have provided all the necessary information, proceed to the secure checkout process. FameDaddy offers a variety of convenient payment methods, allowing you to choose the one that suits you best. Complete the transaction with confidence, knowing that your financial information is protected.</span></p>
 
-                      <p dir="ltr" ><span >When your payment is processed, UseViral springs into action, swiftly delivering genuine Facebook comments to your chosen post. Our services enable you to enhance social proof, build credibility, and establish a strong online presence.&nbsp; Watch your engagement numbers rise, which solidifies your brand's credibility.</span></p></div>
+                      <p dir="ltr" ><span >When your payment is processed, FameDaddy springs into action, swiftly delivering genuine Facebook comments to your chosen post. Our services enable you to enhance social proof, build credibility, and establish a strong online presence.&nbsp; Watch your engagement numbers rise, which solidifies your brand's credibility.</span></p></div>
                   </div>
                 </div>
               </div>
@@ -353,7 +353,7 @@ const FbBuyComments = () => {
                     data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false"
                     aria-controls="collapseSeven">
                     
-                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Do UseViral provides refunds if I am dissatisfied with my purchased Facebook comments?</h5>
+                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Do FameDaddy provides refunds if I am dissatisfied with my purchased Facebook comments?</h5>
                   </button>
                 </h2>
                 <div id="collapseSeven" className="accordion-collapse collapse show" >

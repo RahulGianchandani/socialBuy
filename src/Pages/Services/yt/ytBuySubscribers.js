@@ -25,7 +25,7 @@ const YTBuySubscribers = () => {
           <h2 className="text-2xl tracking-tight leading-10 font-semibold  sm:text-4xl md:text-3xl mt-4 pt-2 text-[#4c4c4c] px-3"> Buy Youtube Subscribers with <br className="xl:hidden" />
             <span className="text-brand">Fast Delivery</span>
           </h2>
-          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> UseViral offers only the highest quality services. Buy safely and securely below:</p>
+          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> FameDaddy offers only the highest quality services. Buy safely and securely below:</p>
         </div>
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
@@ -129,7 +129,7 @@ const YTBuySubscribers = () => {
           </div>
 
 
-          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All UseViral Services:
+          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All FameDaddy Services:
           </h2>
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3'>
             <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
@@ -170,7 +170,7 @@ const YTBuySubscribers = () => {
             </div>
           </div>
         </div>
-        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does UseViral Work?
+        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does FameDaddy Work?
         </h2>
         <div className='lg:flex justify-center items-center'>
           <div className='flex justify-center' >
@@ -237,9 +237,9 @@ const YTBuySubscribers = () => {
                         <p dir="ltr"><span>In such situations, investing in YouTube subscribers can be a feasible alternative.&nbsp;</span></p>
                         <p dir="ltr"><span>This approach enhances your channel's dependability, boosts your subscriber numbers, and bolsters your prospects of visibility among your intended viewers.&nbsp;</span></p>
                         <p dir="ltr"><span>By kickstarting your subscriber acquisition, you generate momentum and invite organic viewership since more individuals are prone to find and engage with your content.</span></p>
-                        <p dir="ltr"><span>UseViral is an excellent choice for purchasing YouTube subscribers and meeting all your channel's needs.&nbsp;</span></p>
+                        <p dir="ltr"><span>FameDaddy is an excellent choice for purchasing YouTube subscribers and meeting all your channel's needs.&nbsp;</span></p>
                         <p dir="ltr"><span>Our unwavering dedication to delivering authentic subscribers and reliable services can significantly enrich your channel.&nbsp;</span></p>
-                        <p dir="ltr"><span>With UseViral, you can assuredly expand your subscriber community, elevate your channel's prominence, and augment your overall presence on YouTube.</span></p>
+                        <p dir="ltr"><span>With FameDaddy, you can assuredly expand your subscriber community, elevate your channel's prominence, and augment your overall presence on YouTube.</span></p>
                       </div>
                     </div>
                   </div>
@@ -269,10 +269,10 @@ const YTBuySubscribers = () => {
                         <p dir="ltr"><span>Another critical factor to consider is the legality of purchasing YouTube subscribers. Fortunately, buying subscribers for your channel is not unlawful.&nbsp;</span></p>
                         <p dir="ltr"><span>This is not to say that you should choose any company at random.&nbsp;</span></p>
                         <p dir="ltr"><span>While buying subscribers is permissible, selecting a reputable company that adheres to ethical practices and delivers genuine engagement is crucial.</span></p>
-                        <p dir="ltr"><span>For a safe and pleasant experience when buying subscribers, select a trusted company like UseViral.&nbsp;</span></p>
+                        <p dir="ltr"><span>For a safe and pleasant experience when buying subscribers, select a trusted company like FameDaddy.&nbsp;</span></p>
                         <p dir="ltr"><span>We value client pleasure, high-quality services, and adherence to YouTube's safety requirements.&nbsp;</span></p>
                         <p><span id="docs-internal-guid-61f4698b-7fff-d4d9-1db1-fdc947742faf"></span></p>
-                        <p dir="ltr"><span>With UseViral, you can confidently boost your subscription count, increase channel engagement, and develop true connections with your audience, all while being completely safe.</span></p></div>
+                        <p dir="ltr"><span>With FameDaddy, you can confidently boost your subscription count, increase channel engagement, and develop true connections with your audience, all while being completely safe.</span></p></div>
                     </div>
                   </div>
                 </div>
@@ -324,7 +324,7 @@ const YTBuySubscribers = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
                       aria-controls="collapseFour">
                       <img src="./assets/child_logos//brain.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy YouTube Subscribers on UseViral</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy YouTube Subscribers on FameDaddy</h5>
                     </button>
                   </h2>
                   <div id="collapseFour" className="accordion-collapse collapse show" >
@@ -356,7 +356,7 @@ const YTBuySubscribers = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
                       aria-controls="collapseFive">
                       <img src="./assets/child_logos/creative.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy YouTube Subscribers on UseViral</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy YouTube Subscribers on FameDaddy</h5>
                     </button>
                   </h2>
                   <div id="collapseFive" className="accordion-collapse collapse show" >
@@ -478,7 +478,7 @@ const YTBuySubscribers = () => {
                             data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false"
                             aria-controls="collapseEleven">
                             
-                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Is UseViral a reliable source for my personal information?</h5>
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Is FameDaddy a reliable source for my personal information?</h5>
                           </button>
                         </h2>
                         <div id="collapseEleven" className="accordion-collapse collapse show" >
@@ -486,7 +486,7 @@ const YTBuySubscribers = () => {
                             <div class="panel show"><p dir="ltr" ><span >Certainly! The security and privacy of your personal information are our top priorities. We have effective safeguards in place to keep your data secure and private.&nbsp;</span></p>
                               <p dir="ltr" ><span >We won't divulge your personal information to outside parties to preserve your privacy and rigorously follow industry-standard procedures.&nbsp;</span></p>
                               <p><span id="docs-internal-guid-54143c74-7fff-2cc2-eefa-e811015de557"></span></p>
-                              <p dir="ltr" ><span >You can be confident that your personal information is secure when you work with UseViral.</span></p></div>
+                              <p dir="ltr" ><span >You can be confident that your personal information is secure when you work with FameDaddy.</span></p></div>
                           </div>
                         </div>
                       </div>
@@ -630,7 +630,7 @@ const YTBuySubscribers = () => {
                         </h2>
                         <div id="collapseTweenty" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p dir="ltr" ><span >It is not against YouTube's terms of service to buy subs from a trustworthy vendor like UseViral. We take pleasure in providing loyal, active subscribers who choose to subscribe to your channel of their own volition.&nbsp;</span></p>
+                            <div class="panel show"><p dir="ltr" ><span >It is not against YouTube's terms of service to buy subs from a trustworthy vendor like FameDaddy. We take pleasure in providing loyal, active subscribers who choose to subscribe to your channel of their own volition.&nbsp;</span></p>
                               <p><span id="docs-internal-guid-708b51e0-7fff-a6c0-04cd-947b7afd2965"></span></p>
                               <p dir="ltr" ><span >Our techniques follow YouTube's rules and provide a safe and legal way to grow your subscriber base.</span></p></div>
                           </div>
@@ -682,7 +682,7 @@ const YTBuySubscribers = () => {
                           <div className="accordion-body border border-[#eee]">
                             <div class="panel show"><p dir="ltr" ><span >When selecting the best firm for your YouTube followers, customer service should be one of your top considerations.&nbsp;</span></p>
                               <p><span id="docs-internal-guid-c4c45760-7fff-e878-4c5a-f0cba18e722a"></span></p>
-                              <p dir="ltr" ><span >Companies like UseViral want to ensure that you are taken care of throughout; therefore, we will give you access to a customer support team you can contact whenever you need to. </span></p></div>
+                              <p dir="ltr" ><span >Companies like FameDaddy want to ensure that you are taken care of throughout; therefore, we will give you access to a customer support team you can contact whenever you need to. </span></p></div>
                           </div>
                         </div>
                       </div>

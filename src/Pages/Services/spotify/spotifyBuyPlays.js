@@ -25,7 +25,7 @@ const SpotifyBuyPlays = () => {
           <h2 className="text-2xl tracking-tight leading-10 font-semibold  sm:text-4xl md:text-3xl mt-4 pt-2 text-[#4c4c4c] px-3"> Buy Spotify Plays with <br className="xl:hidden" />
             <span className="text-brand">Fast Delivery</span>
           </h2>
-          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> UseViral offers only the highest quality services. Buy safely and securely below:</p>
+          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> FameDaddy offers only the highest quality services. Buy safely and securely below:</p>
         </div>
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
@@ -121,7 +121,7 @@ const SpotifyBuyPlays = () => {
 
             </div>
           </div>
-          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All UseViral Services:
+          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All FameDaddy Services:
           </h2>
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3'>
             <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
@@ -163,7 +163,7 @@ const SpotifyBuyPlays = () => {
           </div>
 
         </div>
-        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does UseViral Work?
+        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does FameDaddy Work?
         </h2>
         <div className='lg:flex justify-center items-center'>
           <div className='flex justify-center' >
@@ -219,7 +219,7 @@ const SpotifyBuyPlays = () => {
                         <p dir="ltr" ><span >In recent years, Spotify plays have emerged as a metric of significant importance within the music industry.&nbsp;</span></p>
                         <p dir="ltr" ><span >Getting Spotify plays can be a complicated process. Years of dedication may be necessary.</span></p>
                         <p dir="ltr" ><span >There will be times when you feel like giving up. What steps should you take to address this issue?&nbsp;</span></p>
-                        <p dir="ltr" ><span >You can buy Spotify plays from UseViral!</span></p>
+                        <p dir="ltr" ><span >You can buy Spotify plays from FameDaddy!</span></p>
                         <p dir="ltr" ><span >Firstly, Spotify plays serve as a measure of a song's popularity and reach. As artists strive to make a name for themselves in the highly competitive music landscape, the number of plays their songs gather on Spotify serves as an indicator of their success.&nbsp;</span></p>
                         <p dir="ltr" ><span >Higher play counts signify a broader audience engagement and an increased likelihood of exposure to new listeners.</span></p>
                         <p dir="ltr" ><span >It is a meaningful metric that demonstrates the level of interest and reception an artist's work receives.</span></p>
@@ -282,7 +282,7 @@ const SpotifyBuyPlays = () => {
                     <div className="accordion-body border border-[#eee]">
                       <div class="panel show"><p dir="ltr" ><span >The topic of buying Spotify plays often raises questions about safety and legitimacy. It's crucial for musicians and artists to ensure that their promotional efforts align with the platform's guidelines and maintain their credibility.</span></p>
                         <p dir="ltr" ><span >When it comes to safety, our platform emerges as a trusted service provider that prioritizes the security and integrity of your music career.&nbsp;</span></p>
-                        <p dir="ltr" ><span >Let's delve into why it is safe to buy Spotify plays through UseViral.</span></p>
+                        <p dir="ltr" ><span >Let's delve into why it is safe to buy Spotify plays through FameDaddy.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Compliance with Spotify Guidelines</span></h3>
                         <p dir="ltr" ><span >We understand the importance of adhering to Spotify's terms of service. We have a deep understanding of the platform's guidelines and regulations, ensuring that our services are in full compliance.&nbsp;</span></p>
                         <p dir="ltr" ><span >By promoting your music through our platform, you can have peace of mind knowing that your plays are generated organically and won't risk your account being flagged or suspended by Spotify.</span></p>
@@ -299,7 +299,7 @@ const SpotifyBuyPlays = () => {
                         <p dir="ltr" ><span >We have garnered positive feedback from numerous satisfied customers who have used our services for Spotify promotion. Our track record of providing safe and effective promotional solutions speaks volumes about our reliability and commitment to customer satisfaction.&nbsp;</span></p>
                         <p dir="ltr" ><span >The testimonials and reviews from these customers further solidify our reputation as a safe and trustworthy service provider.</span></p>
                         
-                        <p dir="ltr" ><span >With UseViral, you can confidently boost your play count, enhance your visibility, and reach a broader audience on Spotify, knowing that your music career is in safe hands.</span></p></div>
+                        <p dir="ltr" ><span >With FameDaddy, you can confidently boost your play count, enhance your visibility, and reach a broader audience on Spotify, knowing that your music career is in safe hands.</span></p></div>
                     </div>
                   </div>
                 </div>
@@ -311,14 +311,14 @@ const SpotifyBuyPlays = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
                       aria-controls="collapseTwo">
                       <img src="./assets/child_logos//brain.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why Should You Choose UseViral to Purchase Spotify Plays?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why Should You Choose FameDaddy to Purchase Spotify Plays?</h5>
                     </button>
                   </h2>
                   <div id="collapseTwo" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
                       <div class="panel show"><p dir="ltr" ><span >When it comes to purchasing Spotify plays to boost your music career, choosing the right service provider is essential. With numerous options available, it's crucial to select a reputable and trustworthy platform that can deliver consistant results.</span></p>
                         <p dir="ltr" ><span >We emerge as a top choice for buying Spotify plays, offering a range of benefits that set us apart from the competition.</span></p>
-                        <p dir="ltr" ><span >Let us show you why you should choose UseViral for your Spotify play needs.</span></p>
+                        <p dir="ltr" ><span >Let us show you why you should choose FameDaddy for your Spotify play needs.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Tailored Campaigns for Targeted Growth</span></h3>
                         <p dir="ltr" ><span >We understand that each artist has unique goals and target audiences. That's why we offer tailored campaigns to suit your specific needs.&nbsp;</span></p>
                         <p dir="ltr" ><span >Whether you want to reach a particular demographic, genre-specific audience, or gain traction in specific regions, we can customize your Spotify play campaign accordingly. Our targeted approach maximizes the effectiveness of your promotional efforts and helps you connect with the right listeners.</span></p>
@@ -327,7 +327,7 @@ const SpotifyBuyPlays = () => {
                         <p dir="ltr" ><span >With us at your side, you can expect a smooth and seamless experience from the moment you purchase your Spotify plays to the delivery and beyond.</span></p>
                         <p dir="ltr" ><span >In summary, choosing our platform to buy targeted Spotify plays is a smart decision for musicians and artists looking to enhance their Spotify presence.</span></p>
                         
-                        <p dir="ltr" ><span >Make UseViral your partner in promoting your music on Spotify and take your career to new heights.</span></p></div>
+                        <p dir="ltr" ><span >Make FameDaddy your partner in promoting your music on Spotify and take your career to new heights.</span></p></div>
                     </div>
                   </div>
                 </div>
@@ -337,7 +337,7 @@ const SpotifyBuyPlays = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
                       aria-controls="collapseFour">
                       <img src="./assets/child_logos/creative.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy Spotify Plays with UseViral</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy Spotify Plays with FameDaddy</h5>
                     </button>
                   </h2>
                   <div id="collapseFour" className="accordion-collapse collapse show" >
@@ -346,8 +346,8 @@ const SpotifyBuyPlays = () => {
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Choose the Amount Of Spotify Plays&nbsp;</span></h3>
                         <p dir="ltr" ><span >Consider how many plays you'll need to fulfill your advertising goals before purchasing. Consider your unique objectives and the current state of your Spotify presence.&nbsp;</span></p>
                         <p dir="ltr" ><span >Also, be sure that your budget corresponds to your chosen strategy.</span></p>
-                        <h3 dir="ltr" className="h3 font-bold"  ><span >Visit UseVirals’ Buy Spotify Plays Page&nbsp;</span></h3>
-                        <p dir="ltr" ><span >Navigate to the UseViral Spotify plays page. Examine the several packages available, each with a different number of plays for an additional fee.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Visit FameDaddys’ Buy Spotify Plays Page&nbsp;</span></h3>
+                        <p dir="ltr" ><span >Navigate to the FameDaddy Spotify plays page. Examine the several packages available, each with a different number of plays for an additional fee.</span></p>
                         <p dir="ltr" ><span >Click on the package that best suits your promotional objectives and budget, then check the available options' details.</span></p>
                         <h3 dir="ltr" className="h3 font-bold"  ><span >Click "Buy Now" to View Order Details</span></h3>
                         <p dir="ltr" ><span >Once you've decided on the number of plays, click the "Buy Now" button to get to the order details page. You will find a simple form to fill out here.</span></p>
@@ -387,7 +387,7 @@ const SpotifyBuyPlays = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false"
                       aria-controls="collapseSeven">
 
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Does UseViral offer any guarantees on the number of plays I will receive?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Does FameDaddy offer any guarantees on the number of plays I will receive?</h5>
                     </button>
                   </h2>
                   <div id="collapseSeven" className="accordion-collapse collapse show" >

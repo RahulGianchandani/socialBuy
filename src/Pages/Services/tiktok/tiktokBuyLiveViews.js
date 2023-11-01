@@ -25,7 +25,7 @@ const TiktokBuyLiveViews = () => {
           <h2 className="text-2xl tracking-tight leading-10 font-semibold  sm:text-4xl md:text-3xl mt-4 pt-2 text-[#4c4c4c] px-3"> Buy Tiktok Live Views with <br className="xl:hidden" />
             <span className="text-brand">Fast Delivery</span>
           </h2>
-          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> UseViral offers only the highest quality services. Buy safely and securely below:</p>
+          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> FameDaddy offers only the highest quality services. Buy safely and securely below:</p>
         </div>
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
@@ -115,7 +115,7 @@ const TiktokBuyLiveViews = () => {
 
             </div>
           </div>
-          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All UseViral Services:
+          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All FameDaddy Services:
           </h2>
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3'>
             <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
@@ -157,7 +157,7 @@ const TiktokBuyLiveViews = () => {
           </div>
 
         </div>
-        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does UseViral Work?
+        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does FameDaddy Work?
         </h2>
         <div className='lg:flex justify-center items-center'>
           <div className='flex justify-center' >
@@ -248,7 +248,7 @@ const TiktokBuyLiveViews = () => {
 
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Boosters of Motivation</span></h3>
                       <p dir="ltr" ><span >Everyone wants their content to get the attention it deserves. Every influencer aspires to have a more extensive follower base since it provides the impression that he is doing something right and producing quality material for his audience.&nbsp;</span></p>
-                      <p dir="ltr" ><span >Some people see success as an added motivator to go the extra mile and be their best version. That is why gaining followers through UseViral can give you the confidence to continue providing your audience with the required content.</span></p>
+                      <p dir="ltr" ><span >Some people see success as an added motivator to go the extra mile and be their best version. That is why gaining followers through FameDaddy can give you the confidence to continue providing your audience with the required content.</span></p>
                       <p dir="ltr" ><span >Buying TikTok followers and experiencing success can inspire influencers to experiment with their material and branch out in new ways because who knows when it will go viral!</span></p>
                       <h3 dir="ltr" className="h3 font-bold"  ><span >Access to Data</span></h3>
                       <p dir="ltr" ><span >Data power the modern world we live in. It is one of the tools businesses employ to maximize earnings and identify areas for improvement. It introduces an entirely new way of looking at things, in which you may learn about the quality of your material by looking at data and graphs.&nbsp;</span></p>
@@ -268,7 +268,7 @@ const TiktokBuyLiveViews = () => {
                 </h2>
                 <div id="collapseThree" className="accordion-collapse collapse show" >
                   <div className="accordion-body border border-[#eee]">
-                    <div class="panel show"><p dir="ltr" ><span >We at UseViral provide a diverse range of packages. We offer packages for everything related to social media, from video views to likes, shares, and followers.&nbsp;</span></p>
+                    <div class="panel show"><p dir="ltr" ><span >We at FameDaddy provide a diverse range of packages. We offer packages for everything related to social media, from video views to likes, shares, and followers.&nbsp;</span></p>
                       <p dir="ltr" ><span >Clients often asked us which one was the most significant, and at first, we had no idea.</span></p>
                       <p dir="ltr" ><span >As a result, we conducted hundreds of tests and experiments with our product and closely monitored the test accounts.</span></p>
                       <p dir="ltr" ><span >Based on this, we may conclude that followers are the most crucial measure for a TikTok account. The accounts on which we went on to buy TikTok followers had the most success during our tests.</span></p>
@@ -276,7 +276,7 @@ const TiktokBuyLiveViews = () => {
                       <p dir="ltr" ><span >For starters, if you wish to buy a significant number of likes. In the view of TikTok administrators, such likes that arise out of nowhere would be suspect. As a result, regardless of what you purchase, we provide your account with at least some followers to decrease the suspicion around your account.</span></p>
                       <p dir="ltr" ><span >Buying TikTok followers is more crucial than buying anything else since it maximizes the effectiveness of your profile. If you buy likes, comments, or shares, these are one-time events that will only do what they need to do.</span></p>
 
-                      <p dir="ltr" ><span >When you buy TikTok followers from UseViral, you get people who utilize their accounts regularly. You should take advantage of this and strive to generate unique and exciting material to keep people on your profile and interacting with your stuff.</span></p></div>
+                      <p dir="ltr" ><span >When you buy TikTok followers from FameDaddy, you get people who utilize their accounts regularly. You should take advantage of this and strive to generate unique and exciting material to keep people on your profile and interacting with your stuff.</span></p></div>
                   </div>
                 </div>
               </div>
@@ -294,12 +294,12 @@ const TiktokBuyLiveViews = () => {
                 <div id="collapseFour" className="accordion-collapse collapse show" >
                   <div className="accordion-body border border-[#eee]">
                     <div class="panel show"><p dir="ltr" ></p>
-                      <p dir="ltr" ><span >Yes, it is. It's our clients' top worry, and we at UseViral know the theories surrounding the purchase of TikTok followers. Our professionals have spent countless hours separating and studying the procedure step by step to assure the safety of our clients.</span></p>
-                      <p dir="ltr" ><span >Our TikTok follower purchase technique ensures the client's account is always secure. The payment is also optimized to the greatest extent possible, so we only request what is essential from you. UseViral values our clients' privacy and does not request any sensitive information.</span></p>
-                      <p dir="ltr" ><span >Our customer's pleasure is our number one priority at UseViral. We've had many significant interactions, and many of our clients have become successful and well-liked influencers.&nbsp;</span></p>
+                      <p dir="ltr" ><span >Yes, it is. It's our clients' top worry, and we at FameDaddy know the theories surrounding the purchase of TikTok followers. Our professionals have spent countless hours separating and studying the procedure step by step to assure the safety of our clients.</span></p>
+                      <p dir="ltr" ><span >Our TikTok follower purchase technique ensures the client's account is always secure. The payment is also optimized to the greatest extent possible, so we only request what is essential from you. FameDaddy values our clients' privacy and does not request any sensitive information.</span></p>
+                      <p dir="ltr" ><span >Our customer's pleasure is our number one priority at FameDaddy. We've had many significant interactions, and many of our clients have become successful and well-liked influencers.&nbsp;</span></p>
                       <p dir="ltr" ><span >That's our expertise. No other company uses this method to give TikTok followers. We worked for years to perfect it, and now none of our deliveries put the client in danger of losing their account.</span></p>
 
-                      <p dir="ltr" ><span >When you buy TikTok followers from UseViral, you get followers who do not violate any of TikTok's guidelines and will never hurt your profile or content.</span></p></div>
+                      <p dir="ltr" ><span >When you buy TikTok followers from FameDaddy, you get followers who do not violate any of TikTok's guidelines and will never hurt your profile or content.</span></p></div>
                   </div>
                 </div>
               </div>
@@ -309,17 +309,17 @@ const TiktokBuyLiveViews = () => {
                     data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
                     aria-controls="collapseFive">
                     <img src="./assets/child_logos/creative.png" className="mr-[10px]" alt="" />
-                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why Should You Choose UseViral to Buy TikTok Followers?</h5>
+                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why Should You Choose FameDaddy to Buy TikTok Followers?</h5>
                   </button>
                 </h2>
                 <div id="collapseFive" className="accordion-collapse collapse show" >
                   <div className="accordion-body border border-[#eee]">
-                    <div class="panel show"><p dir="ltr" ><span >You should stick with UseViral through your influencer journey and purchase TikTok followers for a few reasons.&nbsp;</span></p>
-                      <p dir="ltr" ><span >We are proud that UseViral has become one of the most dependable social media marketing providers that provide TikTok engagement services, among others.</span></p>
+                    <div class="panel show"><p dir="ltr" ><span >You should stick with FameDaddy through your influencer journey and purchase TikTok followers for a few reasons.&nbsp;</span></p>
+                      <p dir="ltr" ><span >We are proud that FameDaddy has become one of the most dependable social media marketing providers that provide TikTok engagement services, among others.</span></p>
                       <p dir="ltr" ><span >Our history of providing genuine followers can boost your trust and exposure on TikTok, which may encourage you to use our services.&nbsp;</span></p>
-                      <p dir="ltr" ><span >If you're trying to expand your presence on the platform, we could help by providing targeted followers from individuals from all around the world or even a particular gender or age group. UseViral also has other upsides like personalized packages, low prices, and good customer service to ensure the best experience for our clients.</span></p>
+                      <p dir="ltr" ><span >If you're trying to expand your presence on the platform, we could help by providing targeted followers from individuals from all around the world or even a particular gender or age group. FameDaddy also has other upsides like personalized packages, low prices, and good customer service to ensure the best experience for our clients.</span></p>
 
-                      <p dir="ltr" ><span >We've been around for a long time and have vast experience in the field, that’s why many people chose us before our competitors. Make sure to look at UseViral and make the right decision!</span></p></div>
+                      <p dir="ltr" ><span >We've been around for a long time and have vast experience in the field, that’s why many people chose us before our competitors. Make sure to look at FameDaddy and make the right decision!</span></p></div>
                   </div>
                 </div>
               </div>
@@ -330,7 +330,7 @@ const TiktokBuyLiveViews = () => {
                     data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false"
                     aria-controls="collapseSix">
 
-                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How to Buy TikTok Followers with UseViral</h5>
+                    <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How to Buy TikTok Followers with FameDaddy</h5>
                   </button>
                 </h2>
                 <div id="collapseSix" className="accordion-collapse collapse show" >
@@ -338,10 +338,10 @@ const TiktokBuyLiveViews = () => {
                     <div class="panel show">
                       <ol >
                         <li dir="ltr" aria-level="1">
-                          <p dir="ltr" role="presentation"><span >Begin by using your favorite web browser to access the official UseViral website. </span></p>
+                          <p dir="ltr" role="presentation"><span >Begin by using your favorite web browser to access the official FameDaddy website. </span></p>
                         </li>
                         <li dir="ltr" aria-level="1">
-                          <p dir="ltr" role="presentation"><span >Navigate to the services part of the UseViral website or explicitly search for TikTok followers. Look for a plan that meets your needs for TikTok followers.&nbsp;</span></p>
+                          <p dir="ltr" role="presentation"><span >Navigate to the services part of the FameDaddy website or explicitly search for TikTok followers. Look for a plan that meets your needs for TikTok followers.&nbsp;</span></p>
                         </li>
                         <li dir="ltr" aria-level="1">
                           <p dir="ltr" role="presentation"><span >Choose the option that best meets your demands regarding the number of followers you want to buy. Consider your budget, objectives, and desired level of growth.</span></p>
@@ -359,10 +359,10 @@ const TiktokBuyLiveViews = () => {
                           <p dir="ltr" role="presentation"><span >Fill in the blanks with your name, email address, and payment information. To avoid problems with order processing, make sure the information is correct.&nbsp;</span></p>
                         </li>
                         <li dir="ltr" aria-level="1">
-                          <p dir="ltr" role="presentation"><span >Check the order information and the total amount to be paid again. Use the payment methods given by UseViral to complete the payment process.&nbsp;</span></p>
+                          <p dir="ltr" role="presentation"><span >Check the order information and the total amount to be paid again. Use the payment methods given by FameDaddy to complete the payment process.&nbsp;</span></p>
                         </li>
                         <li dir="ltr" aria-level="1">
-                          <p dir="ltr" role="presentation"><span >UseViral will begin processing your order once your money has been properly processed. The delivery time may vary depending on the shipment and the service provider. Be patient, as the followers may take some time to appear on your TikTok page.&nbsp;</span></p>
+                          <p dir="ltr" role="presentation"><span >FameDaddy will begin processing your order once your money has been properly processed. The delivery time may vary depending on the shipment and the service provider. Be patient, as the followers may take some time to appear on your TikTok page.&nbsp;</span></p>
                         </li>
                         <li dir="ltr" aria-level="1">
                           <p dir="ltr" role="presentation"><span >Once the followers are sent, keep an eye on the development and engagement of your TikTok profile. Examine the impact of the acquired followers and determine whether they align with your aims and expectations.</span></p>
@@ -412,7 +412,7 @@ const TiktokBuyLiveViews = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false"
                       aria-controls="collapseNine">
 
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Can I use UseViral to buy TikTok followers if my TikTok account is verified or has a blue tick?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Can I use FameDaddy to buy TikTok followers if my TikTok account is verified or has a blue tick?</h5>
                     </button>
                   </h2>
                   <div id="collapseNine" className="accordion-collapse collapse show" >
@@ -429,12 +429,12 @@ const TiktokBuyLiveViews = () => {
                         data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false"
                         aria-controls="collapseTen">
 
-                        <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Why should I buy UseViral TikTok followers?</h5>
+                        <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Why should I buy FameDaddy TikTok followers?</h5>
                       </button>
                     </h2>
                     <div id="collapseTen" className="accordion-collapse collapse show" >
                       <div className="accordion-body border border-[#eee]">
-                        <div class="panel show"><p dir="ltr" ><span >UseViral is the answer if you want a cheap, rapid, and dependable way to get TikTok followers.&nbsp;</span></p>
+                        <div class="panel show"><p dir="ltr" ><span >FameDaddy is the answer if you want a cheap, rapid, and dependable way to get TikTok followers.&nbsp;</span></p>
                           <p dir="ltr" ><span >Unlike our competitors, we do not use bot accounts that are terminated after a few weeks. We present you with followers who have expressed an interest in comparable material to yours and will stay with you indefinitely.</span></p>
 
                           <p dir="ltr" ><span >Our service is completely safe, does not break any TikTok policies, and will not result in the suspension of your account.</span></p></div>
@@ -454,7 +454,7 @@ const TiktokBuyLiveViews = () => {
                           <div class="panel show"><p dir="ltr" ><span >There is no limit to the number of TikTok followers you can gain if you buy them.&nbsp;</span></p>
                             <p dir="ltr" ><span >We offer our customers to customize their packages to meet their individual requirements.&nbsp;</span></p>
 
-                            <p dir="ltr" ><span >Based on your current number of followers, UseViral proposes a few packages. If none of these possibilities appeal to you, you can enter a number and see your account grow over the following few days.</span></p></div>
+                            <p dir="ltr" ><span >Based on your current number of followers, FameDaddy proposes a few packages. If none of these possibilities appeal to you, you can enter a number and see your account grow over the following few days.</span></p></div>
                         </div>
                       </div>
                     </div>
@@ -464,12 +464,12 @@ const TiktokBuyLiveViews = () => {
                           data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false"
                           aria-controls="collapseTwelve">
 
-                          <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Will collaborations and brand partnerships become more popular if I buy TikTok followers from UseViral?</h5>
+                          <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Will collaborations and brand partnerships become more popular if I buy TikTok followers from FameDaddy?</h5>
                         </button>
                       </h2>
                       <div id="collapseTwelve" className="accordion-collapse collapse show" >
                         <div className="accordion-body border border-[#eee]">
-                          <div class="panel show"><p dir="ltr" ><span >When you buy TikTok followers from UseViral, your account will gain enormous popularity depending on the quantity of followers you obtain.</span></p>
+                          <div class="panel show"><p dir="ltr" ><span >When you buy TikTok followers from FameDaddy, your account will gain enormous popularity depending on the quantity of followers you obtain.</span></p>
 
                             <p dir="ltr" ><span >When you combine that with consistently producing distinctive and original content, other influencers and brands will take note, and you will most likely receive more collaboration and partnership opportunities over time.</span></p></div>
                         </div>
@@ -489,7 +489,7 @@ const TiktokBuyLiveViews = () => {
                           <div class="panel show"><p dir="ltr" ><span >You very surely can! We recognize the value of reaching the right audience on TikTok, and we provide targeting options to assist you in connecting with specific demographics or interests.</span></p>
                             <p dir="ltr" ><span >Our platform has significant targeting possibilities, allowing you to get followers by targeting specific demographics and hobbies. After a campaign, we may assist you in personalizing your TikTok to interact with a specified range of ages, gender, or other interest groups.</span></p>
 
-                            <p dir="ltr" ><span >Buy TikTok followers from UseViral to effectively reach your targeted demographics and interests, and then mix it with great content to create a powerful TikTok platform.</span></p></div>
+                            <p dir="ltr" ><span >Buy TikTok followers from FameDaddy to effectively reach your targeted demographics and interests, and then mix it with great content to create a powerful TikTok platform.</span></p></div>
                         </div>
                       </div>
                     </div>

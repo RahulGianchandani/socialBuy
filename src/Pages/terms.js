@@ -58,7 +58,7 @@ const Terms = () => {
                         <p>
                             <strong>Support</strong>
                         </p>
-                        <p>We strive to provide our users with industry-leading support. For any sales or technical questions, please email us at <a className="c-link text-[#3366ff]" tabindex="-1" href="mailto:support@useviral.com" target="_blank" rel="noopener noreferrer" data-stringify-link="mailto:support@useviral.com" data-sk="tooltip_parent" aria-haspopup="menu" aria-expanded="false" data-remove-tab-index="true">support@useviral.com</a>. </p>
+                        <p>We strive to provide our users with industry-leading support. For any sales or technical questions, please email us at <a className="c-link text-[#3366ff]" tabindex="-1" href="mailto:support@FameDaddy.com" target="_blank" rel="noopener noreferrer" data-stringify-link="mailto:support@FameDaddy.com" data-sk="tooltip_parent" aria-haspopup="menu" aria-expanded="false" data-remove-tab-index="true">support@FameDaddy.com</a>. </p>
                         <p>
                             <strong>Refund Policy</strong>
                         </p>

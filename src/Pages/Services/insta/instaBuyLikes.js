@@ -25,7 +25,7 @@ const InstaBuyLikes = () => {
           <h2 className="text-2xl tracking-tight leading-10 font-semibold  sm:text-4xl md:text-3xl mt-4 pt-2 text-[#4c4c4c] px-3"> Buy Instagram likes with <br className="xl:hidden" />
             <span className="text-brand">Fast Delivery</span>
           </h2>
-          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> UseViral offers only the highest quality services. Buy safely and securely below:</p>
+          <p className="mt-4 mx-auto text-sm text-gray-800 sm:text-md md:mt-5 md:text-[1.4rem] px-3  "> FameDaddy offers only the highest quality services. Buy safely and securely below:</p>
         </div>
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
@@ -121,7 +121,7 @@ const InstaBuyLikes = () => {
 
             </div>
           </div>
-          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All UseViral Services:
+          <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">Amazing Benefits Included in All FameDaddy Services:
           </h2>
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3'>
             <div className='hover:shadow-xl duration-500 hover:-translate-y-1 flex flex-col items-center justify-center border !border-[#cbcbcb] rounded-lg p-3'>
@@ -163,7 +163,7 @@ const InstaBuyLikes = () => {
           </div>
 
         </div>
-        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does UseViral Work?
+        <h2 className=" text-center text-3xl tracking-wide font-semibold text-454545 sm:text-3xl leading-[1.2] mt-32 mb-16">How does FameDaddy Work?
         </h2>
         <div className='lg:flex justify-center items-center'>
           <div className='flex justify-center' >
@@ -229,7 +229,7 @@ const InstaBuyLikes = () => {
                         <p>Why settle for being a mere spectator when you can take center stage? Each like your Instagram posts receives carries an influential message, serving as a seal of approval from your audience.&nbsp;</p>
                         <p>It signifies that you have something valuable to offer, captivating others and enticing them to explore your content further.&nbsp;</p>
                         <p>By increasing your Likes, you amplify your reach and create a lasting impression on potential followers.</p>
-                        <p>At UseViral, we offer a safe and reliable solution to enhance your Instagram journey. Our comprehensive guide on buying Instagram Likes will equip you with the knowledge and tools to make informed decisions.&nbsp;</p>
+                        <p>At FameDaddy, we offer a safe and reliable solution to enhance your Instagram journey. Our comprehensive guide on buying Instagram Likes will equip you with the knowledge and tools to make informed decisions.&nbsp;</p>
                         <p>We prioritize your safety and adhere to ethical practices, ensuring your account remains secure.&nbsp;</p>
                         <p>With our expert guidance, you can confidently take a significant leap toward establishing yourself as a prominent influencer or business entity.</p>
                       </div>
@@ -257,7 +257,7 @@ const InstaBuyLikes = () => {
                         <p>The key to safety lies in distinguishing between companies driven solely by profit and those caused by a genuine desire to support your aspirations.&nbsp;</p>
                         <p>Beware of organizations prioritizing selling engagement at the highest possible rate while neglecting your long-term success.&nbsp;</p>
                         <p>Instead, seek out companies that prioritize your well-being, understand your unique objectives, and work tirelessly to foster genuine engagement on your behalf.</p>
-                        <p>At UseViral, your safety and success are at the forefront of our mission. We take pride in our stellar reputation and unwavering dedication to authentic growth strategies.&nbsp;</p>
+                        <p>At FameDaddy, your safety and success are at the forefront of our mission. We take pride in our stellar reputation and unwavering dedication to authentic growth strategies.&nbsp;</p>
                         <p>With us, you can rest assured that your Instagram journey is in safe hands.</p></div>
                     </div>
                   </div>
@@ -313,12 +313,12 @@ const InstaBuyLikes = () => {
                       data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
                       aria-controls="collapseFour">
                       <img src="./assets/child_logos//brain.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm "><h3 class="accordion text-source-sans-pro active">How to Buy Instagram Likes With UseViral</h3></h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm "><h3 class="accordion text-source-sans-pro active">How to Buy Instagram Likes With FameDaddy</h3></h5>
                     </button>
                   </h2>
                   <div id="collapseFour" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div class="panel show"><p>Discover the seamless path to heightened social media recognition with these simple steps:</p><h3>1.&nbsp; &nbsp; Choose Your Desired Like Type</h3><p>At UseViral, we understand that your needs are unique. That's why we offer a diverse array of options for Instagram Likes.</p><p>Whether you're seeking broad worldwide Likes or targeted Likes based on specific locations of your preference, we have the perfect solution to match your goals and aspirations.</p><h3>2.&nbsp; &nbsp; Select an Ideal Package</h3><p>Explore our extensive range of packages, each designed to cater to varying levels of engagement. Choose the package that suits your desired number of Likes, with clear pricing information provided for your convenience.</p><p>Consider your budget and the magnitude of growth you aim to achieve as you make your selection.</p><h3>3.&nbsp; &nbsp; Provide Essential Information</h3><p>We'll require some vital details from you to ensure a seamless delivery of Likes. Provide the URL of your Instagram post, ensuring your profile is set to public for optimal results.</p><p>Additionally, we'll ask for your email address, enabling us to keep you informed about the progress of your order.&nbsp;</p><p>Rest assured, we prioritize your privacy and will never ask for sensitive information like passwords.</p><h3>4.&nbsp; &nbsp; Secure Checkout Process</h3><p>With your essential details in place, proceed to our secure checkout process.&nbsp;</p><p>UseViral prioritizes the security of your online transactions, employing robust measures to protect your payment information.</p><p>Choose your preferred payment method, be it credit cards or PayPal, and complete the payment process with confidence.</p><h3>5.&nbsp; &nbsp; Swift Order Delivery</h3><p>Once your payment is processed, UseViral will promptly deliver the purchased Likes to your Instagram account.</p><p>Make the most of our tracking feature to monitor the progress of your order in real-time. Witness the number of Likes increasing on your Instagram posts, validating the effectiveness of UseViral's services.</p><p>Please note that the delivery time may vary depending on the specifics of your chosen package and the number of Likes purchased.</p><p>Rest assured that UseViral is committed to delivering timely and reliable service that surpasses your expectations.&nbsp;</p></div>
+                      <div class="panel show"><p>Discover the seamless path to heightened social media recognition with these simple steps:</p><h3>1.&nbsp; &nbsp; Choose Your Desired Like Type</h3><p>At FameDaddy, we understand that your needs are unique. That's why we offer a diverse array of options for Instagram Likes.</p><p>Whether you're seeking broad worldwide Likes or targeted Likes based on specific locations of your preference, we have the perfect solution to match your goals and aspirations.</p><h3>2.&nbsp; &nbsp; Select an Ideal Package</h3><p>Explore our extensive range of packages, each designed to cater to varying levels of engagement. Choose the package that suits your desired number of Likes, with clear pricing information provided for your convenience.</p><p>Consider your budget and the magnitude of growth you aim to achieve as you make your selection.</p><h3>3.&nbsp; &nbsp; Provide Essential Information</h3><p>We'll require some vital details from you to ensure a seamless delivery of Likes. Provide the URL of your Instagram post, ensuring your profile is set to public for optimal results.</p><p>Additionally, we'll ask for your email address, enabling us to keep you informed about the progress of your order.&nbsp;</p><p>Rest assured, we prioritize your privacy and will never ask for sensitive information like passwords.</p><h3>4.&nbsp; &nbsp; Secure Checkout Process</h3><p>With your essential details in place, proceed to our secure checkout process.&nbsp;</p><p>FameDaddy prioritizes the security of your online transactions, employing robust measures to protect your payment information.</p><p>Choose your preferred payment method, be it credit cards or PayPal, and complete the payment process with confidence.</p><h3>5.&nbsp; &nbsp; Swift Order Delivery</h3><p>Once your payment is processed, FameDaddy will promptly deliver the purchased Likes to your Instagram account.</p><p>Make the most of our tracking feature to monitor the progress of your order in real-time. Witness the number of Likes increasing on your Instagram posts, validating the effectiveness of FameDaddy's services.</p><p>Please note that the delivery time may vary depending on the specifics of your chosen package and the number of Likes purchased.</p><p>Rest assured that FameDaddy is committed to delivering timely and reliable service that surpasses your expectations.&nbsp;</p></div>
                     </div>
                   </div>
                 </div>
@@ -421,7 +421,7 @@ const InstaBuyLikes = () => {
                         </h2>
                         <div id="collapseEleven" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p>Buying Instagram Likes from UseViral will not result in your account being banned. We prioritize the safety and security of our client's accounts and strictly follow Instagram's guidelines.&nbsp;</p><p>Our methods are safe and have been extensively tested to ensure compliance. You can confidently use our service without worrying about any negative consequences for your account.</p></div>
+                            <div class="panel show"><p>Buying Instagram Likes from FameDaddy will not result in your account being banned. We prioritize the safety and security of our client's accounts and strictly follow Instagram's guidelines.&nbsp;</p><p>Our methods are safe and have been extensively tested to ensure compliance. You can confidently use our service without worrying about any negative consequences for your account.</p></div>
                           </div>
                         </div>
                       </div>
@@ -551,12 +551,12 @@ const InstaBuyLikes = () => {
                             data-bs-toggle="collapse" data-bs-target="#collapseTweenty" aria-expanded="false"
                             aria-controls="collapseTweenty">
                             
-                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How do I place an order for Instagram Likes on UseViral?</h5>
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How do I place an order for Instagram Likes on FameDaddy?</h5>
                           </button>
                         </h2>
                         <div id="collapseTweenty" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p>Placing an order for Instagram Likes on UseViral is a simple process. To get started, visit our website and navigate the Instagram Likes section.&nbsp;</p><p>There, you will find a variety of packages to choose from. Select the desired package that suits your needs, provide the necessary details, such as the URLs of the posts you want the Likes on, and proceed to checkout.&nbsp;</p><p>We have designed the ordering process to be user-friendly and hassle-free.</p></div>
+                            <div class="panel show"><p>Placing an order for Instagram Likes on FameDaddy is a simple process. To get started, visit our website and navigate the Instagram Likes section.&nbsp;</p><p>There, you will find a variety of packages to choose from. Select the desired package that suits your needs, provide the necessary details, such as the URLs of the posts you want the Likes on, and proceed to checkout.&nbsp;</p><p>We have designed the ordering process to be user-friendly and hassle-free.</p></div>
                           </div>
                         </div>
                       </div>
@@ -571,7 +571,7 @@ const InstaBuyLikes = () => {
                         </h2>
                         <div id="collapseTweentyOne" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p>When you buy Instagram Likes from UseViral, the risks are minimal.&nbsp;</p><p>We prioritize the safety and security of our clients' accounts and utilize safe and proven methods to deliver Likes.&nbsp;</p><p>However, it's important to note that there are low-quality service providers in the market who engage in unethical practices.&nbsp;</p><p>We recommend avoiding such providers and choosing a reliable service like ours to ensure your safety and satisfaction.</p></div>
+                            <div class="panel show"><p>When you buy Instagram Likes from FameDaddy, the risks are minimal.&nbsp;</p><p>We prioritize the safety and security of our clients' accounts and utilize safe and proven methods to deliver Likes.&nbsp;</p><p>However, it's important to note that there are low-quality service providers in the market who engage in unethical practices.&nbsp;</p><p>We recommend avoiding such providers and choosing a reliable service like ours to ensure your safety and satisfaction.</p></div>
                           </div>
                         </div>
                       </div>
@@ -586,7 +586,7 @@ const InstaBuyLikes = () => {
                         </h2>
                         <div id="collapseTweentyTwo" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p>At UseViral, we offer a 30-day refill guarantee for any Likes that may drop from your posts.&nbsp;</p><p>We understand that maintaining engagement is crucial and stand by our service.&nbsp;</p><p>If you experience a decrease in Likes within 30 days of the purchase, simply contact our customer support, and we will refill them for you. Your satisfaction is our priority.</p></div>
+                            <div class="panel show"><p>At FameDaddy, we offer a 30-day refill guarantee for any Likes that may drop from your posts.&nbsp;</p><p>We understand that maintaining engagement is crucial and stand by our service.&nbsp;</p><p>If you experience a decrease in Likes within 30 days of the purchase, simply contact our customer support, and we will refill them for you. Your satisfaction is our priority.</p></div>
                           </div>
                         </div>
                       </div>
@@ -596,12 +596,12 @@ const InstaBuyLikes = () => {
                             data-bs-toggle="collapse" data-bs-target="#collapseTweentyThree" aria-expanded="false"
                             aria-controls="collapseTweentyThree">
                             
-                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What other Instagram services does UseViral offer?</h5>
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What other Instagram services does FameDaddy offer?</h5>
                           </button>
                         </h2>
                         <div id="collapseTweentyThree" className="accordion-collapse collapse show" >
                           <div className="accordion-body border border-[#eee]">
-                            <div class="panel show"><p>In addition to buying Instagram Likes, UseViral provides a wide range of other Instagram services to help boost your presence on the platform.&nbsp;</p><p>Our services include buying Instagram followers, Instagram views, Instagram engagements, targeted Instagram followers, and Instagram comments.&nbsp;</p><p>Whether you're looking to enhance your follower count, increase video views, or encourage more interactions, we have you covered with our comprehensive range of Instagram services.</p></div>
+                            <div class="panel show"><p>In addition to buying Instagram Likes, FameDaddy provides a wide range of other Instagram services to help boost your presence on the platform.&nbsp;</p><p>Our services include buying Instagram followers, Instagram views, Instagram engagements, targeted Instagram followers, and Instagram comments.&nbsp;</p><p>Whether you're looking to enhance your follower count, increase video views, or encourage more interactions, we have you covered with our comprehensive range of Instagram services.</p></div>
                           </div>
                         </div>
                       </div>
