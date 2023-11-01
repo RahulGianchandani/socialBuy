@@ -15,7 +15,7 @@ import servicesIcon from '../../../images/benefit/services.webp'
 import multipleSocial from '../../../images/multipleSocial.webp'
 const YTBuyWatchTimeHours = () => {
 
-  const [priceSelected, setPriceSelected] = useState(0)
+  const [priceSelected, setPriceSelected] = useState("17.99€")
   console.log("priceSelected", priceSelected);
   return (
     <div id='yt' className='servicePage'>
@@ -30,7 +30,7 @@ const YTBuyWatchTimeHours = () => {
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
             <div className='pricesSelect'>
-              <select className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
+              <select value={priceSelected} className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
                 <option value="17.99€">100 Watch Time Hours - 17.99€</option>
                 <option value="36.99€">250 Watch Time Hours - 36.99€</option>
                 <option value="67.99€">500 Watch Time Hours - 67.99€</option>

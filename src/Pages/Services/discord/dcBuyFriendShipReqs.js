@@ -15,7 +15,7 @@ import servicesIcon from '../../../images/benefit/services.webp'
 import multipleSocial from '../../../images/multipleSocial.webp'
 const DcBuyFriendShipReqs = () => {
 
-  const [priceSelected, setPriceSelected] = useState(0)
+  const [priceSelected, setPriceSelected] = useState("31.99€")
   console.log("priceSelected", priceSelected);
   return (
     <div id='insta' className='servicePage'>
@@ -30,7 +30,7 @@ const DcBuyFriendShipReqs = () => {
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
             <div className='pricesSelect'>
-              <select className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
+              <select value={priceSelected} className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
                 <option value="31.99€">500 FriendShip Requests -  31.99€</option>
                 <option value="55.99€">1000 FriendShip Requests -  55.99€</option>
                 <option value="109.99€">2500 FriendShip Requests -  109.99€</option>

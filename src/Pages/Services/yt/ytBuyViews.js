@@ -15,7 +15,7 @@ import servicesIcon from '../../../images/benefit/services.webp'
 import multipleSocial from '../../../images/multipleSocial.webp'
 const YTBuyViews = () => {
 
-  const [priceSelected, setPriceSelected] = useState(0)
+  const [priceSelected, setPriceSelected] = useState("3.99€")
   console.log("priceSelected", priceSelected);
   return (
     <div id='yt' className='servicePage'>
@@ -30,7 +30,7 @@ const YTBuyViews = () => {
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
             <div className='pricesSelect'>
-              <select className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
+              <select value={priceSelected} className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
                 <option value="3.99€">250 Views - 3.99€</option>
                 <option value="5.99€">500 Views - 5.99€</option>
                 <option value="7.99€">1000 Views - 7.99€</option>
@@ -269,30 +269,30 @@ const YTBuyViews = () => {
                     <div id="collapseThree" className="accordion-collapse collapse show" >
                       <div className="accordion-body border border-[#eee]">
                         <div class="panel show"><p dir="ltr" ><span >Growing your YouTube channel can be time-consuming and challenging when you start it. Fortunately, by purchasing YouTube views from UseViral, you can experience smoother channel growth.&nbsp;</span></p>
-                          <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Improving Your Channel's Ranking</span></h3>
+                          <h3 dir="ltr" className="h3 font-bold" ><span >Improving Your Channel's Ranking</span></h3>
                           <p dir="ltr" ><span >Using YouTube to reach your target audience and promote your company is simple. On the other hand, the interaction and view count of your videos directly impact your YouTube rating.&nbsp;</span></p>
                           <p dir="ltr" ><span >The YouTube algorithm considers views, comments, likes, and user involvement when proposing material. You can increase your video ranks by increasing engagement and views by viewers and likes. </span></p>
                           <p dir="ltr" ><span >More views and likes improve the likelihood that the YouTube algorithm will favor and promote your content.</span></p>
-                          <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Increasing the Virality of Your Videos</span></h3>
+                          <h3 dir="ltr" className="h3 font-bold" ><span >Increasing the Virality of Your Videos</span></h3>
                           <p dir="ltr" ><span >Becoming famous on YouTube necessitates regular video uploads and participation. However, purchasing from UseViral makes it easier to build fame.</span></p>
                           <p dir="ltr" ><span >If your video requires a certain number of views, such as 50,000, to go viral, it may naturally fall short, hurting its virality. You can improve the popularity of your channel by purchasing viewers, giving your videos a better chance of going viral. </span></p>
                           <p dir="ltr" ><span >Purchased views can also encourage greater sharing, distinguishing you from the competition.</span></p>
-                          <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Increasing Your YouTube Subscriber Count</span></h3>
+                          <h3 dir="ltr" className="h3 font-bold" ><span >Increasing Your YouTube Subscriber Count</span></h3>
                           <p dir="ltr" ><span >Increasing your YouTube subscriber count is an important goal for any new YouTube channel. On the other hand, building a subscription base from scratch can take time.&nbsp;</span></p>
                           <p dir="ltr" ><span >Purchasing from UseViral will significantly increase your view count, allowing more people to discover your channel. Increased views can potentially result in video virality, resulting in additional subscribers. </span></p>
                           <p dir="ltr" ><span >Buying views is one of the quickest ways to increase your YouTube subscriber count.</span></p>
-                          <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Building Credibility</span></h3>
+                          <h3 dir="ltr" className="h3 font-bold" ><span >Building Credibility</span></h3>
                           <p dir="ltr" ><span >People are drawn to videos that have received much attention and positive feedback. More views are automatically removed from established YouTube channels.</span></p>
                           <p dir="ltr" ><span > If your channel is new, building traction may take some time. By increasing your view count, UseViral's service can help you develop credibility. </span></p>
                           <p dir="ltr" ><span >Establishing a reputation is critical, especially for digital marketers and content creators, because it helps to attract more views.</span></p>
-                          <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Increasing Traffic to Your Website</span></h3>
+                          <h3 dir="ltr" className="h3 font-bold" ><span >Increasing Traffic to Your Website</span></h3>
                           <p dir="ltr" ><span >Having a large number of subscribers and views builds confidence among viewers. People who trust you are more inclined to visit your website and share your videos, increasing website traffic.&nbsp;</span></p>
 
                           <p dir="ltr" ><span >You can target folks who are really interested in your content by purchasing views from a trusted source and providing tailored traffic that promotes sales and income.</span></p>
-                          <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Unlocking Monetization Opportunities</span></h3>
+                          <h3 dir="ltr" className="h3 font-bold" ><span >Unlocking Monetization Opportunities</span></h3>
                           <p dir="ltr" ><span >Making money on YouTube is an appealing proposition, but significant revenues can take time to attain. You'll need at least 4000 view hours and 1000 subscribers to monetize your channel. </span></p>
                           <p dir="ltr" ><span >By fast-growing your view count, UseViral's service makes it easy to attain these milestones. Furthermore, businesses are more likely to notice channels with a substantial following and high view counts, which opens up prospects for collaborations and promotions, ultimately leading to more significant revenue.</span></p>
-                          <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Having More Free Time</span></h3>
+                          <h3 dir="ltr" className="h3 font-bold" ><span >Having More Free Time</span></h3>
                           <p dir="ltr" ><span >Buying YouTube views from UseViral allows you to reclaim valuable time that would otherwise be spent manually obtaining subscribers and boosting video views. You can use your newfound free time to learn additional internet marketing tactics, such as social media marketing.</span></p>
 
                           </div>
@@ -313,16 +313,16 @@ const YTBuyViews = () => {
                     <div id="collapseFour" className="accordion-collapse collapse show" >
                       <div className="accordion-body border border-[#eee]">
                         <div class="panel"><p dir="ltr" ><span >To increase the exposure of your Youtube channel, follow these steps.</span></p>
-                          <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Determine the Number of Views Required</span></h3>
+                          <h3 dir="ltr" className="h3 font-bold" ><span >Determine the Number of Views Required</span></h3>
                           <p dir="ltr" ><span >Before purchasing, determine the views needed to meet your promotional objectives. Take into account your specific goals as well as the current situation of your channel. In addition, review your budget to ensure it aligns with your planned strategy.</span></p>
-                          <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Provide Required Information</span></h3>
+                          <h3 dir="ltr" className="h3 font-bold" ><span >Provide Required Information</span></h3>
                           <p dir="ltr" ><span >You must submit the necessary information on the order details page. Begin by entering the URL of your YouTube channel or the video you want to promote.&nbsp;</span></p>
                           <p dir="ltr" ><span >Then, enter a valid email address to which all order information will be sent.</span></p>
-                          <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Proceed to Checkout</span></h3>
+                          <h3 dir="ltr" className="h3 font-bold" ><span >Proceed to Checkout</span></h3>
                           <p dir="ltr" ><span >Before proceeding to checkout, double-check the accuracy of your order details. If everything looks to be in order, proceed to the payment stage.&nbsp;</span></p>
                           <p dir="ltr" ><span >UseViral accepts credit/debit cards, PayPal, Apple Pay, and other payment methods. Choose your best choice and follow the instructions to complete the secure transaction.&nbsp;</span></p>
                           <p dir="ltr" ><span >Make sure you input the payment information correctly.</span></p>
-                          <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Confirmation and Delivery</span></h3>
+                          <h3 dir="ltr" className="h3 font-bold" ><span >Confirmation and Delivery</span></h3>
                           
                           <p dir="ltr" ><span >Following a successful payment, you will receive an email confirming your order. This email will provide detailed information about your purchase, such as the number of views obtained and any additional instructions.</span></p></div>
                       </div>

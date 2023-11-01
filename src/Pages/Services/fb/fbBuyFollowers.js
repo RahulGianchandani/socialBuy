@@ -15,7 +15,7 @@ import servicesIcon from '../../../images/benefit/services.webp'
 import multipleSocial from '../../../images/multipleSocial.webp'
 const FbBuyFollowers = () => {
 
-  const [priceSelected, setPriceSelected] = useState(0)
+  const [priceSelected, setPriceSelected] = useState("4.99€")
   console.log("priceSelected", priceSelected);
   return (
     <div id='insta' className='servicePage'>
@@ -241,19 +241,19 @@ const FbBuyFollowers = () => {
                     <div className="accordion-body border border-[#eee]">
                       <div class="panel show">
                         <p dir="ltr" ><span >The positive aspects of using our service to buy targeted Facebook followers can undoubtedly aid you in achieving your goals. Therefore, here are a few of the most important advantages.</span></p>
-                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Enhanced Social Proof</span></h3>
+                        <h3 dir="ltr" className="h3 font-bold"><span >Enhanced Social Proof</span></h3>
                         <p dir="ltr" ><span >One of the key benefits of purchasing Facebook followers is the quick increase in social proof. Social proof is a psychological process in which people make decisions based on the actions and opinions of others.&nbsp;</span></p>
                         <p dir="ltr" ><span >When you increase Facebook followers, you rapidly enhance your follower count, giving you the appearance of popularity, quality, and reliability of your company or page.</span></p>
                         <p dir="ltr" ><span >This increased social proof can help you gain many new followers who are more likely to interact with your content, share it with others, and make a difference in your success.&nbsp;</span></p>
-                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Saving Time and Effort</span></h3>
+                        <h3 dir="ltr" className="h3 font-bold"><span >Saving Time and Effort</span></h3>
                         <p dir="ltr" ><span >Building an effective Facebook following is a long-term process that takes a lot of effort and constant connection with the audience.&nbsp;</span></p>
                         <p dir="ltr" ><span >By purchasing Facebook followers, you skip the early stage and immediately develop a follower base. This may be viewed as a quick way to increase your following count without investing much money.&nbsp;</span></p>
                         <p dir="ltr" ><span >Doing this allows individuals or businesses to give more attention to other parts of their online activity, such as content. Having more time and energy to create engaging content can result in a more exciting social media presence.</span></p>
-                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Increased Business Opportunities&nbsp;</span></h3>
+                        <h3 dir="ltr" className="h3 font-bold"><span >Increased Business Opportunities&nbsp;</span></h3>
                         <p dir="ltr" ><span >Businesses need every advantage to stand out and attract potential clients. Every business wants to use Facebook to promote their product to larger audiences.</span></p>
                         <p dir="ltr" ><span >Companies often seek partnerships with Facebook pages with a higher follower base, so purchasing Facebook followers makes you more likely to be chosen by a big company for a partnership.</span></p>
                         <p dir="ltr" ><span >Facebook's algorithms can analyze your followers' features and interests, allowing businesses to customize their advertising tactics and improve their earnings.</span></p>
-                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Expanding Your Contents Reach and Visibility</span></h3>
+                        <h3 dir="ltr" className="h3 font-bold"><span >Expanding Your Contents Reach and Visibility</span></h3>
                         <p dir="ltr" ><span >You may significantly boost your reach and visibility by purchasing Facebook followers. A higher follower count raises the chances of your work being noticed by a larger audience.</span></p>
                         <p dir="ltr" ><span >With more followers, your content is more likely to show up in their newsfeed, improving the chances of engagement, shares, likes, and reach. You have the opportunity to gain genuine clients who are genuinely interested in your work as your content spreads through the social media network.</span></p>
 
@@ -273,16 +273,16 @@ const FbBuyFollowers = () => {
                   <div id="collapseThree" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
                       <div class="panel show"><p dir="ltr" ><span >Facebook offers many tools for measuring interaction and popularity. Followers, likes, and shares are all crucial metrics to consider when determining the success of your Facebook presence.</span></p>
-                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >How vital are likes?</span></h3>
+                        <h3 dir="ltr" className="h3 font-bold"><span >How vital are likes?</span></h3>
                         <p dir="ltr" ><span >Likes are the number of people who have expressed their support for your work by clicking the like button. When a user likes your content, it may appear in their friends' newsfeeds, exposing your brand to a larger audience.</span></p>
                         <p dir="ltr" ><span >A large number of likes creates a positive view of your content. It shows popularity, and it relates to the idea of social proof.</span></p>
                         <p dir="ltr" ><span >They can serve as a starting point for further interaction. Users who like your content will likely leave feedback, share, or explore your page, resulting in deeper connections and higher engagement.</span></p>
-                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >The Impact of Shares</span></h3>
+                        <h3 dir="ltr" className="h3 font-bold"><span >The Impact of Shares</span></h3>
                         <p dir="ltr" ><span >Shares on Facebook represent that your content is useful enough for someone to share it with their own network.&nbsp;</span></p>
                         <p dir="ltr" ><span >When a person shares your content, it displays it on their timeline, potentially reaching an entirely new audience.</span></p>
                         <p dir="ltr" ><span >They also provide a sense of approval and trust. When somebody shares your content, it shows they appreciate it and want others to benefit. Gaining respect and influence is the result of this recommendation.</span></p>
                         <p dir="ltr" ><span >Shares can aid in developing an awareness of the community around your work. Users that interact with your postings may share them with their own networks, forming a network of others interested in your business or ideas.</span></p>
-                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >The Power of Followers</span></h3>
+                        <h3 dir="ltr" className="h3 font-bold"><span >The Power of Followers</span></h3>
                         <p dir="ltr" ><span >The most valuable measure is followers, which reflect a loyal and engaged audience that supports long-term engagement, improves your influence, and becomes an effective tool for brand promotion.</span></p>
                         <p dir="ltr" ><span >A large number of followers increases your impact and reliability. Your postings will reach a larger audience as your follower base increases, and your brand will earn a reputation and respect in your field of business.</span></p>
 
@@ -330,15 +330,15 @@ const FbBuyFollowers = () => {
                   <div id="collapseFive" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
                       <div class="panel show"><p dir="ltr" ><span >UseViral has developed a virtual platform that provides a reliable and effective solution for purchasing Facebook followers.&nbsp;</span></p>
-                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Exceptional Customer Service</span></h3>
+                        <h3 dir="ltr" className="h3 font-bold"><span >Exceptional Customer Service</span></h3>
                         <p dir="ltr" ><span >Buying Facebook followers from a site like UseViral should be a simple process. UseViral provides excellent customer service to ensure a smooth procedure from start to finish.</span></p>
                         <p dir="ltr" ><span >Our team of skilled professionals is ready to answer all your questions, provide advice, and address any concerns you may have.&nbsp;</span></p>
                         <p dir="ltr" ><span >With our help, you can finish the entire process with trust and ease.</span></p>
-                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Secure and Confidential</span></h3>
+                        <h3 dir="ltr" className="h3 font-bold"><span >Secure and Confidential</span></h3>
                         <p dir="ltr" ><span >You must point out the secrecy and security of your account when purchasing Facebook followers.&nbsp;&nbsp;</span></p>
                         <p dir="ltr" ><span >We recognize your concern and take strict steps to secure your privacy. We use standard security and ethical standards to protect your personal information.</span></p>
                         <p dir="ltr" ><span >You can safely build your Facebook following with UseViral while maintaining the security of your account.&nbsp;</span></p>
-                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Years of Experience in the Industry</span></h3>
+                        <h3 dir="ltr" className="h3 font-bold"><span >Years of Experience in the Industry</span></h3>
                         <p dir="ltr" ><span >One of the key reasons to choose UseViral is its significant industry experience, ten years in this business. With this experience, UseViras has gained a solid awareness of social media trends and customer needs.</span></p>
 
                         <p dir="ltr" ><span >Our work allows us to deliver a high degree of knowledge, guaranteeing that our services are reliable, efficient, and adapted to the unique needs of purchasing Facebook followers.</span></p></div>

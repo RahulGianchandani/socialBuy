@@ -15,7 +15,7 @@ import servicesIcon from '../../../images/benefit/services.webp'
 import multipleSocial from '../../../images/multipleSocial.webp'
 const TwitchBuyFollowers = () => {
 
-  const [priceSelected, setPriceSelected] = useState(0)
+  const [priceSelected, setPriceSelected] = useState("3.99€")
   console.log("priceSelected", priceSelected);
   return (
     <div id='insta' className='servicePage'>
@@ -30,7 +30,7 @@ const TwitchBuyFollowers = () => {
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
             <div className='pricesSelect'>
-              <select className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
+              <select value={priceSelected} className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
                 <option value="3.99€">100 Followers -  3.99€</option>
                 <option value="5.99€">250 Followers -  5.99€</option>
                 <option value="7.99€">500 Followers -  7.99€</option>
@@ -236,23 +236,23 @@ const TwitchBuyFollowers = () => {
                   <div className="accordion-body border border-[#eee]">
                     <div class="panel show"><p dir="ltr"><span >Are you having trouble growing your Twitch followers count?</span></p>
                       <p dir="ltr"><span >You have come to the right place. Let us show you some of the advantages of buying Twitch followers.</span></p>
-                      <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Kickstarting Visibility</span></h3>
+                      <h3 dir="ltr" className="h3 font-bold" ><span >Kickstarting Visibility</span></h3>
                       <p dir="ltr"><span >Purchasing Twitch followers can temporarily boost follower count, potentially attracting initial attention and curiosity from viewers.&nbsp;</span></p>
                       <p dir="ltr"><span >This increased visibility may encourage organic viewers to check out the streamer's content, allowing them to showcase their skills and personality.</span></p>
                       <p dir="ltr"><span >Visitors to the streamer's channel may become curious if there is a rapid surge in followers.&nbsp;</span></p>
                       <p dir="ltr"><span >They can become curious about the streamer's content after seeing a streamer with more followers and wonder what draws in such a big audience. This piqued interest may result in more viewers and the chance to highlight the streamer's abilities and personality.</span></p>
                       <p dir="ltr"><span >Kickstarting&nbsp;</span></p>
-                      <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Enhanced Popularity</span></h3>
+                      <h3 dir="ltr" className="h3 font-bold" ><span >Enhanced Popularity</span></h3>
                       <p dir="ltr"><span >A higher follower count can create a perception of popularity and credibility. When new viewers stumble upon a stream with a large follower base, they may be more inclined to give it a chance, assuming that the streamer's content is valuable.&nbsp;</span></p>
                       <p dir="ltr"><span >This initial perception might lead to increased viewership and potential growth.</span></p>
                       <p dir="ltr"><span >The number of followers is linked to social proof in the competitive Twitch scene. A streamer with more followers may have more intriguing content, attracting more unpaid viewers drawn by their popularity.</span></p>
                       <p dir="ltr"><span >A huge following can help establish social proof and increase the streamer's legitimacy, which may open up more chances for partnerships, sponsorships, and collaborations.</span></p>
-                      <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Increased Social Proof</span></h3>
+                      <h3 dir="ltr" className="h3 font-bold" ><span >Increased Social Proof</span></h3>
                       <p dir="ltr"><span >Followers are frequently used to determine a streamer's credibility and social proof.&nbsp;</span></p>
                       <p dir="ltr"><span >A higher follower count may attract sponsors, brands, or other streamers who see the streamer as influential in their field. This could lead to prospects for collaboration or sponsorship.</span></p>
                       <p dir="ltr"><span >Because of networking opportunities and potential alliances, the streamer may acquire more exposure and experience growth.&nbsp;</span></p>
                       <p dir="ltr"><span >Increasing Twitch followers and number solidifies your social status.</span></p>
-                      <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Boosting Confidence</span></h3>
+                      <h3 dir="ltr" className="h3 font-bold" ><span >Boosting Confidence</span></h3>
                       <p dir="ltr"><span >Some streamers may feel more confident and motivated when they see more followers. This perceived validation may provide a psychological boost, encouraging streamers to continue creating content and engaging with their audience.</span></p>
                       <p dir="ltr"><span >A streamer may feel more motivated after seeing an increase in followers.&nbsp;</span></p>
                       <p dir="ltr"><span >It is a concrete sign that their work is appreciated and that people are interested in what they say.&nbsp;</span></p>
@@ -330,21 +330,21 @@ const TwitchBuyFollowers = () => {
                 <div id="collapseFive" className="accordion-collapse collapse show" >
                   <div className="accordion-body border border-[#eee]">
                     <div class="panel show"><p dir="ltr"><span >You can easily advertise your Twitch profile and expand your online visibility when you buy Twitch followers. Use these quick strategies to purchase followers and raise the visibility of your platform:</span></p>
-                      <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Determine your Desired Amount of Followers</span></h3>
+                      <h3 dir="ltr" className="h3 font-bold" ><span >Determine your Desired Amount of Followers</span></h3>
                       <p dir="ltr"><span >Before purchasing, consider how many followers you'll need to achieve your advertising objectives. Think about your distinct goals and your Twitch presence right now.&nbsp;</span></p>
                       <p dir="ltr"><span >Make sure your budget matches the plan you've chosen.</span></p>
-                      <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Visit the Purchase Twitch Followers Page of UseViral</span></h3>
+                      <h3 dir="ltr" className="h3 font-bold" ><span >Visit the Purchase Twitch Followers Page of UseViral</span></h3>
                       <p dir="ltr"><span >Go to the page built for users worldwide, UseViral Twitch Followers. Examine the many packages offered, each offering a different number of followers for a charge.</span></p>
                       <p dir="ltr"><span >Check the details of the available options after selecting the package that most closely matches your promotional goals and spending limit.</span></p>
-                      <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Click "Buy Now" to View Order Details</span></h3>
+                      <h3 dir="ltr" className="h3 font-bold" ><span >Click "Buy Now" to View Order Details</span></h3>
                       <p dir="ltr"><span >Select the desired amount of followers, then click "Buy Now" to get the order details. You will find a simple form to fill out here.</span></p>
-                      <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Provide the Required Information</span></h3>
+                      <h3 dir="ltr" className="h3 font-bold" ><span >Provide the Required Information</span></h3>
                       <p dir="ltr"><span >In the order details form, provide the URL of your Twitch profile or the profile you want to promote. Include a valid email address to which all pertinent information about your order will be sent.</span></p>
-                      <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Continue to the Checkout</span></h3>
+                      <h3 dir="ltr" className="h3 font-bold" ><span >Continue to the Checkout</span></h3>
                       <p dir="ltr"><span >Double-check your order information to ensure accuracy before the checkout stage. If everything appears in order, move on to the payment stage.&nbsp;</span></p>
                       <p dir="ltr"><span >PayPal and other payment options and credit/debit cards are all accepted by UseViral. To complete the secure transaction, choose your preferred payment method and follow the on-screen instructions.&nbsp;</span></p>
                       <p dir="ltr"><span >Verify the accuracy of all of your payment information.</span></p>
-                      <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Distribution and Confirmation</span></h3>
+                      <h3 dir="ltr" className="h3 font-bold" ><span >Distribution and Confirmation</span></h3>
                       <p dir="ltr"><span >An email confirming your order will be sent to you once the payment has been completed. Details about your transaction, including the amount of followers you gained and any additional instructions, will be included in this email.</span></p>
                       
                       <p dir="ltr"><span >Utilize our convenient services to quickly and effectively promote your Twitch profile by buying Twitch followers, maximizing the impact of your Twitch activities, boosting your online presence, and engaging with a wider audience.</span></p></div>

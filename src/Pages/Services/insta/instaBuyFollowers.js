@@ -15,7 +15,7 @@ import servicesIcon from '../../../images/benefit/services.webp'
 import multipleSocial from '../../../images/multipleSocial.webp'
 const InstaBuyFollowers = () => {
 
-  const [priceSelected, setPriceSelected] = useState(0)
+  const [priceSelected, setPriceSelected] = useState("4.99€")
   console.log("priceSelected", priceSelected);
   return (
     <div id='insta' className='servicePage'>
@@ -30,7 +30,7 @@ const InstaBuyFollowers = () => {
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
             <div className='pricesSelect'>
-              <select className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
+              <select value={priceSelected} className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
                 <option value="4.99€">300 followers - 4.99€</option>
                 <option value="6.99€">500 followers - 6.99€</option>
                 <option value="14.99€">1500 followers - 14.99€</option>

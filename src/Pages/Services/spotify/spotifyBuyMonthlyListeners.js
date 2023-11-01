@@ -15,7 +15,7 @@ import servicesIcon from '../../../images/benefit/services.webp'
 import multipleSocial from '../../../images/multipleSocial.webp'
 const SpotifyBuyMonthlyListeners = () => {
 
-  const [priceSelected, setPriceSelected] = useState(0)
+  const [priceSelected, setPriceSelected] = useState("4.2€")
   console.log("priceSelected", priceSelected);
   return (
     <div id='insta' className='servicePage'>
@@ -30,7 +30,7 @@ const SpotifyBuyMonthlyListeners = () => {
         <div className='flex justify-center my-10 px-3'>
           <div className='flex-col flex items-center sm:px-3'>
             <div className='pricesSelect'>
-              <select className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
+              <select value={priceSelected} className="border !border-[#ed1c25] outline-none p-2 rounded-md youtube_channel" name="selectedPackageId" id="packageSelectBox" onChange={(e) => setPriceSelected(e.target.value)}>
                 <option value="4.2€">1000 Monthly Listeners - 4.2€</option>
                 <option value="6.99€">1500 Monthly Listeners -  6.99€</option>
                 <option value="10.99€">2500 Monthly Listeners -  10.99€</option>
