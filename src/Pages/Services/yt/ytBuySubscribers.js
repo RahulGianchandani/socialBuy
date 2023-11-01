@@ -95,7 +95,7 @@ const YTBuySubscribers = () => {
 
         <h2 className='text-center h2 mb-10'>Our Other <span className="text-brand">Youtube</span> Services: </h2>
         <div className='container max-w-[1300px] px-14'>
-        <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
+          <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
             <div className="btn-group ">
               <Link to="/buy-yt-subs" className="btn flex bg-brand text-white    after:ms-3  py-3 font-bold text-left ps-5 " >
                 <img src={utubeIcon} className='mr-3' /> Buy Youtube Subscribers
@@ -200,6 +200,7 @@ const YTBuySubscribers = () => {
       </div>
 
 
+
       <div id='FAQsection' className='max-sm:px-7  mt-5'>
         <div className='text-center'>
           <h2 className="text-3xl tracking-wide font-semibold text-[#454545] sm:text-3xl leading-1-2">
@@ -216,50 +217,102 @@ const YTBuySubscribers = () => {
                     <button className="accordion-button border bg-[white]   border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px] " type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false"
                       aria-controls="collapseOne">
-                      <img src="./assets/child_logos/Thinking.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How do we guarantee that our reviews are genuine?</h5>
+                      
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">What Makes YouTube Subscriber Count Important?</h5>
                     </button>
                   </h2>
                   <div id="collapseOne" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>A problem that a lot of people face in this industry is whether the reviews are authentic or not. These days, it is all too easy for companies to produce fake reviews, that they can then feature on their website, and claim are genuine. This is obviously going to make them look good in the short term, but in the long term, it is going to be their downfall, because eventually, their clients will discover the sham, and they will lose their reputation, along with their existing clients. We guarantee that our client reviews are genuine, because we only accept reviews from real clients, and we never ask our clients to say good things about our features. We simply work on producing premium quality features from our end so that our clients are naturally inclined to want to send us positive feedback, which can then help you determine whether you want to work with us or not. We go to great lengths to avoid anything that appears to be less than completely authentic, because we don't want to share disingenuous reviews on our website, that could lead you astray.</p>
+                      <div class="panel show">
+                        <p dir="ltr"><span>Successfully managing a YouTube channel encompasses a variety of factors, of which your subscriber count remains a key determinant.&nbsp;</span></p>
+                        <p dir="ltr"><span>Despite shifts in emphasis over time, the relevance of subscriber numbers cannot be understated.&nbsp;</span></p>
+                        <p dir="ltr"><span>One of the initial aspects you typically assess when discovering a new YouTube channel is its number of subscribers.</span></p>
+                        <p dir="ltr"><span>The subscriber tally for a YouTube channel serves as an indicator of social credibility and shapes viewer impressions about the channel's content.&nbsp;</span></p>
+                        <p dir="ltr"><span>A YouTube channel boasting a large subscriber base evokes a feeling of trustworthiness and sparks interest, enticing individuals to delve into the videos and possibly become subscribers themselves.</span></p>
+                        <p dir="ltr"><span>Even your distinctive video content may go unnoticed without a sizeable subscriber community.&nbsp;</span></p>
+                        <p dir="ltr"><span>Fear not, however, as there are tactics you can implement, such as procuring YouTube subscribers, to propel your channel forward and amplify the likelihood of reaching your desired audience.</span></p>
+                        <p dir="ltr"><span>Suppose you've been regularly making stellar video content but have hit a roadblock in accumulating sufficient subscribers.&nbsp;</span></p>
+                        <p dir="ltr"><span>In that case, it could be time to contemplate acquiring them. You understand your content's worth and feel it merits acknowledgment, much like other widely-followed YouTube channels you respect.&nbsp;</span></p>
+                        <p dir="ltr"><span>But, you may find it daunting to persuade YouTube to promote your videos to a broader viewership.</span></p>
+                        <p dir="ltr"><span>In such situations, investing in YouTube subscribers can be a feasible alternative.&nbsp;</span></p>
+                        <p dir="ltr"><span>This approach enhances your channel's dependability, boosts your subscriber numbers, and bolsters your prospects of visibility among your intended viewers.&nbsp;</span></p>
+                        <p dir="ltr"><span>By kickstarting your subscriber acquisition, you generate momentum and invite organic viewership since more individuals are prone to find and engage with your content.</span></p>
+                        <p dir="ltr"><span>UseViral is an excellent choice for purchasing YouTube subscribers and meeting all your channel's needs.&nbsp;</span></p>
+                        <p dir="ltr"><span>Our unwavering dedication to delivering authentic subscribers and reliable services can significantly enrich your channel.&nbsp;</span></p>
+                        <p dir="ltr"><span>With UseViral, you can assuredly expand your subscriber community, elevate your channel's prominence, and augment your overall presence on YouTube.</span></p>
                       </div>
                     </div>
                   </div>
                 </div>
 
-                <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                <div className="accordion-item duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
-                      data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
-                      aria-controls="collapseThree">
+                      data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
+                      aria-controls="collapseTwo">
                       <img src="./assets/child_logos/stctr.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Do we accept all different types of feedback?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Is It Safe to Buy YouTube Subscribers?</h5>
                     </button>
                   </h2>
-                  <div id="collapseThree" className="accordion-collapse collapse show show" >
+                  <div id="collapseTwo" className="accordion-collapse collapse show show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>We are more than happy to accept all kinds of different feedback, given our existing reputation and history. We don't want to just receive positive feedback, because this isn't prudent to our progress as a company. Our mission is to not only provide the best quality features for our clients, but we also want to be able to listen to our client’sneeds andmake adjustments where necessary. This is why we are more than happy to accept both positive and negative reviews, so that we can be moving forward as a company and providing our clients with the best experience possible. We might not necessarily feature all of our negative feedback on our website, especially if we have taken constructive criticism on board, and then applied it directly to our features in order to improve them. You are more than welcome to get in touch with us to if you have any further questions about the type of feedback that you can send through to us.</p>
-                      </div>
+                      <div class="panel show">
+                        <p dir="ltr"><span>You may have some safety concerns, and rightly so because the method is controversial among people. But we are here to tell you it only applies if you get the provider wrong.&nbsp;&nbsp;</span></p>
+                        <p dir="ltr"><span>The safety aspect largely depends on the company you choose to work with.&nbsp;</span></p>
+                        <p dir="ltr"><span>By selecting a reputable and trustworthy company, you can ensure your account's safety and overall experience.</span></p>
+                        <p dir="ltr"><span>A reliable company that offers YouTube subscriber services will prioritize your safety by not requiring any login information.&nbsp;</span></p>
+                        <p dir="ltr"><span>This means that your account credentials remain secure, and you can know that your personal information won't be compromised.&nbsp;</span></p>
+                        <p dir="ltr"><span>Reputable companies follow YouTube's terms of service and provide you with real, engaging subscribers who are genuinely interested in your content.</span></p>
+                        <p dir="ltr"><span>On the other hand, it is critical to exercise prudence and avoid collaborating with companies that are purely interested in profit.&nbsp;</span></p>
+                        <p dir="ltr"><span>Unfortunately, the sector is rife with scams and unethical tactics. Engaging with such organizations might affect the growth and reputation of your channel.&nbsp;</span></p>
+                        <p dir="ltr"><span>As a result, it's critical to avoid these untrustworthy providers if you want to increase your chances of getting genuine and useful subscribers.</span></p>
+                        <p dir="ltr"><span>Another critical factor to consider is the legality of purchasing YouTube subscribers. Fortunately, buying subscribers for your channel is not unlawful.&nbsp;</span></p>
+                        <p dir="ltr"><span>This is not to say that you should choose any company at random.&nbsp;</span></p>
+                        <p dir="ltr"><span>While buying subscribers is permissible, selecting a reputable company that adheres to ethical practices and delivers genuine engagement is crucial.</span></p>
+                        <p dir="ltr"><span>For a safe and pleasant experience when buying subscribers, select a trusted company like UseViral.&nbsp;</span></p>
+                        <p dir="ltr"><span>We value client pleasure, high-quality services, and adherence to YouTube's safety requirements.&nbsp;</span></p>
+                        <p><span id="docs-internal-guid-61f4698b-7fff-d4d9-1db1-fdc947742faf"></span></p>
+                        <p dir="ltr"><span>With UseViral, you can confidently boost your subscription count, increase channel engagement, and develop true connections with your audience, all while being completely safe.</span></p></div>
                     </div>
                   </div>
                 </div>
                 <div className="accordion-item   duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
-                      data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
-                      aria-controls="collapseFive">
+                      data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
+                      aria-controls="collapseThree">
                       <img src="./assets/child_logos/user-plus-bottom.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How do we vet our reviews?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Main Advantages Of Purchasing YouTube Subscribers</h5>
                     </button>
                   </h2>
-                  <div id="collapseFive" className="accordion-collapse collapse show" >
+                  <div id="collapseThree" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>As well as having a team of experts that work on developing our features for us consistently, we also make sure to have members of our team that are vetting all of the reviews that we receive, so that we can make sure that we are only featuring genuine reviews on our website about our features. Our team ensures that the reviews that we receive are not only genuine, but are relevant to our features, and aren't generic in any way. There is the risk in this industry that a bot, or automated software has come up with a generic review, that has nothing to do with the validity, or the reputation of our features. This is why it is really important for us to provide our clients with the guarantee that we vet all of our reviews, so that you can feel confident that the reviews you read above have a high level of relevance to our features, andreflect what you can expect when it comes to working with us.</p>
-                      </div>
+                      <div class="panel show"><p dir="ltr" ><span >Youtube has millions of users uploading and viewing videos daily and has become a highly competitive space for content creators and businesses.&nbsp;</span></p>
+                        <p dir="ltr" ><span >By buying YouTube subscribers, you can improve your chances drastically and enjoy numerous advantages.</span></p>
+
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Save Time and Get a Headstart</span></h3>
+                        <p dir="ltr" ><span >Building a YouTube subscriber base from scratch is a time-consuming process. Attracting and retaining subscribers requires consistent effort, content creation, and promotion.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Buying YouTube subscribers can provide a headstart and save valuable time in the initial stages of growing your channel.</span></p>
+                        <p dir="ltr" ><span >By purchasing subscribers, you can quickly increase your subscriber count and create the perception of an established channel.&nbsp;</span></p>
+                        <p dir="ltr" ><span >This can save you months or even years of dedicated effort to organically reach the same level of subscribers.&nbsp;</span></p>
+                        <p dir="ltr" ><span >With a higher subscriber count, you can focus your time and energy on creating quality content and engaging with your audience instead of solely focusing on subscriber acquisition and numbers.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Boost Your Channel's Credibility</span></h3>
+                        <p dir="ltr" ><span >When it comes to YouTube, credibility is critical. Having a large number of subscribers signals to both YouTube's algorithm and potential viewers that your channel is worth watching.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Buying YouTube subscribers can boost your channel and help you establish credibility in your niche. This can lead to more organic subscribers and increased visibility for your videos.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Increase Your Reach</span></h3>
+                        <p dir="ltr" ><span >One of the main advantages of buying YouTube subscribers is the potential to increase your reach.&nbsp;</span></p>
+                        <p dir="ltr" ><span >YouTube's algorithm considers various factors, including the number of subscribers when recommending videos to users.&nbsp;</span></p>
+                        <p dir="ltr" ><span >By purchasing subscribers, you can improve your chances of appearing in the recommended section and reaching a wider audience - the result is more views, likes, comments, and overall engagement on your videos.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Drive Organic Growth</span></h3>
+                        <p dir="ltr" ><span >Buying YouTube subscribers can kickstart your channel's growth and attract organic subscribers.&nbsp;</span></p>
+                        <p dir="ltr" ><span >When new viewers come across your channel and see a high subscriber count, they are more likely to subscribe themselves.&nbsp;</span></p>
+                        <p dir="ltr" ><span >People tend to follow the crowd, and having many subscribers can create a sense of trust and authority.&nbsp;</span></p>
+                        <p dir="ltr" ><span >It leads to a snowball effect, where your subscriber count grows organically over time.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Improve Social Proof</span></h3>
+                        <p dir="ltr" ><span >Social proof plays a crucial role in influencing people's decisions. When potential viewers see that your channel has a substantial number of subscribers, they are more likely to perceive your content as valuable and trustworthy.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Buying YouTube subscribers can help you establish social proof and make a positive first impression on new viewers.&nbsp;</span></p>
+                        <p><span id="docs-internal-guid-3d28caf6-7fff-0db9-bdad-c32d11c52187"></span></p>
+                        <p dir="ltr" ><span >It will encourage them to explore your channel further and engage with your content.</span></p></div>
                     </div>
                   </div>
                 </div>
@@ -268,34 +321,64 @@ const YTBuySubscribers = () => {
                 <div className="accordion-item   duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
-                      data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
-                      aria-controls="collapseTwo">
+                      data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
+                      aria-controls="collapseFour">
                       <img src="./assets/child_logos//brain.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How do we determine the validity of our reviews?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy YouTube Subscribers on UseViral</h5>
                     </button>
                   </h2>
-                  <div id="collapseTwo" className="accordion-collapse collapse show" >
+                  <div id="collapseFour" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel">
-                        <p className='text-center'>The validity of our reviews is really important to us, which is why we make sure that every review we receive is the real deal. We achieve this by looking into the people that leave the reviews; this includes looking into the profile of the person who has left the review, and ensuring that they are who they claim to be. We don't accept reviews from fake profiles, just like we don't accept reviews from automated software, that is producing a generic review. We want to make sure that you are reading valid reviews, that accurately reflect the experience our existing clients have had with our features.</p>
-                      </div>
+                      <div class="panel show"><h3 dir="ltr" className="h3 font-bold"  ><span >Choose Preferred Package&nbsp;</span></h3>
+                        <p dir="ltr" ><span >Browse through our wide range of packages tailored to meet the diverse requirements of YouTube creators like you.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Whether you're just starting or aiming to accelerate your channel's growth, we offer packages designed to cater to every budget and objective.&nbsp;</span></p>
+                        <p dir="ltr" ><span >You will see the number of subscribers and the low prices next to it. Take your time to select the package that aligns with your goals.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Submit Channel Details&nbsp;</span></h3>
+                        <p dir="ltr" ><span >We need precise information about your YouTube channel to guarantee a smooth delivery process.&nbsp;</span></p>
+                        <p dir="ltr" ><span >When asked, provide your channel's URL and a legitimate email address. This information lets us confirm your channel's identity and update you on your order status.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Be assured; we treat your data with the highest level of confidentiality and security.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Safe Payment Process&nbsp;</span></h3>
+                        <p dir="ltr" ><span >We recognize the significance of secure and convenient online transactions.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Hence, we provide a variety of payment options, including American Express, Visa, Apple Pay, Mastercard, and PayPal.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Choose the option that fits you most, complete the secure payment process, and have peace of mind knowing your financial details are safeguarded.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Monitor Your Order's Status&nbsp;</span></h3>
+                        <p dir="ltr" ><span >After successful payment, we assign you a unique tracking code that lets you follow the delivery progress of your YouTube subscribers. With this code, you can keep an eye on your order's status and get a clear understanding of the delivery timeline.&nbsp;</span></p>
+                        <p dir="ltr" ><span >We stand by our commitment to transparency and keeping you informed throughout the process.</span></p>
+                        <p dir="ltr" ><span >And that's it. By adhering to this detailed guide and utilizing our services, you can maximize the growth potential of your YouTube channel.&nbsp;</span></p>
+                        <p><span id="docs-internal-guid-9413922d-7fff-0703-5231-9fa0b7c723f2"></span></p>
+                        <p dir="ltr" ><span >If you have any inquiries before, during, or after the process, feel free to reach out to our customer support team.</span></p></div>
                     </div>
                   </div>
                 </div>
                 <div className="accordion-item   duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
-                      data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
-                      aria-controls="collapseFour">
+                      data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
+                      aria-controls="collapseFive">
                       <img src="./assets/child_logos/creative.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">What can I expect from your customer support?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How to Buy YouTube Subscribers on UseViral</h5>
                     </button>
                   </h2>
-                  <div id="collapseFour" className="accordion-collapse collapse show" >
+                  <div id="collapseFive" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>You're probably wondering what you can expect when it comes to our customer support when working with us. Here at UseViral, we are determined to provide our clients with the best experience possible when it comes to our customer support, which is why we have a dedicated team of professionals behind the scenes that are working constantly not only on our features, but on being able to provide you with some of the best customer support you'll experience in the industry. This way, you're going to be able to talk to us directly about any issues you might be having with our features and you won't have to wait in a long line to be seen. You'll be able to have a personal experience with us, and you will feel like you are really taken care of.</p>
-                      </div>
+                      <div class="panel show"><h3 dir="ltr" className="h3 font-bold"  ><span >Choose Preferred Package&nbsp;</span></h3>
+                        <p dir="ltr" ><span >Browse through our wide range of packages tailored to meet the diverse requirements of YouTube creators like you.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Whether you're just starting or aiming to accelerate your channel's growth, we offer packages designed to cater to every budget and objective.&nbsp;</span></p>
+                        <p dir="ltr" ><span >You will see the number of subscribers and the low prices next to it. Take your time to select the package that aligns with your goals.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Submit Channel Details&nbsp;</span></h3>
+                        <p dir="ltr" ><span >We need precise information about your YouTube channel to guarantee a smooth delivery process.&nbsp;</span></p>
+                        <p dir="ltr" ><span >When asked, provide your channel's URL and a legitimate email address. This information lets us confirm your channel's identity and update you on your order status.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Be assured; we treat your data with the highest level of confidentiality and security.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Safe Payment Process&nbsp;</span></h3>
+                        <p dir="ltr" ><span >We recognize the significance of secure and convenient online transactions.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Hence, we provide a variety of payment options, including American Express, Visa, Apple Pay, Mastercard, and PayPal.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Choose the option that fits you most, complete the secure payment process, and have peace of mind knowing your financial details are safeguarded.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  ><span >Monitor Your Order's Status&nbsp;</span></h3>
+                        <p dir="ltr" ><span >After successful payment, we assign you a unique tracking code that lets you follow the delivery progress of your YouTube subscribers. With this code, you can keep an eye on your order's status and get a clear understanding of the delivery timeline.&nbsp;</span></p>
+                        <p dir="ltr" ><span >We stand by our commitment to transparency and keeping you informed throughout the process.</span></p>
+                        <p dir="ltr" ><span >And that's it. By adhering to this detailed guide and utilizing our services, you can maximize the growth potential of your YouTube channel.&nbsp;</span></p>
+                        <p><span id="docs-internal-guid-9413922d-7fff-0703-5231-9fa0b7c723f2"></span></p>
+                        <p dir="ltr" ><span >If you have any inquiries before, during, or after the process, feel free to reach out to our customer support team.</span></p></div>
                     </div>
                   </div>
                 </div>
@@ -305,15 +388,16 @@ const YTBuySubscribers = () => {
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false"
                       aria-controls="collapseSix">
-                      <img src="./assets/child_logos/solve.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Do you just accept customer reviews?</h5>
+                      
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Are the YouTube subscribers you offer authentic individuals?</h5>
                     </button>
                   </h2>
                   <div id="collapseSix" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>Anybody can leave a review about our features on our website, but as far as what we prefer, it is better for us to accept reviews that have been left by existing clients. This way, you can get an accurate representation of the experience you might have if you were to sign up for our features. We want you to be able to read first-hand how other people have experienced our features and our reputation in the industry, so that we are able to have a good working relationship with you going forward.</p>
-                      </div>
+                      <div class="panel show"><p dir="ltr" ><span >Definitely! The YouTube subscribers we deliver are indeed real people.&nbsp;</span></p>
+                        <p dir="ltr" ><span >We employ carefully targeted marketing strategies to entice real people who have expressed interest in channels similar to yours.&nbsp;</span></p>
+                        <p><span id="docs-internal-guid-9dd502f7-7fff-23f4-7201-ecadca7a13a8"></span></p>
+                        <p dir="ltr" ><span >We make sure the subscribers you acquire are legitimate and have the ability to engage with your material actively. </span></p></div>
                     </div>
                   </div>
                 </div>
@@ -322,25 +406,360 @@ const YTBuySubscribers = () => {
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false"
                       aria-controls="collapseSeven">
-                      <img src="./assets/child_logos/solve.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Do you edit the content of the reviews?</h5>
+                      
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What effect does purchasing YouTube subscribers have on my channel?</h5>
                     </button>
                   </h2>
                   <div id="collapseSeven" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>We want to be as upfront and honest with our clients as possible, especially from the beginning. This way, you can feel confident that you're going to be able to have a good working relationship with us in the future going forward. One of the ways that we achieve this is by accepting all the reviews that we receive and avoiding editing any of the content of the reviews. As we've already talked about, if we receive a negative review, we apply this directly to our features, so that they can be approved upon, so while you might not necessarily see all of the negative reviews that we receive, we strive to maintain as much transparency and honesty with our clients as possible. We want our existing clients to be able to communicate exactly how they feel about our features, which is why we don't edit the content of the reviews that you see above.</p>
+                      <div class="panel show"><p dir="ltr" ><span >You invest in your channel's expansion and future success when you <span ><strong><a href="https://www.timesofisrael.com/spotlight/buy-youtube-subscribers/" target="_blank" rel="noopener">buy YouTube subscribers</a></strong></span>.&nbsp;</span></p>
+                        <p dir="ltr" ><span >By taking this move, you can drastically increase your subscriber count and give your channel more credibility and social proof.&nbsp;</span></p>
+                        <p dir="ltr" ><span >This means that a large number of subscribers increases the likelihood that new viewers will consider your content to be valuable and reliable.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Since subscribers typically receive updates when you upload new content, a more extensive subscriber base can increase organic views.&nbsp;</span></p>
+                        <p dir="ltr" ><span >This raises the likelihood that they will view, like, and share your material, which will lead to more views, more interaction, and perhaps even better search rankings.&nbsp;</span></p>
+                        <p><span id="docs-internal-guid-6bec8b78-7fff-9222-9c5c-33d5b8c891bb"></span></p>
+                        <p dir="ltr" ><span >After all, the YouTube algorithm determines the availability of videos by taking into account variables like audience retention and engagement numbers.</span></p></div>
+                    </div>
+                  </div>
+                </div>
+                <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                  <h2 className="accordion-header">
+                    <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                      data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false"
+                      aria-controls="collapseEight">
+                      
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How soon will I get my purchased YouTube subscribers?</h5>
+                    </button>
+                  </h2>
+                  <div id="collapseEight" className="accordion-collapse collapse show" >
+                    <div className="accordion-body border border-[#eee]">
+                      <div class="panel show"><p dir="ltr" ><span >Depending on the package size and market demand, different packages can take an additional amount of time to supply YouTube subscribers.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Nevertheless, we promise to start the shipping process as soon as we can, usually 24 to 48 hours after your purchase.&nbsp;</span></p>
+                        <p><span id="docs-internal-guid-69a21393-7fff-15ad-f09c-d5ce314f47ef"></span></p>
+                        <p dir="ltr" ><span >We make every effort to ensure a timely and successful delivery because we understand how important it is for your subscriber count to expand as soon as possible.</span></p></div>
+                    </div>
+                  </div>
+                  <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                    <h2 className="accordion-header">
+                      <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                        data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false"
+                        aria-controls="collapseNine">
+                        
+                        <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Is round-the-clock customer service offered?</h5>
+                      </button>
+                    </h2>
+                    <div id="collapseNine" className="accordion-collapse collapse show" >
+                      <div className="accordion-body border border-[#eee]">
+                        <div class="panel show"><p dir="ltr" ><span >Absolutely! If you have any concerns, issues, or questions about your purchase of YouTube subscribers, our devoted customer support team is always available to help.&nbsp;</span></p>
+                          <p><span id="docs-internal-guid-d5ed906f-7fff-d255-702f-92771212b1bc"></span></p>
+                          <p dir="ltr" ><span >We take great pride in providing outstanding customer service and ensuring that every one of our esteemed customers has a positive and enjoyable experience.</span></p></div>
                       </div>
+                    </div>
+                    <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                      <h2 className="accordion-header">
+                        <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                          data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false"
+                          aria-controls="collapseTen">
+                          
+                          <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What happens if I'm not happy with the subscriptions I bought?</h5>
+                        </button>
+                      </h2>
+                      <div id="collapseTen" className="accordion-collapse collapse show" >
+                        <div className="accordion-body border border-[#eee]">
+                          <div class="panel show"><p dir="ltr" ><span >We have your back! We provide a 30-day money-back guarantee to make sure you're happy with everything.&nbsp;</span></p>
+                            <p dir="ltr" ><span >Within 30 days of your transaction, you have the option to request a refund if, for any reason, you're dissatisfied with the caliber or delivery of the YouTube subscribers you purchased.&nbsp;</span></p>
+                            <p><span id="docs-internal-guid-0535c320-7fff-b588-79fd-922ea2eebeb0"></span></p>
+                            <p dir="ltr" ><span >Our customer care team will gladly assist you with the refund process if you have any questions or issues.</span></p></div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false"
+                            aria-controls="collapseEleven">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Is UseViral a reliable source for my personal information?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseEleven" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p dir="ltr" ><span >Certainly! The security and privacy of your personal information are our top priorities. We have effective safeguards in place to keep your data secure and private.&nbsp;</span></p>
+                              <p dir="ltr" ><span >We won't divulge your personal information to outside parties to preserve your privacy and rigorously follow industry-standard procedures.&nbsp;</span></p>
+                              <p><span id="docs-internal-guid-54143c74-7fff-2cc2-eefa-e811015de557"></span></p>
+                              <p dir="ltr" ><span >You can be confident that your personal information is secure when you work with UseViral.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false"
+                            aria-controls="collapseTwelve">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Will my newly acquired YouTube subscribers interact with my content?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseTwelve" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-50349690-7fff-9135-6b93-f65dee907a88"></span></p>
+                              <p dir="ltr" ><span >Although the YouTube subscribers you purchase are actual accounts, how they interact with your material relies on several variables, including its quality, relevance to their interests, and your overall engagement strategy.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false"
+                            aria-controls="collapseThirteen">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Can I split up the purchased YouTube subscribers across my several channels?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseThirteen" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-91a55a5c-7fff-0c56-69cf-f73cf660c8d2"></span></p>
+                              <p dir="ltr" ><span >Yes, we permit the sharing of paid YouTube subscribers among several channels. You can distribute subscribers using this function in accordance with your requirements and preferences.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false"
+                            aria-controls="collapseFourteen">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Can I purchase subscribers for a channel that is monetized?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseFourteen" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-ae31dab0-7fff-76cd-c37e-33248ff2d6aa"></span></p>
+                              <p dir="ltr" ><span >Yes, you may purchase subscribers for an already monetized channel. Just remember that the connection and engagement of members you've paid for could not immediately affect your revenue from monetization.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseFifteen" aria-expanded="false"
+                            aria-controls="collapseFifteen">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Is it possible to purchase YouTube subscribers for a new channel?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseFifteen" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-282854a0-7fff-ebb5-871c-645c5aaf97b9"></span></p>
+                              <p dir="ltr" ><span >Without a doubt, regardless of the age of your channel or the number of followers you already have, you can purchase YouTube subscribers.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseSixteen" aria-expanded="false"
+                            aria-controls="collapseSixteen">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Can I combine other marketing tactics with purchasing YouTube subscribers?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseSixteen" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-5e56814f-7fff-4ab0-b59d-b863e51053a4"></span></p>
+                              <p dir="ltr" ><span >Yes, complementary marketing tactics, including content optimization, social media marketing, partnerships, and advertising, can be used in addition to purchasing subscribers. This strategy can aid in maximizing the expansion and audience of your channel.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseSeventeen" aria-expanded="false"
+                            aria-controls="collapseSeventeen">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Do the subscribers I buy last permanently?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseSeventeen" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p dir="ltr" ><span >Subscriber retention can vary, even though we strive to deliver subscribers who will stay active on your channel.&nbsp;</span></p>
+                              <p><span id="docs-internal-guid-fce0aaa9-7fff-b92e-6a7d-dfb5fb99159e"></span></p>
+                              <p dir="ltr" ><span >With time, some subscribers might decide to stop receiving certain content, or their tastes may change.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseEighteen" aria-expanded="false"
+                            aria-controls="collapseEighteen">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Is it possible to purchase targeted YouTube followers from particular nations or regions?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseEighteen" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-9426f0bf-7fff-16f2-2007-25419d126c58"></span></p>
+                              <p dir="ltr" ><span >Absolutely, yes! We provide the possibility to purchase specifically targeted YouTube subscribers from particular nations or areas. With this choice, you may reach the right audience and appeal to their interests.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseNineteen" aria-expanded="false"
+                            aria-controls="collapseNineteen">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What forms of payment do you accept?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseNineteen" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-dbe54faa-7fff-47e0-793a-f74d6393b65a"></span></p>
+                              <p dir="ltr" ><span >To meet our customer's needs, we accept various payment options. Major credit cards, including Mastercard, Visa, Discover, and American Express, and well-liked services like PayPal and Apple Pay, can be used to make payments. Our goal is to offer a range of convenient payment methods.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseTweenty" aria-expanded="false"
+                            aria-controls="collapseTweenty">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Does purchasing subscribers for YouTube violate its terms of service?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseTweenty" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p dir="ltr" ><span >It is not against YouTube's terms of service to buy subs from a trustworthy vendor like UseViral. We take pleasure in providing loyal, active subscribers who choose to subscribe to your channel of their own volition.&nbsp;</span></p>
+                              <p><span id="docs-internal-guid-708b51e0-7fff-a6c0-04cd-947b7afd2965"></span></p>
+                              <p dir="ltr" ><span >Our techniques follow YouTube's rules and provide a safe and legal way to grow your subscriber base.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseTweentyOne" aria-expanded="false"
+                            aria-controls="collapseTweentyOne">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Can I order a specific number of YouTube subscribers for my channel?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseTweentyOne" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-ccab878b-7fff-0a6e-7b48-21460d30684d"></span></p>
+                              <p dir="ltr" ><span >Yes, we offer a variety of package sizes to meet different subscriber needs. Select a package that aligns with your requirements and desired subscriber count.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseTweentyTwo" aria-expanded="false"
+                            aria-controls="collapseTweentyTwo">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What other social media platforms do you provide services on?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseTweentyTwo" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p dir="ltr" ><span >Besides YouTube, we cater to various popular social media platforms. Our exhaustive offerings cover platforms like Instagram, Facebook, Twitter, TikTok, SoundCloud, Spotify, and many others.&nbsp;</span></p>
+                              <p><span id="docs-internal-guid-3832ab4a-7fff-7c48-1f20-7b336f153d21"></span></p>
+                              <p dir="ltr" ><span >We recognize the diverse needs of our clients and aim to provide customized services that cater to each platform's unique demands. </span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseTweentyThree" aria-expanded="false"
+                            aria-controls="collapseTweentyThree">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Is customer service crucial for this approach?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseTweentyThree" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p dir="ltr" ><span >When selecting the best firm for your YouTube followers, customer service should be one of your top considerations.&nbsp;</span></p>
+                              <p><span id="docs-internal-guid-c4c45760-7fff-e878-4c5a-f0cba18e722a"></span></p>
+                              <p dir="ltr" ><span >Companies like UseViral want to ensure that you are taken care of throughout; therefore, we will give you access to a customer support team you can contact whenever you need to. </span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseTweentyFour" aria-expanded="false"
+                            aria-controls="collapseTweentyFour">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Can I buy YT subs if my channel has received previous strikes or warnings?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseTweentyFour" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-b29f031b-7fff-492f-c463-d1605b09142c"><span> eceived strikes or warnings, it's vital to address content or policy violations before considering subscriber acquisition. Adherence to YouTube's guidelines is crucial for maintaining a healthy channel. </span></span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseTweentyFive" aria-expanded="false"
+                            aria-controls="collapseTweentyFive">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Do you provide refills if some subscribers drop off?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseTweentyFive" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-22206851-7fff-b7cb-a9d7-1987af3a20e1"></span></p>
+                              <p dir="ltr" ><span >Yes, we offer a 30-day refill guarantee for any dropped subscribers. If you notice a reduction in your subscriber count within 30 days of your purchase, we will refill those subscribers at no extra cost. </span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseTweentySix" aria-expanded="false"
+                            aria-controls="collapseTweentySix">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What other services do you offer for YouTube?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseTweentySix" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-817c5fa8-7fff-35bf-8363-e4e452a821f8"></span></p>
+                              <p dir="ltr" ><span >We offer other YouTube services besides subscribers, including YouTube views, likes, comments, and shares. These services can help enhance your overall YouTube presence and engagement. </span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseTweentySeven" aria-expanded="false"
+                            aria-controls="collapseTweentySeven">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What methods of payment do you accept?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseTweentySeven" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p><span id="docs-internal-guid-7091a501-7fff-bb79-dc24-c00a23a2773b"></span></p>
+                              <p dir="ltr" ><span >We accept several payment methods, including major credit cards like Mastercard, Visa, Discover, and American Express. We also accept payments through PayPal and Apple Pay for your convenience.</span></p></div>
+                          </div>
+                        </div>
+                      </div>  
+
+
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-
-        </div>
-      </div>
-    </div>
+        </div >
+      </div >
+    </div >
   )
 }
 

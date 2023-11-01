@@ -335,7 +335,7 @@ const Home = () => {
                     <button className="accordion-button !rounded-none bg-[#eee] hover:bg-[#444] !px-[30px] !py-[20px] collapsed" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false"
                       aria-controls="collapseOne">
-                      <img src="./assets/child_logos/Thinking.png" className="mr-[10px]" alt="" />
+                      
                       <h5 className=" mb-0 h5  font-extrabold text-[#444] max-sm:text-sm ">Why Should I Buy Followers?</h5>
                     </button>
                   </h2>
@@ -431,7 +431,7 @@ const Home = () => {
                     <button className="accordion-button bg-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  collapsed" type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false"
                       aria-controls="collapseSix">
-                      <img src="./assets/child_logos/solve.png" className="mr-[10px]" alt="" />
+                      
                       <h5 className=" mb-0 h5  font-extrabold text-[#444] max-sm:text-sm">Is UseViral Safe?</h5>
                     </button>
                   </h2>

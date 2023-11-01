@@ -37,7 +37,23 @@ import YTBuyWatchTimeHours from './Pages/Services/yt/ytBuyWatchTimeHours';
 import FbBuyComments from './Pages/Services/fb/fbBuyComments';
 import FbBuyFollowers from './Pages/Services/fb/fbBuyFollowers';
 import FbBuyPostLikes from './Pages/Services/fb/fbBuyPostLikes';
-import TgBuyMembers from './Pages/Services/tg/fbBuyPostLikes';
+import TgBuyMembers from './Pages/Services/tg/tgBuyPostLikes';
+import ScBuyViews from './Pages/Services/sc/scBuyViews';
+import ScBuyFollowers from './Pages/Services/sc/scBuyFollowers';
+import DcBuyMembers from './Pages/Services/discord/dcBuyMembers';
+import DcBuyFriendShipReqs from './Pages/Services/discord/dcBuyFriendShipReqs';
+import TwitchBuyFollowers from './Pages/Services/twitch/twitchBuyFollowers';
+import TwitchBuyVidViews from './Pages/Services/twitch/twitchBuyVidViews';
+import TwitchBuyLive from './Pages/Services/twitch/twitchBuyLive';
+import TiktokBuyFollowers from './Pages/Services/tiktok/tiktokBuyFollowers';
+import TiktokBuyLiveViews from './Pages/Services/tiktok/tiktokBuyLiveViews';
+import TiktokBuyLikes from './Pages/Services/tiktok/tiktokBuyLikes';
+import TiktokBuyComments from './Pages/Services/tiktok/tiktokBuyComments';
+import SpotifyBuyFollowers from './Pages/Services/spotify/spotifyBuyFollowers';
+import SpotifyBuyMonthlyListeners from './Pages/Services/spotify/spotifyBuyMonthlyListeners';
+import SpotifyBuyPlays from './Pages/Services/spotify/spotifyBuyPlays';
+import SpotifyBuySaves from './Pages/Services/spotify/spotifyBuySaves';
+import InstaBuyLikes from './Pages/Services/insta/instaBuyLikes';
 
 export default function App() {
   const token = localStorage.getItem('token');
@@ -64,7 +80,7 @@ export default function App() {
           <Route path="/services-snapchat" element={<Snapchat />} />
           <Route path="/services-twitch" element={<Twitch />} />
           <Route path="/services-youtube" element={<Youtube />} />
-          <Route path="/buy-insta-likes" element={<InstaBuyFollowers />} />
+          <Route path="/buy-insta-likes" element={<InstaBuyLikes />} />
           <Route path="/buy-insta-followers" element={<InstaBuyFollowers />} />
           <Route path="/buy-insta-comments" element={<InstaBuyComments />} />
           <Route path="/buy-insta-story-views" element={<InstaBuyStoryViews />} />
@@ -78,6 +94,21 @@ export default function App() {
           <Route path="/buy-fb-followers" element={<FbBuyFollowers />} />
           <Route path="/buy-fb-post-likes" element={<FbBuyPostLikes />} />
           <Route path="/buy-tg-members" element={<TgBuyMembers />} />
+          <Route path="/buy-sc-followers" element={<ScBuyFollowers />} />
+          <Route path="/buy-sc-views" element={<ScBuyViews />} />
+          <Route path="/buy-dc-members" element={<DcBuyMembers />} />
+          <Route path="/buy-dc-friendship-reqs" element={<DcBuyFriendShipReqs />} />
+          <Route path="/buy-twitch-followers" element={<TwitchBuyFollowers />} />
+          <Route path="/buy-twitch-video-views" element={<TwitchBuyVidViews />} />
+          <Route path="/buy-twitch-live" element={<TwitchBuyLive />} />
+          <Route path="/buy-tiktok-followers" element={<TiktokBuyFollowers />} />
+          <Route path="/buy-tiktok-live-views" element={<TiktokBuyLiveViews />} />
+          <Route path="/buy-tiktok-likes" element={<TiktokBuyLikes />} />
+          <Route path="/buy-tiktok-comments" element={<TiktokBuyComments />} />
+          <Route path="/buy-spotify-followers" element={<SpotifyBuyFollowers />} />
+          <Route path="/buy-spotify-monthly-listeners" element={<SpotifyBuyMonthlyListeners />} />
+          <Route path="/buy-spotify-plays" element={<SpotifyBuyPlays />} />
+          <Route path="/buy-spotify-saves" element={<SpotifyBuySaves />} />
 
 
           {/* <Route path="/admin-login" element={<Login />} /> */}

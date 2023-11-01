@@ -15,13 +15,13 @@ const Snapchat = () => {
         <div className='container max-w-[1300px] px-14'>
           <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
             <div className="btn-group ">
-              <Link className="btn flex bg-brand text-white   after:ms-3  py-3 font-bold text-left ps-5 " >
+              <Link to={"/buy-sc-followers"} className="btn flex bg-brand text-white   after:ms-3  py-3 font-bold text-left ps-5 " >
                <img src={scIcon} className='mr-3' /> Buy Snapchat Followers
               </Link>
            
             </div>
             <div className="btn-group ">
-              <Link className="btn flex bg-blue text-white   after:ms-3  py-3 font-bold text-left ps-5 " >
+              <Link to={"/buy-sc-views"} className="btn flex bg-blue text-white   after:ms-3  py-3 font-bold text-left ps-5 " >
               <img src={scIcon} className='mr-3' /> Buy Snapchat Views
               </Link>
            
@@ -47,7 +47,7 @@ const Snapchat = () => {
                     <button className="accordion-button border bg-[white]   border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px] " type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false"
                       aria-controls="collapseOne">
-                      <img src="./assets/child_logos/Thinking.png" className="mr-[10px]" alt="" />
+                      
                       <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How do we guarantee that our reviews are genuine?</h5>
                     </button>
                   </h2>
@@ -136,7 +136,7 @@ const Snapchat = () => {
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false"
                       aria-controls="collapseSix">
-                      <img src="./assets/child_logos/solve.png" className="mr-[10px]" alt="" />
+                      
                       <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Do you just accept customer reviews?</h5>
                     </button>
                   </h2>
@@ -153,7 +153,7 @@ const Snapchat = () => {
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false"
                       aria-controls="collapseSeven">
-                      <img src="./assets/child_logos/solve.png" className="mr-[10px]" alt="" />
+                      
                       <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Do you edit the content of the reviews?</h5>
                     </button>
                   </h2>

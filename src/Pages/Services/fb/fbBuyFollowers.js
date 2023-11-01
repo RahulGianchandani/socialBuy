@@ -92,7 +92,7 @@ const FbBuyFollowers = () => {
           </ul>
         </div>
 
-        <h2 className='text-center h2 mb-10'>Our Other <span className="text-brand">Instagram</span> Services: </h2>
+        <h2 className='text-center h2 mb-10'>Our Other <span className="text-brand">Facebook</span> Services: </h2>
         <div className='container max-w-[1300px] px-14'>
           <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
             <div className="btn-group ">
@@ -202,15 +202,28 @@ const FbBuyFollowers = () => {
                     <button className="accordion-button border bg-[white]   border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px] " type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false"
                       aria-controls="collapseOne">
-                      <img src="./assets/child_logos/Thinking.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How do we guarantee that our reviews are genuine?</h5>
+                      
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why are Facebook Followers Important?</h5>
                     </button>
                   </h2>
                   <div id="collapseOne" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>A problem that a lot of people face in this industry is whether the reviews are authentic or not. These days, it is all too easy for companies to produce fake reviews, that they can then feature on their website, and claim are genuine. This is obviously going to make them look good in the short term, but in the long term, it is going to be their downfall, because eventually, their clients will discover the sham, and they will lose their reputation, along with their existing clients. We guarantee that our client reviews are genuine, because we only accept reviews from real clients, and we never ask our clients to say good things about our features. We simply work on producing premium quality features from our end so that our clients are naturally inclined to want to send us positive feedback, which can then help you determine whether you want to work with us or not. We go to great lengths to avoid anything that appears to be less than completely authentic, because we don't want to share disingenuous reviews on our website, that could lead you astray.</p>
-                      </div>
+                      <div class="panel show"><p dir="ltr" ><span >Facebook is a popular social networking site that has become one of the world's largest and most influential social media networks.</span></p>
+                        <p dir="ltr" ><span >If you want to be successful on Facebook, you must understand the value of having many followers.&nbsp;</span></p>
+                        <p dir="ltr" ><span >However, gaining the necessary followers is difficult. So, what are your options?</span></p>
+
+                        <p dir="ltr" ><span >On Facebook, users can build personal profiles, interact with friends and relatives, and post things they find interesting, such as photos, videos, and status updates.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Users can interact with content by liking, commenting, and sharing, creating connections and discussions.</span></p>
+
+                        <p dir="ltr" ><span >Facebook Followers are an important part of developing a solid online presence and boosting the reach of your Facebook profile or page.&nbsp;</span></p>
+
+                        <p dir="ltr" ><span >Facebook followers are crucial because they extend your audience reach, raise your visibility, provide evidence of value, promote connection and conversation, and create marketing opportunities.</span></p>
+                        <p dir="ltr" ><span >The number of Facebook followers determines the value of your product. Seeing many followers on your page provides a positive impression and can encourage them to follow your page or even become customers.</span></p>
+                        <p dir="ltr" ><span >To promote products, brands often work with influencers or partner with pages with a large following. With many followers, you can become a tempting partner for such partnerships, improving your possibilities of advertising your Facebook presence.</span></p>
+                        <p dir="ltr" ><span >Many individuals and businesses finding it hard to promote their products can benefit from our service because buying Facebook followers fools Facebook into recommending your content to the audience.&nbsp;</span></p>
+                        <p dir="ltr" ><span >If you buy real active Facebook followers, you can focus more on making your content more exciting so that the new followers can have a lasting effect on your profile.</span></p>
+
+                        <p dir="ltr" ><span >With Facebook's vast user base, the results are outstanding. Using our service will help you get those wanted results.</span></p></div>
                     </div>
                   </div>
                 </div>
@@ -218,34 +231,62 @@ const FbBuyFollowers = () => {
                 <div className="accordion-item   duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
-                      data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
-                      aria-controls="collapseThree">
+                      data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
+                      aria-controls="collapseTwo">
                       <img src="./assets/child_logos/stctr.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Do we accept all different types of feedback?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Advantages of Buying Facebook Followers</h5>
                     </button>
                   </h2>
-                  <div id="collapseThree" className="accordion-collapse collapse show show" >
+                  <div id="collapseTwo" className="accordion-collapse collapse show show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>We are more than happy to accept all kinds of different feedback, given our existing reputation and history. We don't want to just receive positive feedback, because this isn't prudent to our progress as a company. Our mission is to not only provide the best quality features for our clients, but we also want to be able to listen to our client’sneeds andmake adjustments where necessary. This is why we are more than happy to accept both positive and negative reviews, so that we can be moving forward as a company and providing our clients with the best experience possible. We might not necessarily feature all of our negative feedback on our website, especially if we have taken constructive criticism on board, and then applied it directly to our features in order to improve them. You are more than welcome to get in touch with us to if you have any further questions about the type of feedback that you can send through to us.</p>
-                      </div>
+                      <div class="panel show">
+                        <p dir="ltr" ><span >The positive aspects of using our service to buy targeted Facebook followers can undoubtedly aid you in achieving your goals. Therefore, here are a few of the most important advantages.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Enhanced Social Proof</span></h3>
+                        <p dir="ltr" ><span >One of the key benefits of purchasing Facebook followers is the quick increase in social proof. Social proof is a psychological process in which people make decisions based on the actions and opinions of others.&nbsp;</span></p>
+                        <p dir="ltr" ><span >When you increase Facebook followers, you rapidly enhance your follower count, giving you the appearance of popularity, quality, and reliability of your company or page.</span></p>
+                        <p dir="ltr" ><span >This increased social proof can help you gain many new followers who are more likely to interact with your content, share it with others, and make a difference in your success.&nbsp;</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Saving Time and Effort</span></h3>
+                        <p dir="ltr" ><span >Building an effective Facebook following is a long-term process that takes a lot of effort and constant connection with the audience.&nbsp;</span></p>
+                        <p dir="ltr" ><span >By purchasing Facebook followers, you skip the early stage and immediately develop a follower base. This may be viewed as a quick way to increase your following count without investing much money.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Doing this allows individuals or businesses to give more attention to other parts of their online activity, such as content. Having more time and energy to create engaging content can result in a more exciting social media presence.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Increased Business Opportunities&nbsp;</span></h3>
+                        <p dir="ltr" ><span >Businesses need every advantage to stand out and attract potential clients. Every business wants to use Facebook to promote their product to larger audiences.</span></p>
+                        <p dir="ltr" ><span >Companies often seek partnerships with Facebook pages with a higher follower base, so purchasing Facebook followers makes you more likely to be chosen by a big company for a partnership.</span></p>
+                        <p dir="ltr" ><span >Facebook's algorithms can analyze your followers' features and interests, allowing businesses to customize their advertising tactics and improve their earnings.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Expanding Your Contents Reach and Visibility</span></h3>
+                        <p dir="ltr" ><span >You may significantly boost your reach and visibility by purchasing Facebook followers. A higher follower count raises the chances of your work being noticed by a larger audience.</span></p>
+                        <p dir="ltr" ><span >With more followers, your content is more likely to show up in their newsfeed, improving the chances of engagement, shares, likes, and reach. You have the opportunity to gain genuine clients who are genuinely interested in your work as your content spreads through the social media network.</span></p>
+
+                        <p dir="ltr" ><span >Purchasing Facebook followers ensures that your video will get more views, but it's your job to create valuable content for the viewers.</span></p></div>
                     </div>
                   </div>
                 </div>
                 <div className="accordion-item   duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
-                      data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
-                      aria-controls="collapseFive">
+                      data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
+                      aria-controls="collapseThree">
                       <img src="./assets/child_logos/user-plus-bottom.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How do we vet our reviews?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Comparing Facebook Followers, Likes, and Shares</h5>
                     </button>
                   </h2>
-                  <div id="collapseFive" className="accordion-collapse collapse show" >
+                  <div id="collapseThree" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>As well as having a team of experts that work on developing our features for us consistently, we also make sure to have members of our team that are vetting all of the reviews that we receive, so that we can make sure that we are only featuring genuine reviews on our website about our features. Our team ensures that the reviews that we receive are not only genuine, but are relevant to our features, and aren't generic in any way. There is the risk in this industry that a bot, or automated software has come up with a generic review, that has nothing to do with the validity, or the reputation of our features. This is why it is really important for us to provide our clients with the guarantee that we vet all of our reviews, so that you can feel confident that the reviews you read above have a high level of relevance to our features, andreflect what you can expect when it comes to working with us.</p>
-                      </div>
+                      <div class="panel show"><p dir="ltr" ><span >Facebook offers many tools for measuring interaction and popularity. Followers, likes, and shares are all crucial metrics to consider when determining the success of your Facebook presence.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >How vital are likes?</span></h3>
+                        <p dir="ltr" ><span >Likes are the number of people who have expressed their support for your work by clicking the like button. When a user likes your content, it may appear in their friends' newsfeeds, exposing your brand to a larger audience.</span></p>
+                        <p dir="ltr" ><span >A large number of likes creates a positive view of your content. It shows popularity, and it relates to the idea of social proof.</span></p>
+                        <p dir="ltr" ><span >They can serve as a starting point for further interaction. Users who like your content will likely leave feedback, share, or explore your page, resulting in deeper connections and higher engagement.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >The Impact of Shares</span></h3>
+                        <p dir="ltr" ><span >Shares on Facebook represent that your content is useful enough for someone to share it with their own network.&nbsp;</span></p>
+                        <p dir="ltr" ><span >When a person shares your content, it displays it on their timeline, potentially reaching an entirely new audience.</span></p>
+                        <p dir="ltr" ><span >They also provide a sense of approval and trust. When somebody shares your content, it shows they appreciate it and want others to benefit. Gaining respect and influence is the result of this recommendation.</span></p>
+                        <p dir="ltr" ><span >Shares can aid in developing an awareness of the community around your work. Users that interact with your postings may share them with their own networks, forming a network of others interested in your business or ideas.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >The Power of Followers</span></h3>
+                        <p dir="ltr" ><span >The most valuable measure is followers, which reflect a loyal and engaged audience that supports long-term engagement, improves your influence, and becomes an effective tool for brand promotion.</span></p>
+                        <p dir="ltr" ><span >A large number of followers increases your impact and reliability. Your postings will reach a larger audience as your follower base increases, and your brand will earn a reputation and respect in your field of business.</span></p>
+
+                        <p dir="ltr" ><span >Followers often become supporters of the company, promoting your content to their network. Their loyalty and interest might result in massive growth as they recommend your page to others, expanding your reach further.</span></p></div>
                     </div>
                   </div>
                 </div>
@@ -254,34 +295,53 @@ const FbBuyFollowers = () => {
                 <div className="accordion-item   duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
-                      data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
-                      aria-controls="collapseTwo">
+                      data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
+                      aria-controls="collapseFour">
                       <img src="./assets/child_logos//brain.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">How do we determine the validity of our reviews?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Is it Safe to Buy Facebook Followers?</h5>
                     </button>
                   </h2>
-                  <div id="collapseTwo" className="accordion-collapse collapse show" >
+                  <div id="collapseFour" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel">
-                        <p className='text-center'>The validity of our reviews is really important to us, which is why we make sure that every review we receive is the real deal. We achieve this by looking into the people that leave the reviews; this includes looking into the profile of the person who has left the review, and ensuring that they are who they claim to be. We don't accept reviews from fake profiles, just like we don't accept reviews from automated software, that is producing a generic review. We want to make sure that you are reading valid reviews, that accurately reflect the experience our existing clients have had with our features.</p>
-                      </div>
+                      <div class="panel show">
+                        <p dir="ltr" ><span >In response to this essential question, we are confident that our services pose no risk to your account.</span></p>
+                        <p dir="ltr" ><span >We consider privacy seriously and aim to deliver our clients a safe and secure experience.</span></p>
+                        <p dir="ltr" ><span >We can offer you our services without any danger since we respect Facebook's Terms and Conditions. Your Facebook account will not be blocked or terminated because it does not violate any rules.&nbsp;</span></p>
+                        <p dir="ltr" ><span >Please keep in mind that Facebook's regulations are easily changed if the board of directors decides to do so, and we'll be ready to change our services as needed.</span></p>
+                        <p dir="ltr" ><span >Please remember that we do not use bots. We use real active Facebook followers!</span></p>
+                        <p dir="ltr" ><span >Your information will not be shared with anyone when you buy active Facebook followers, as we do it strictly from client to client and use safe and secure payment.</span></p>
+                        <p dir="ltr" ><span >When buying real active Facebook followers, you will not be encouraged to provide any personal information not needed to complete the purchase. Every purchase will be made through the website, and we ensure no financial information is compromised.</span></p>
+                        <p dir="ltr" ><span >You can be confident that your information is in good hands with us. We take your information extremely seriously and ensure no one knows you bought followers.</span></p>
+                        <p dir="ltr" ><span >We will go against what our company stands for if we break our promise to make your experience as safe as possible.</span></p>
+
+                        <p dir="ltr" ><span >If you have additional questions about the safety or security of your Facebook profile, please reach out to our customer service. They are more than willing to answer any questions you may have.</span></p></div>
                     </div>
                   </div>
                 </div>
                 <div className="accordion-item   duration-500 border-0 mb-[20px] ">
                   <h2 className="accordion-header">
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
-                      data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
-                      aria-controls="collapseFour">
+                      data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
+                      aria-controls="collapseFive">
                       <img src="./assets/child_logos/creative.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">What can I expect from your customer support?</h5>
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm ">Why Should You Choose UseViral to Buy Facebook Followers?</h5>
                     </button>
                   </h2>
-                  <div id="collapseFour" className="accordion-collapse collapse show" >
+                  <div id="collapseFive" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>You're probably wondering what you can expect when it comes to our customer support when working with us. Here at UseViral, we are determined to provide our clients with the best experience possible when it comes to our customer support, which is why we have a dedicated team of professionals behind the scenes that are working constantly not only on our features, but on being able to provide you with some of the best customer support you'll experience in the industry. This way, you're going to be able to talk to us directly about any issues you might be having with our features and you won't have to wait in a long line to be seen. You'll be able to have a personal experience with us, and you will feel like you are really taken care of.</p>
-                      </div>
+                      <div class="panel show"><p dir="ltr" ><span >UseViral has developed a virtual platform that provides a reliable and effective solution for purchasing Facebook followers.&nbsp;</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Exceptional Customer Service</span></h3>
+                        <p dir="ltr" ><span >Buying Facebook followers from a site like UseViral should be a simple process. UseViral provides excellent customer service to ensure a smooth procedure from start to finish.</span></p>
+                        <p dir="ltr" ><span >Our team of skilled professionals is ready to answer all your questions, provide advice, and address any concerns you may have.&nbsp;</span></p>
+                        <p dir="ltr" ><span >With our help, you can finish the entire process with trust and ease.</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Secure and Confidential</span></h3>
+                        <p dir="ltr" ><span >You must point out the secrecy and security of your account when purchasing Facebook followers.&nbsp;&nbsp;</span></p>
+                        <p dir="ltr" ><span >We recognize your concern and take strict steps to secure your privacy. We use standard security and ethical standards to protect your personal information.</span></p>
+                        <p dir="ltr" ><span >You can safely build your Facebook following with UseViral while maintaining the security of your account.&nbsp;</span></p>
+                        <h3 dir="ltr" className="h3 font-bold"  className="h3 font-bold"><span >Years of Experience in the Industry</span></h3>
+                        <p dir="ltr" ><span >One of the key reasons to choose UseViral is its significant industry experience, ten years in this business. With this experience, UseViras has gained a solid awareness of social media trends and customer needs.</span></p>
+
+                        <p dir="ltr" ><span >Our work allows us to deliver a high degree of knowledge, guaranteeing that our services are reliable, efficient, and adapted to the unique needs of purchasing Facebook followers.</span></p></div>
                     </div>
                   </div>
                 </div>
@@ -291,15 +351,46 @@ const FbBuyFollowers = () => {
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false"
                       aria-controls="collapseSix">
-                      <img src="./assets/child_logos/solve.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Do you just accept customer reviews?</h5>
+                      
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How to Buy Facebook Followers with UseViral</h5>
                     </button>
                   </h2>
                   <div id="collapseSix" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>Anybody can leave a review about our features on our website, but as far as what we prefer, it is better for us to accept reviews that have been left by existing clients. This way, you can get an accurate representation of the experience you might have if you were to sign up for our features. We want you to be able to read first-hand how other people have experienced our features and our reputation in the industry, so that we are able to have a good working relationship with you going forward.</p>
-                      </div>
+                      <div class="panel show"><p dir="ltr" ><span >If you have difficulties using our website, you can purchase Facebook followers by following this carefully designed and detailed tutorial.</span></p>
+
+                        <ol >
+                          <li dir="ltr" aria-level="1">
+                            <p dir="ltr" role="presentation"><span >Begin by using your favorite web browser to access the official UseViral website. </span></p>
+                          </li>
+                          <li dir="ltr" aria-level="1">
+                            <p dir="ltr" role="presentation"><span >Navigate to the services part of the UseViral website or explicitly search for TikTok followers. Look for a plan that meets your needs for TikTok followers.&nbsp;</span></p>
+                          </li>
+                          <li dir="ltr" aria-level="1">
+                            <p dir="ltr" role="presentation"><span >Choose the option that best meets your demands regarding the number of followers you want to buy. Consider your budget, objectives, and desired level of growth.</span></p>
+                          </li>
+                          <li dir="ltr" aria-level="1">
+                            <p dir="ltr" role="presentation"><span >Some service providers include customization options, such as selecting the delivery speed or other unique requirements. Make changes to the parameters to suit your needs.&nbsp;</span></p>
+                          </li>
+                          <li dir="ltr" aria-level="1">
+                            <p dir="ltr" role="presentation"><span >Add the desired package to your cart once you've decided on it. To complete your purchase, proceed to the checkout page.&nbsp;</span></p>
+                          </li>
+                          <li dir="ltr" aria-level="1">
+                            <p dir="ltr" role="presentation"><span >Enter your TikTok profile information, such as your username or profile link. Ensure that your order is processed smoothly and that the information is correct.&nbsp;</span></p>
+                          </li>
+                          <li dir="ltr" aria-level="1">
+                            <p dir="ltr" role="presentation"><span >Fill in the blanks with your name, email address, and payment information. To avoid problems with order processing, make sure the information is correct.&nbsp;</span></p>
+                          </li>
+                          <li dir="ltr" aria-level="1">
+                            <p dir="ltr" role="presentation"><span >Check the order information and the total amount to be paid again. Use the payment methods given by UseViral to complete the payment process.&nbsp;</span></p>
+                          </li>
+                          <li dir="ltr" aria-level="1">
+                            <p dir="ltr" role="presentation"><span >UseViral will begin processing your order once your money has been properly processed. The delivery time may vary depending on the shipment and the service provider. Be patient, as the followers may take some time to appear on your TikTok page.&nbsp;</span></p>
+                          </li>
+                          <li dir="ltr" aria-level="1">
+                            <p dir="ltr" role="presentation"><span >Once the followers are sent, keep an eye on the development and engagement of your TikTok profile. Examine the impact of the acquired followers and determine whether they align with your aims and expectations.</span></p>
+                          </li>
+                        </ol></div>
                     </div>
                   </div>
                 </div>
@@ -308,22 +399,144 @@ const FbBuyFollowers = () => {
                     <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
                       data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false"
                       aria-controls="collapseSeven">
-                      <img src="./assets/child_logos/solve.png" className="mr-[10px]" alt="" />
-                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Do you edit the content of the reviews?</h5>
+                      
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How does UseViral function?</h5>
                     </button>
                   </h2>
                   <div id="collapseSeven" className="accordion-collapse collapse show" >
                     <div className="accordion-body border border-[#eee]">
-                      <div className="panel show">
-                        <p className='text-center'>We want to be as upfront and honest with our clients as possible, especially from the beginning. This way, you can feel confident that you're going to be able to have a good working relationship with us in the future going forward. One of the ways that we achieve this is by accepting all the reviews that we receive and avoiding editing any of the content of the reviews. As we've already talked about, if we receive a negative review, we apply this directly to our features, so that they can be approved upon, so while you might not necessarily see all of the negative reviews that we receive, we strive to maintain as much transparency and honesty with our clients as possible. We want our existing clients to be able to communicate exactly how they feel about our features, which is why we don't edit the content of the reviews that you see above.</p>
+                      <div class="panel show"><p dir="ltr" ><span >Our staff comprises highly skilled specialists with different tactics for increasing followers based on the information you provide.</span></p>
+                        <p dir="ltr" ><span >We sell Facebook followers that are authentic accounts that will never leave your profile.</span></p>
+
+                        <p dir="ltr" ><span >We'll discover the followers for you, and they'll appear on your account in hours or weeks, depending on how quickly or slowly you want them.</span></p></div>
+                    </div>
+                  </div>
+                </div>
+                <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                  <h2 className="accordion-header">
+                    <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                      data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false"
+                      aria-controls="collapseEight">
+                      
+                      <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Can I Buy Facebook followers from UseViral for someone else?</h5>
+                    </button>
+                  </h2>
+                  <div id="collapseEight" className="accordion-collapse collapse show" >
+                    <div className="accordion-body border border-[#eee]">
+                      <div class="panel show"><p dir="ltr" ><span >Yes, you can! You can also use UseViral to grow your and your friends' Facebook followers!</span></p>
+                        <p dir="ltr" ><span >Because we do not require your login information, you may purchase Facebook followers easily for an account if you only know their username.&nbsp;</span></p>
+
+                        <p dir="ltr" ><span >Many of our customers wish to expand many Facebook profiles simultaneously. That's why we gave you this choice. Our primary focus is on the goals of our clients!</span></p></div>
+                    </div>
+                  </div>
+                  <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                    <h2 className="accordion-header">
+                      <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                        data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false"
+                        aria-controls="collapseNine">
+                        
+                        <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Can I track the progress of my Facebook follow orders?</h5>
+                      </button>
+                    </h2>
+                    <div id="collapseNine" className="accordion-collapse collapse show" >
+                      <div className="accordion-body border border-[#eee]">
+                        <div class="panel show"><p dir="ltr" ><span >You definitely can! We recognize how important it is to keep track of the followers you've purchased or any other service you've utilized from us.</span></p>
+                          <p dir="ltr" ><span >Look at the "Check Order" section of our website. You will be taken to a page where you can confirm and track the status of your order. The status of your order will be disclosed after providing your email address and order ID.</span></p>
+
+                          <p dir="ltr" ><span >Please contact our customer support staff for any further queries regarding purchasing Facebook followers!</span></p></div>
                       </div>
+                    </div>
+                    <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                      <h2 className="accordion-header">
+                        <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                          data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false"
+                          aria-controls="collapseTen">
+                          
+                          <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">Does UseViral offer discounts or promotions for bulk purchases of Facebook followers?</h5>
+                        </button>
+                      </h2>
+                      <div id="collapseTen" className="accordion-collapse collapse show" >
+                        <div className="accordion-body border border-[#eee]">
+                          <div class="panel show"><p dir="ltr" ><span >We most certainly do! When you visit our website, you will be shown the price of the chosen package and whether there is a discount.</span></p>
+                            <p dir="ltr" ><span >Our services and packages now have a 25% discount. We aim to provide the best service possible to our clients at fair pricing that most people can afford.&nbsp;</span></p>
+
+                            <p dir="ltr" ><span >Check out all of our packages, and if you have any further questions about purchasing Facebook followers, please contact our customer service team!</span></p></div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false"
+                            aria-controls="collapseEleven">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">What payment methods does UseViral accept?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseEleven" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p dir="ltr" ><span >Of course, when it comes to personal and banking information, privacy and security are vital components of our operation.</span></p>
+                              <p dir="ltr" ><span >We understand the value of data privacy in today's environment. As a result, when working with your data, we use modern encryption technology.</span></p>
+                              <p dir="ltr" ><span >Suppose you're concerned about the safety of your personal and financial information. In that situation, you should contact the provider's customer service representatives for additional reassurance and to solve specific questions or problems you may be experiencing.</span></p>
+
+                              <p dir="ltr" ><span >When our customers buy Facebook followers cheap from UseViral, we want them to feel safe. As a result, your personal information is always kept private and secure.</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false"
+                            aria-controls="collapseTwelve">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How long will it take to receive the purchased followers?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseTwelve" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p dir="ltr" ><span >By providing a variety of ways to pay, UseViral aims to provide a fast and comfortable experience for our clients.&nbsp;</span></p>
+                              <p dir="ltr" ><span >We understand that everyone has a favored payment option. As a result, we provide secure and reliable payment alternatives.&nbsp;</span></p>
+                              <p dir="ltr" ><span >If you wish to purchase our services, you can do so easily by using any of the payment methods listed below:</span></p>
+
+                              <ol >
+                                <li dir="ltr" aria-level="1">
+                                  <p dir="ltr" role="presentation"><span >UseViral accepts major credit and debit cards such as Visa, American Express, Mastercard, and Discover. During checkout, we only need your credit card information, and our secure payment system will handle the rest.</span></p>
+                                </li>
+                                <li dir="ltr" aria-level="1">
+                                  <p dir="ltr" role="presentation"><span >A popular and reliable online payment service, PayPal provides a secure payment process. If you already have a PayPal account, link it to your UseViral purchase and finish the transaction.</span></p>
+                                </li>
+                                <li dir="ltr" aria-level="1">
+                                  <p dir="ltr" role="presentation"><span >Cryptocurrencies: In an effort to stay up-to-date with new payment methods, we also accept notable Cryptocurrencies, such as Bitcoin (BTC), and Ethereum (ETH).&nbsp;</span></p>
+                                </li>
+                              </ol></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="accordion-item   duration-500 border-0 mb-[20px] ">
+                        <h2 className="accordion-header">
+                          <button className="accordion-button border  bg-[white]  border-[#eee] hover:bg-[#444] !px-[30px] !py-[20px]  " type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false"
+                            aria-controls="collapseThirteen">
+                            
+                            <h5 className=" mb-0   font-bold text-[20px] text-[#444] max-sm:text-sm">How swiftly can you anticipate delivery when buying YouTube likes from UseViral?</h5>
+                          </button>
+                        </h2>
+                        <div id="collapseThirteen" className="accordion-collapse collapse show" >
+                          <div className="accordion-body border border-[#eee]">
+                            <div class="panel show"><p dir="ltr" ><span >That depends entirely on your strategy for purchasing Facebook followers.&nbsp;</span></p>
+                              <p dir="ltr" ><span >Our services are perfect since you may personalize the distribution of your followers!</span></p>
+                              <p dir="ltr" ><span >If you need all of your followers at once, you could provide them all at once. The same is true for the progressive strategy; we will do it if you like to gain followers gradually.</span></p>
+
+                              <p dir="ltr" ><span >Please remember that the more detailed your package and the number of followers you buy, the longer it will take for them to appear on your profile!</span></p></div>
+                          </div>
+                        </div>
+                      </div>
+
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-
         </div>
       </div>
     </div>
